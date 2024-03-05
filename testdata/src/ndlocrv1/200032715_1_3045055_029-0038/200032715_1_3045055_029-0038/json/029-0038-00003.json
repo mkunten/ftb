@@ -1,0 +1,304 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          4421,
+          514
+        ],
+        [
+          4421,
+          2383
+        ],
+        [
+          4631,
+          514
+        ],
+        [
+          4631,
+          2383
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "大黒長左常信家の集なと一冊",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4372,
+          1704
+        ],
+        [
+          4372,
+          2268
+        ],
+        [
+          4481,
+          1704
+        ],
+        [
+          4481,
+          2268
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "右京大夫集",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2676,
+          825
+        ],
+        [
+          2676,
+          4182
+        ],
+        [
+          2952,
+          825
+        ],
+        [
+          2952,
+          4182
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "とむる事なれ是は極めさにはあらす",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2909,
+          803
+        ],
+        [
+          2909,
+          4169
+        ],
+        [
+          3212,
+          803
+        ],
+        [
+          3212,
+          4169
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "家の集なといひて哥より人こそかきと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2431,
+          803
+        ],
+        [
+          2431,
+          4224
+        ],
+        [
+          2709,
+          803
+        ],
+        [
+          2709,
+          4224
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "只念にもかなしくもなかことなく忘れ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2193,
+          819
+        ],
+        [
+          2193,
+          4217
+        ],
+        [
+          2457,
+          819
+        ],
+        [
+          2457,
+          4217
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "かたくおほゆることゝものそのおり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1922,
+          810
+        ],
+        [
+          1922,
+          4295
+        ],
+        [
+          2220,
+          810
+        ],
+        [
+          2220,
+          4295
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "ふと心におほえしを思ひいてらるゝまこ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1666,
+          803
+        ],
+        [
+          1666,
+          4195
+        ],
+        [
+          1935,
+          803
+        ],
+        [
+          1935,
+          4195
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "にわかめ日とつか見むとてかきをく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1476,
+          806
+        ],
+        [
+          1476,
+          1267
+        ],
+        [
+          1583,
+          806
+        ],
+        [
+          1583,
+          1267
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "なり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1133,
+          1051
+        ],
+        [
+          1133,
+          4172
+        ],
+        [
+          1415,
+          1051
+        ],
+        [
+          1415,
+          4172
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "我ならて強か君と見つくき洛",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          886,
+          1084
+        ],
+        [
+          886,
+          3893
+        ],
+        [
+          1121,
+          1084
+        ],
+        [
+          1121,
+          3893
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "あともし未滋かにのこるとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          599,
+          824
+        ],
+        [
+          599,
+          4131
+        ],
+        [
+          880,
+          824
+        ],
+        [
+          880,
+          4131
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "高倉の院の御位のころ承安四年なり",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

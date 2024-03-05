@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3533,
+          1175
+        ],
+        [
+          3533,
+          2823
+        ],
+        [
+          3661,
+          1175
+        ],
+        [
+          3661,
+          2823
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "思ひきや待し軒はのさくらはな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3408,
+          1180
+        ],
+        [
+          3408,
+          2673
+        ],
+        [
+          3521,
+          1180
+        ],
+        [
+          3521,
+          2673
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "たゝ一枝をつてにみんとは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3257,
+          1202
+        ],
+        [
+          3257,
+          2767
+        ],
+        [
+          3387,
+          1202
+        ],
+        [
+          3387,
+          2767
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "いかに又みるにあはれの色そひて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3128,
+          1177
+        ],
+        [
+          3128,
+          2740
+        ],
+        [
+          3239,
+          1177
+        ],
+        [
+          3239,
+          2740
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "さきのこりける花のこゝろよ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2985,
+          1181
+        ],
+        [
+          2985,
+          2757
+        ],
+        [
+          3105,
+          1181
+        ],
+        [
+          3105,
+          2757
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "一えたもおりて見せすは桜はな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2840,
+          1188
+        ],
+        [
+          2840,
+          2867
+        ],
+        [
+          2962,
+          1188
+        ],
+        [
+          2962,
+          2867
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "たゝいたつらにちりそすきまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2705,
+          838
+        ],
+        [
+          2705,
+          2958
+        ],
+        [
+          2851,
+          838
+        ],
+        [
+          2851,
+          2958
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "此花を一けさあつまへ行たる人の許へふみの中に入て。お",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2596,
+          851
+        ],
+        [
+          2596,
+          1799
+        ],
+        [
+          2697,
+          851
+        ],
+        [
+          2697,
+          1799
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "なしくやるとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2448,
+          1176
+        ],
+        [
+          2448,
+          2911
+        ],
+        [
+          2569,
+          1176
+        ],
+        [
+          2569,
+          2911
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "あつまちのみちのおくにも花しあらは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2308,
+          1185
+        ],
+        [
+          2308,
+          2682
+        ],
+        [
+          2432,
+          1185
+        ],
+        [
+          2432,
+          2682
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "雲井のはるや思いつらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2202,
+          862
+        ],
+        [
+          2202,
+          1274
+        ],
+        [
+          2263,
+          862
+        ],
+        [
+          2263,
+          1274
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "ぞ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2048,
+          1172
+        ],
+        [
+          2048,
+          2875
+        ],
+        [
+          2170,
+          1172
+        ],
+        [
+          2170,
+          2875
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "いまさらにあはれそまさるこの花の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1791,
+          1203
+        ],
+        [
+          1791,
+          2704
+        ],
+        [
+          1893,
+          1203
+        ],
+        [
+          1893,
+          2704
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "おなし木すゑをなかめてしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1641,
+          871
+        ],
+        [
+          1641,
+          3000
+        ],
+        [
+          1768,
+          871
+        ],
+        [
+          1768,
+          3000
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "三月廿日夜雨ふる。中宮大夫殿かくらをうそふき給て。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1511,
+          870
+        ],
+        [
+          1511,
+          2991
+        ],
+        [
+          1623,
+          870
+        ],
+        [
+          1623,
+          2991
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "せうたるくらきあめのまとをうつこゑと。くち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1371,
+          877
+        ],
+        [
+          1371,
+          2997
+        ],
+        [
+          1495,
+          877
+        ],
+        [
+          1495,
+          2997
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "すさみ給ふ。ゑ物かたりにかきたらむことをきくやうにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1244,
+          871
+        ],
+        [
+          1244,
+          2551
+        ],
+        [
+          1353,
+          871
+        ],
+        [
+          1353,
+          2551
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "面白し。雨かせもともにはけしけれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1103,
+          1197
+        ],
+        [
+          1103,
+          2839
+        ],
+        [
+          1220,
+          1197
+        ],
+        [
+          1220,
+          2839
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "物ことにあはれすゝむるけしきにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          973,
+          1208
+        ],
+        [
+          973,
+          2793
+        ],
+        [
+          1092,
+          1208
+        ],
+        [
+          1092,
+          2793
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "秋とおほゆる雨のをとかなし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          830,
+          867
+        ],
+        [
+          830,
+          3000
+        ],
+        [
+          960,
+          867
+        ],
+        [
+          960,
+          3000
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "あくる日せいりやう殿のかたに。大納言殿へ御ともに三人いて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          698,
+          872
+        ],
+        [
+          698,
+          2993
+        ],
+        [
+          826,
+          872
+        ],
+        [
+          826,
+          2993
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "て見れは。雨風に花は跡かたなく。散てすのこに白く散し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          562,
+          1217
+        ],
+        [
+          562,
+          2885
+        ],
+        [
+          680,
+          1217
+        ],
+        [
+          680,
+          2885
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "よとゝもの雨と風とにしほられて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          421,
+          1214
+        ],
+        [
+          421,
+          2845
+        ],
+        [
+          539,
+          1214
+        ],
+        [
+          539,
+          2845
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "軒はのさくらちりはてにけり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          282,
+          871
+        ],
+        [
+          282,
+          1275
+        ],
+        [
+          387,
+          871
+        ],
+        [
+          387,
+          1275
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "大納言殿",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

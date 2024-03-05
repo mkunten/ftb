@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5739,
+          831
+        ],
+        [
+          5739,
+          4382
+        ],
+        [
+          6101,
+          831
+        ],
+        [
+          6101,
+          4382
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "なにとなくよみし哥の中に春たつ日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5483,
+          1088
+        ],
+        [
+          5483,
+          3989
+        ],
+        [
+          5750,
+          1088
+        ],
+        [
+          5750,
+          3989
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "いつしかとこほりとけ行みかは見つ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5252,
+          1112
+        ],
+        [
+          5252,
+          3926
+        ],
+        [
+          5483,
+          1112
+        ],
+        [
+          5483,
+          3926
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "行すゑとをきけさのはつはる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4987,
+          1112
+        ],
+        [
+          4987,
+          3858
+        ],
+        [
+          5244,
+          1112
+        ],
+        [
+          5244,
+          3858
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "春たつと浮鶯につけつらむ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4753,
+          1144
+        ],
+        [
+          4753,
+          3787
+        ],
+        [
+          4986,
+          1144
+        ],
+        [
+          4986,
+          3787
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "竹のふるすははるも知らせし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4492,
+          1363
+        ],
+        [
+          4492,
+          2459
+        ],
+        [
+          4708,
+          1363
+        ],
+        [
+          4708,
+          2459
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "鶯在慶音",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4198,
+          1195
+        ],
+        [
+          4198,
+          3902
+        ],
+        [
+          4433,
+          1195
+        ],
+        [
+          4433,
+          3902
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "のとかなるもかめふよのうれしさは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3936,
+          1210
+        ],
+        [
+          3936,
+          3867
+        ],
+        [
+          4188,
+          1210
+        ],
+        [
+          4188,
+          3867
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "たけの色なる声のいろにも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3722,
+          1420
+        ],
+        [
+          3722,
+          2574
+        ],
+        [
+          3948,
+          1420
+        ],
+        [
+          3948,
+          2574
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "燕月待花",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3423,
+          592
+        ],
+        [
+          3423,
+          4348
+        ],
+        [
+          3687,
+          592
+        ],
+        [
+          3687,
+          4348
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "はやにほへ心をはけてよもすから月をみるにも花をしもかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3039,
+          1477
+        ],
+        [
+          3039,
+          2435
+        ],
+        [
+          3308,
+          1477
+        ],
+        [
+          3308,
+          2435
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "往事忠",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2792,
+          1110
+        ],
+        [
+          2792,
+          4012
+        ],
+        [
+          3025,
+          1110
+        ],
+        [
+          3025,
+          4012
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "君知りてたれかたつねんつれもなき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2541,
+          1156
+        ],
+        [
+          2541,
+          3591
+        ],
+        [
+          2778,
+          1156
+        ],
+        [
+          2778,
+          3591
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "人をうひ侘いはとなるとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2282,
+          1524
+        ],
+        [
+          2282,
+          2610
+        ],
+        [
+          2517,
+          1524
+        ],
+        [
+          2517,
+          2610
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "仙家卯出",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2023,
+          1227
+        ],
+        [
+          2023,
+          3878
+        ],
+        [
+          2258,
+          1227
+        ],
+        [
+          2258,
+          3878
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "露ふかき山ちのきくをともにして",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1760,
+          1257
+        ],
+        [
+          1760,
+          3786
+        ],
+        [
+          2068,
+          1257
+        ],
+        [
+          2068,
+          3786
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "うの花さへや千世もさくへき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1511,
+          1545
+        ],
+        [
+          1511,
+          3101
+        ],
+        [
+          1748,
+          1545
+        ],
+        [
+          1748,
+          3101
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "かた丑をはつる恋",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1219,
+          1272
+        ],
+        [
+          1219,
+          3984
+        ],
+        [
+          1484,
+          1272
+        ],
+        [
+          1484,
+          3984
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "おきつなみ岩打いはのあはひかひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          967,
+          1305
+        ],
+        [
+          967,
+          3991
+        ],
+        [
+          1235,
+          1305
+        ],
+        [
+          1235,
+          3991
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "ひろひ茂ぬる名こそおしけれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          721,
+          1514
+        ],
+        [
+          721,
+          3144
+        ],
+        [
+          940,
+          1514
+        ],
+        [
+          940,
+          3144
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "曇つきのよの月",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

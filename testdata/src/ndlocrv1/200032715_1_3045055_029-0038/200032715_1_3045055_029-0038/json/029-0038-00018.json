@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5821,
+          566
+        ],
+        [
+          5821,
+          4195
+        ],
+        [
+          6113,
+          566
+        ],
+        [
+          6113,
+          4195
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "しめのうちは身をもくたかす桜花なしむを神にまかせて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5598,
+          1244
+        ],
+        [
+          5598,
+          1819
+        ],
+        [
+          5775,
+          1244
+        ],
+        [
+          5775,
+          1819
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5299,
+          581
+        ],
+        [
+          5299,
+          4256
+        ],
+        [
+          5542,
+          581
+        ],
+        [
+          5542,
+          4256
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "しめの外も花としいはん花はみな神にまかせてちら",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4983,
+          845
+        ],
+        [
+          4983,
+          4328
+        ],
+        [
+          5275,
+          845
+        ],
+        [
+          5275,
+          4328
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "この中将の君にきよつねの申ゐの物いふ□",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4786,
+          861
+        ],
+        [
+          4786,
+          4254
+        ],
+        [
+          5025,
+          861
+        ],
+        [
+          5025,
+          4254
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "きゝしを程なくおなしゑのうちなる人におもひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4519,
+          894
+        ],
+        [
+          4519,
+          3917
+        ],
+        [
+          4763,
+          894
+        ],
+        [
+          4763,
+          3917
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "うつりぬと中々しかは人のついてに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4210,
+          610
+        ],
+        [
+          4210,
+          4230
+        ],
+        [
+          4519,
+          610
+        ],
+        [
+          4519,
+          4230
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "袖の露や如何ゝこほるゝあしかきや吹わたるなる家風の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4027,
+          995
+        ],
+        [
+          4027,
+          1640
+        ],
+        [
+          4156,
+          995
+        ],
+        [
+          4156,
+          1640
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3731,
+          589
+        ],
+        [
+          3731,
+          4200
+        ],
+        [
+          3990,
+          589
+        ],
+        [
+          3990,
+          4200
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "吹はたる田に付てこ袖の露みたれてあにしあひしを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3475,
+          842
+        ],
+        [
+          3475,
+          4169
+        ],
+        [
+          3729,
+          842
+        ],
+        [
+          3729,
+          4169
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "とかく物思はせし人の殿上人なりしうろ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2781,
+          817
+        ],
+        [
+          2781,
+          4189
+        ],
+        [
+          3019,
+          817
+        ],
+        [
+          3019,
+          4189
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "すはふかくたねむすひたるはかひともを色",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3018,
+          803
+        ],
+        [
+          3018,
+          4226
+        ],
+        [
+          3304,
+          803
+        ],
+        [
+          3304,
+          4226
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "ちゝおとゝ□御ともそすみよしにまうてゝ帰て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2531,
+          789
+        ],
+        [
+          2531,
+          4249
+        ],
+        [
+          2765,
+          789
+        ],
+        [
+          2765,
+          4249
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "にいれて上に忘草をゝきてそのかはなた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2285,
+          821
+        ],
+        [
+          2285,
+          3948
+        ],
+        [
+          2514,
+          821
+        ],
+        [
+          2514,
+          3948
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "のうす聞にかきて結ひ付られたりし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1889,
+          575
+        ],
+        [
+          1889,
+          4229
+        ],
+        [
+          2239,
+          575
+        ],
+        [
+          2239,
+          4229
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "慎てもかひしなけれは法見の江かゝりもふらふ筆をまつねてける",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1707,
+          1248
+        ],
+        [
+          1707,
+          4209
+        ],
+        [
+          1952,
+          1248
+        ],
+        [
+          1952,
+          4209
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "返し秋海事なりしかはうみちのうす聞て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1462,
+          575
+        ],
+        [
+          1462,
+          4234
+        ],
+        [
+          1695,
+          575
+        ],
+        [
+          1695,
+          4234
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "す見の江の筆をは人の心かて我そかひなき月を照ぬる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1193,
+          782
+        ],
+        [
+          1193,
+          4195
+        ],
+        [
+          1424,
+          782
+        ],
+        [
+          1424,
+          4195
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "天皇大弘宮よりおはしろ酌御絵ともを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          926,
+          792
+        ],
+        [
+          926,
+          4217
+        ],
+        [
+          1179,
+          792
+        ],
+        [
+          1179,
+          4217
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "中空の御方へましせさを給へりしなかに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          665,
+          810
+        ],
+        [
+          665,
+          4265
+        ],
+        [
+          937,
+          810
+        ],
+        [
+          937,
+          4265
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "てゝのもとに人の手なひらてとてこと葉かゝせ",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

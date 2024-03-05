@@ -1,0 +1,9 @@
+ResetES = false
+ESAddresses = ["http://localhost:9200"]
+IndexName = "text"
+MecabDir = "/usr/lib/x86_64-linux-gnu/mecab/dic"
+BulkSourceDir = "/home/mkunten/Downloads/dev/ocr/v3"
+BulkWorkerNum = 4
+BulkESUnitNum = 5000
+IsBulkSubdir = true
+AbortOnError = true

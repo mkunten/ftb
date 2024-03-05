@@ -1,0 +1,629 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3520,
+          1209
+        ],
+        [
+          3520,
+          3005
+        ],
+        [
+          3641,
+          1209
+        ],
+        [
+          3641,
+          3005
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "ことの葉をわか身にあら心地してけによにしらぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3377,
+          1199
+        ],
+        [
+          3377,
+          3018
+        ],
+        [
+          3499,
+          1199
+        ],
+        [
+          3499,
+          3018
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "有明の月にこゝむるおもかけの名こりまてこそ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3248,
+          1216
+        ],
+        [
+          3248,
+          1646
+        ],
+        [
+          3350,
+          1216
+        ],
+        [
+          3350,
+          1646
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "わすれかねぬれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3095,
+          1211
+        ],
+        [
+          3095,
+          2812
+        ],
+        [
+          3210,
+          1211
+        ],
+        [
+          3210,
+          2812
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "ことの葉にいかにいひてもかひそなき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2962,
+          1207
+        ],
+        [
+          2962,
+          2696
+        ],
+        [
+          3091,
+          1207
+        ],
+        [
+          3091,
+          2696
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "あらはれぬへきこゝろならねは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2843,
+          890
+        ],
+        [
+          2843,
+          1467
+        ],
+        [
+          2943,
+          890
+        ],
+        [
+          2943,
+          1467
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "返事に少将",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2699,
+          1226
+        ],
+        [
+          2699,
+          3010
+        ],
+        [
+          2830,
+          1226
+        ],
+        [
+          2830,
+          3010
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "ひさかたの月のかつらのかけにしもときしもあれと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2567,
+          1215
+        ],
+        [
+          2567,
+          2999
+        ],
+        [
+          2687,
+          1215
+        ],
+        [
+          2687,
+          2999
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "ほとゝきす一声なのる有明の月けのこまに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2441,
+          1212
+        ],
+        [
+          2441,
+          3013
+        ],
+        [
+          2551,
+          1212
+        ],
+        [
+          2551,
+          3013
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "まかせつゝいとかしこき玉つさをひとりある庭の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2289,
+          1222
+        ],
+        [
+          2289,
+          3010
+        ],
+        [
+          2423,
+          1222
+        ],
+        [
+          2423,
+          3010
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "しるへにてたつねしの草ふかみふかきなさけを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2162,
+          1220
+        ],
+        [
+          2162,
+          3017
+        ],
+        [
+          2283,
+          1220
+        ],
+        [
+          2283,
+          3017
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "つたへしに心もとにあまるうれしさはよそまてもけに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2025,
+          1220
+        ],
+        [
+          2025,
+          3016
+        ],
+        [
+          2157,
+          1220
+        ],
+        [
+          2157,
+          3016
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "しら雲のたえまに日影ほのめきてあさをく露の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1737,
+          1210
+        ],
+        [
+          1737,
+          2982
+        ],
+        [
+          1849,
+          1210
+        ],
+        [
+          1849,
+          2982
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "たまほこのみち行人のくれはとりあやしきまてに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1591,
+          1217
+        ],
+        [
+          1591,
+          2982
+        ],
+        [
+          1713,
+          1217
+        ],
+        [
+          1713,
+          2982
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "いそきつるそのかひありて千はやふるかみしもともに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1470,
+          1204
+        ],
+        [
+          1470,
+          2987
+        ],
+        [
+          1582,
+          1204
+        ],
+        [
+          1582,
+          2987
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "おき打つゝまつにつけてはすみよしのきしにおふなる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1335,
+          1209
+        ],
+        [
+          1335,
+          2984
+        ],
+        [
+          1457,
+          1209
+        ],
+        [
+          1457,
+          2984
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "草のなのわすれかたのおもひてやこれあらはれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1212,
+          1205
+        ],
+        [
+          1212,
+          1297
+        ],
+        [
+          1292,
+          1205
+        ],
+        [
+          1292,
+          1297
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "獄",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1202,
+          1658
+        ],
+        [
+          1202,
+          2990
+        ],
+        [
+          1306,
+          1658
+        ],
+        [
+          1306,
+          2990
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "なかいかにうらみまし心にこむる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1065,
+          1195
+        ],
+        [
+          1065,
+          1628
+        ],
+        [
+          1180,
+          1195
+        ],
+        [
+          1180,
+          1628
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "わすれかたみを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          926,
+          869
+        ],
+        [
+          926,
+          1857
+        ],
+        [
+          1029,
+          869
+        ],
+        [
+          1029,
+          1857
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "内侍との少将にことつけ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          780,
+          1187
+        ],
+        [
+          780,
+          2868
+        ],
+        [
+          909,
+          1187
+        ],
+        [
+          909,
+          2868
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "時してあれみかきににほふたちはなの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          651,
+          1192
+        ],
+        [
+          651,
+          2759
+        ],
+        [
+          779,
+          1192
+        ],
+        [
+          779,
+          2759
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "風につけても人のとへかし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          511,
+          874
+        ],
+        [
+          511,
+          1349
+        ],
+        [
+          625,
+          874
+        ],
+        [
+          625,
+          1349
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "かへりこと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          385,
+          1196
+        ],
+        [
+          385,
+          2837
+        ],
+        [
+          505,
+          1196
+        ],
+        [
+          505,
+          2837
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "めつらしきそのことの葉も身にしむは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          242,
+          1196
+        ],
+        [
+          242,
+          2771
+        ],
+        [
+          365,
+          1196
+        ],
+        [
+          365,
+          2771
+        ]
+      ],
+      "id": 25,
+      "isVertical": "true",
+      "text": "有明のそらににほふたち花",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

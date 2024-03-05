@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3539,
+          866
+        ],
+        [
+          3539,
+          2298
+        ],
+        [
+          3665,
+          866
+        ],
+        [
+          3665,
+          2298
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "いまは心つよくおほゆるにつけて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3416,
+          1212
+        ],
+        [
+          3416,
+          2847
+        ],
+        [
+          3524,
+          1212
+        ],
+        [
+          3524,
+          2847
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "つれは見るこゝ地せよこゝにいま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3273,
+          1218
+        ],
+        [
+          3273,
+          2700
+        ],
+        [
+          3396,
+          1218
+        ],
+        [
+          3396,
+          2700
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "おほうち山のくれのけしきを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3127,
+          866
+        ],
+        [
+          3127,
+          3038
+        ],
+        [
+          3268,
+          866
+        ],
+        [
+          3268,
+          3038
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "廿一日はまいりの夜ちやうたいの出御に御つまいさし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2997,
+          871
+        ],
+        [
+          2997,
+          3015
+        ],
+        [
+          3135,
+          871
+        ],
+        [
+          3135,
+          3015
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "てなる。女房たち御しりにつきて参る女工所はてぬ程",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2872,
+          876
+        ],
+        [
+          2872,
+          3003
+        ],
+        [
+          2991,
+          876
+        ],
+        [
+          2991,
+          3003
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "は夜をこさぬことにて。あからさまに参りてかねうたぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2723,
+          871
+        ],
+        [
+          2723,
+          2997
+        ],
+        [
+          2863,
+          871
+        ],
+        [
+          2863,
+          2997
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "さきに女工所へかへるつきの日新宰相殿のもとより。こ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2599,
+          876
+        ],
+        [
+          2599,
+          1907
+        ],
+        [
+          2702,
+          876
+        ],
+        [
+          2702,
+          1907
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "とのまきれなるにかく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2466,
+          1207
+        ],
+        [
+          2466,
+          2865
+        ],
+        [
+          2594,
+          1207
+        ],
+        [
+          2594,
+          2865
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "人しれすやさしくそみし月かけも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2326,
+          1211
+        ],
+        [
+          2326,
+          2721
+        ],
+        [
+          2444,
+          1211
+        ],
+        [
+          2444,
+          2721
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "おほ宮人の袖のけしきも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2193,
+          1214
+        ],
+        [
+          2193,
+          2899
+        ],
+        [
+          2313,
+          1214
+        ],
+        [
+          2313,
+          2899
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "よ所に見ん物とはかねてしらさりき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2051,
+          1202
+        ],
+        [
+          2051,
+          2819
+        ],
+        [
+          2176,
+          1202
+        ],
+        [
+          2176,
+          2819
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "とよのあかりのあり明の自",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1798,
+          1214
+        ],
+        [
+          1798,
+          2864
+        ],
+        [
+          1911,
+          1214
+        ],
+        [
+          1911,
+          2864
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "よもすからおほうち山の月かけに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1650,
+          1215
+        ],
+        [
+          1650,
+          2731
+        ],
+        [
+          1782,
+          1215
+        ],
+        [
+          1782,
+          2731
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "たちまふ袖をおもひこそやれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1519,
+          1218
+        ],
+        [
+          1519,
+          2898
+        ],
+        [
+          1643,
+          1218
+        ],
+        [
+          1643,
+          2898
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "せめてたゝもしや心のなくさむと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1380,
+          1209
+        ],
+        [
+          1380,
+          2734
+        ],
+        [
+          1506,
+          1209
+        ],
+        [
+          1506,
+          2734
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "はこやの山の月をこそみれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1249,
+          1220
+        ],
+        [
+          1249,
+          2979
+        ],
+        [
+          1369,
+          1220
+        ],
+        [
+          1369,
+          2979
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "をのつからなれし名こりをわすれすは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1103,
+          1208
+        ],
+        [
+          1103,
+          2756
+        ],
+        [
+          1249,
+          1208
+        ],
+        [
+          1249,
+          2756
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "みせはやともやおもひいつらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          990,
+          887
+        ],
+        [
+          990,
+          1223
+        ],
+        [
+          1059,
+          887
+        ],
+        [
+          1059,
+          1223
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          838,
+          1207
+        ],
+        [
+          838,
+          2904
+        ],
+        [
+          992,
+          1207
+        ],
+        [
+          992,
+          2904
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "ありしにもあらすや人のうらむらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          708,
+          1217
+        ],
+        [
+          708,
+          2824
+        ],
+        [
+          829,
+          1217
+        ],
+        [
+          829,
+          2824
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "思ひなからに日数へせれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          569,
+          1213
+        ],
+        [
+          569,
+          2876
+        ],
+        [
+          702,
+          1213
+        ],
+        [
+          702,
+          2876
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "よ所にみてさこそきのふは思ひけめ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          431,
+          1214
+        ],
+        [
+          431,
+          2617
+        ],
+        [
+          557,
+          1214
+        ],
+        [
+          557,
+          2617
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "大宮人の袖のけしきを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          282,
+          1214
+        ],
+        [
+          282,
+          2892
+        ],
+        [
+          437,
+          1214
+        ],
+        [
+          437,
+          2892
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "まきれつゝわするらんとや思ふらむ",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

@@ -1,0 +1,529 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5831,
+          1324
+        ],
+        [
+          5831,
+          3157
+        ],
+        [
+          6058,
+          1324
+        ],
+        [
+          6058,
+          3157
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "とをきさはの春こま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5527,
+          340
+        ],
+        [
+          5527,
+          4297
+        ],
+        [
+          5793,
+          340
+        ],
+        [
+          5793,
+          4297
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "春かなるのさはにふるゝはなれこまかへさや常の祝も知らるゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5308,
+          1377
+        ],
+        [
+          5308,
+          2928
+        ],
+        [
+          5504,
+          1377
+        ],
+        [
+          5504,
+          2928
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "くらみ空の帰かり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5015,
+          582
+        ],
+        [
+          5015,
+          4095
+        ],
+        [
+          5228,
+          582
+        ],
+        [
+          5228,
+          4095
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "器をそ思ひもすてめ有明の月をもまたて帰かりかね",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4758,
+          1459
+        ],
+        [
+          4758,
+          2741
+        ],
+        [
+          4993,
+          1459
+        ],
+        [
+          4993,
+          2741
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "暁のよふこしり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4495,
+          611
+        ],
+        [
+          4495,
+          4207
+        ],
+        [
+          4746,
+          611
+        ],
+        [
+          4746,
+          4207
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "よをのらすねさめわきをよふこた人もこたへぬしの空",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4224,
+          1430
+        ],
+        [
+          4224,
+          2863
+        ],
+        [
+          4457,
+          1430
+        ],
+        [
+          4457,
+          2863
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "山田のなはしろ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3962,
+          580
+        ],
+        [
+          3962,
+          4325
+        ],
+        [
+          4320,
+          580
+        ],
+        [
+          4320,
+          4325
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "山里はかせたのをたのふてやかてかけ日の水ま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3712,
+          1489
+        ],
+        [
+          3712,
+          3400
+        ],
+        [
+          3946,
+          1489
+        ],
+        [
+          3946,
+          3400
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "ふるきいてのかきつはた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3456,
+          569
+        ],
+        [
+          3456,
+          4303
+        ],
+        [
+          3733,
+          569
+        ],
+        [
+          3733,
+          4303
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "安勢にけるすかたのいけのきつはたいくひかしをかへたてあらし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3052,
+          1464
+        ],
+        [
+          3052,
+          4421
+        ],
+        [
+          3375,
+          1464
+        ],
+        [
+          3375,
+          4421
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "名所のすみれし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3055,
+          1465
+        ],
+        [
+          3055,
+          2856
+        ],
+        [
+          3361,
+          1465
+        ],
+        [
+          3361,
+          2856
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "名所のすみれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2771,
+          674
+        ],
+        [
+          2771,
+          4278
+        ],
+        [
+          3139,
+          674
+        ],
+        [
+          3139,
+          4278
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "おほつかなならひのをかは名のこして日とりすみれそ庵けき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2527,
+          1467
+        ],
+        [
+          2527,
+          2599
+        ],
+        [
+          2784,
+          1467
+        ],
+        [
+          2784,
+          2599
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "所の山吹",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2253,
+          661
+        ],
+        [
+          2253,
+          4340
+        ],
+        [
+          2594,
+          661
+        ],
+        [
+          2594,
+          4340
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "我宿浪八重山鳴此夕はへにゐてのわたりもみる心",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1990,
+          1544
+        ],
+        [
+          1990,
+          3274
+        ],
+        [
+          2276,
+          1544
+        ],
+        [
+          2276,
+          3274
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "海の道の春のくれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1696,
+          760
+        ],
+        [
+          1696,
+          4320
+        ],
+        [
+          2033,
+          760
+        ],
+        [
+          2033,
+          4320
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "いりおろす浪まにうつひ入日は暮行春のなかた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1447,
+          1581
+        ],
+        [
+          1447,
+          3342
+        ],
+        [
+          1713,
+          1581
+        ],
+        [
+          1713,
+          3342
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "龍の辺のこりの雪",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1206,
+          710
+        ],
+        [
+          1206,
+          4342
+        ],
+        [
+          1507,
+          710
+        ],
+        [
+          1507,
+          4342
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "こほりこそ空を知りけれ瀧一瀬のあたりの雪は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1009,
+          1576
+        ],
+        [
+          1009,
+          2438
+        ],
+        [
+          1193,
+          1576
+        ],
+        [
+          1193,
+          2438
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "さわらひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          706,
+          664
+        ],
+        [
+          706,
+          4332
+        ],
+        [
+          1053,
+          664
+        ],
+        [
+          1053,
+          4332
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "ひらさきのちりはかりしてをのつから所にもふるさはらひ",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

@@ -1,0 +1,82 @@
+package main
+
+import (
+	"testing"
+
+	cmp "github.com/google/go-cmp/cmp"
+)
+
+func TestNewLabeledQuery(t *testing.T) {
+	t.Run("NewLabeledQuery",
+		func(t *testing.T) {
+			testNewLabeledQuery(t,
+				"和歌",
+				[]string{"和歌"},
+				[]ELevel{},
+				[]string{})
+			testNewLabeledQuery(t,
+				"\"和歌\"",
+				[]string{"和歌"},
+				[]ELevel{},
+				[]string{})
+			testNewLabeledQuery(
+				t,
+				"和歌 俳諧",
+				[]string{"和歌",
+					"俳諧"},
+				[]ELevel{},
+				[]string{},
+			)
+			testNewLabeledQuery(
+				t,
+				"\"和歌 俳諧\"",
+				[]string{"和歌 俳諧"},
+				[]ELevel{},
+				[]string{},
+			)
+			testNewLabeledQuery(
+				t,
+				"和歌 俳\"諧",
+				[]string{"和歌",
+					"俳\\\"諧"},
+				[]ELevel{},
+				[]string{},
+			)
+			testNewLabeledQuery(
+				t,
+				"和歌 elevel:OCR",
+				[]string{"和歌"},
+				[]ELevel{OCR},
+				[]string{},
+			)
+			testNewLabeledQuery(
+				t,
+				"和歌 tag:TAG1",
+				[]string{"和歌"},
+				[]ELevel{},
+				[]string{"TAG1"},
+			)
+			testNewLabeledQuery(
+				t,
+				"和歌 elevel:OCR elevel:PROOF_READ tag:TAG1 tag:TAG2",
+				[]string{"和歌"},
+				[]ELevel{OCR, PROOF_READ},
+				[]string{"TAG1", "TAG2"},
+			)
+		})
+}
+
+func testNewLabeledQuery(t *testing.T, given string, words []string, elevels []ELevel, tags []string) {
+	t.Helper()
+
+	expect := &LabeledQuery{
+		Words:   words,
+		ELevels: elevels,
+		Tags:    tags,
+	}
+	got := NewLabeledQuery(given)
+
+	if diff := cmp.Diff(&got, &expect); diff != "" {
+		t.Errorf("NewLabeledQuery(%s) => %s, want %s", given, got, expect)
+	}
+}

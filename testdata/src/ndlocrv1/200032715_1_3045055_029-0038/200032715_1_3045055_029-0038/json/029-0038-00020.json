@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5901,
+          963
+        ],
+        [
+          5901,
+          1513
+        ],
+        [
+          6071,
+          963
+        ],
+        [
+          6071,
+          1513
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5531,
+          446
+        ],
+        [
+          5531,
+          4238
+        ],
+        [
+          5835,
+          446
+        ],
+        [
+          5835,
+          4238
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "日く人のなさけともふかきえかもふりやめて袖そかけてかひある",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5252,
+          722
+        ],
+        [
+          5252,
+          3036
+        ],
+        [
+          5523,
+          722
+        ],
+        [
+          5523,
+          3036
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "夜のついてに手ならひに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5011,
+          486
+        ],
+        [
+          5011,
+          4210
+        ],
+        [
+          5262,
+          486
+        ],
+        [
+          5262,
+          4210
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "君なりものうきにのみねをとめてねそかゝるあやめと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4736,
+          776
+        ],
+        [
+          4736,
+          4179
+        ],
+        [
+          5002,
+          776
+        ],
+        [
+          5002,
+          4179
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "社浜末つかたに迷斎院いらをおはしまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4513,
+          801
+        ],
+        [
+          4513,
+          4314
+        ],
+        [
+          4794,
+          801
+        ],
+        [
+          4794,
+          4314
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "て久しくおなし御所なり九月つくるひ安し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4239,
+          792
+        ],
+        [
+          4239,
+          4165
+        ],
+        [
+          4533,
+          792
+        ],
+        [
+          4533,
+          4165
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "す園御なるへきに心庵してあしての",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3986,
+          788
+        ],
+        [
+          3986,
+          4190
+        ],
+        [
+          4227,
+          788
+        ],
+        [
+          4227,
+          4190
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "したゑしたるたんらかたてふみてくれなる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3732,
+          847
+        ],
+        [
+          3732,
+          2121
+        ],
+        [
+          3927,
+          847
+        ],
+        [
+          3927,
+          2121
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "のうすやにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3420,
+          623
+        ],
+        [
+          3420,
+          4120
+        ],
+        [
+          3772,
+          623
+        ],
+        [
+          3772,
+          4120
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "帰り行秋かゝさきたまこりそをしれ心得きも成けれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3022,
+          828
+        ],
+        [
+          3022,
+          4170
+        ],
+        [
+          3317,
+          828
+        ],
+        [
+          3317,
+          4170
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "返しうへしろききくのうすや中にかきてたれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2780,
+          833
+        ],
+        [
+          2780,
+          4173
+        ],
+        [
+          3013,
+          833
+        ],
+        [
+          3013,
+          4173
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "としらねは五府のゆへともゝりの中将ま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2526,
+          846
+        ],
+        [
+          2526,
+          4231
+        ],
+        [
+          2766,
+          846
+        ],
+        [
+          2766,
+          4231
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "いらせしかことつくまとによのけしき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2267,
+          869
+        ],
+        [
+          2267,
+          4211
+        ],
+        [
+          2514,
+          869
+        ],
+        [
+          2514,
+          4211
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "なこりおしかほかうちしくれて物あかれけなれと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1978,
+          573
+        ],
+        [
+          1978,
+          4233
+        ],
+        [
+          2252,
+          573
+        ],
+        [
+          2252,
+          4233
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "立帰なこりを何かおしむらんとせの秋のこかなるよに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1719,
+          845
+        ],
+        [
+          1719,
+          4178
+        ],
+        [
+          1964,
+          845
+        ],
+        [
+          1964,
+          4178
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "三位中将これりの上のりと申は紅葉につ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1458,
+          817
+        ],
+        [
+          1458,
+          3314
+        ],
+        [
+          1695,
+          817
+        ],
+        [
+          1695,
+          3314
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "けて有祭のうす聞に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1144,
+          611
+        ],
+        [
+          1144,
+          4164
+        ],
+        [
+          1449,
+          611
+        ],
+        [
+          1449,
+          4164
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "居ゆへはおしき行はのもみちはもおしからてこそかくたりけれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          922,
+          858
+        ],
+        [
+          922,
+          3469
+        ],
+        [
+          1149,
+          858
+        ],
+        [
+          1149,
+          3469
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "返しくれなゐのうすやうに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          593,
+          601
+        ],
+        [
+          593,
+          4448
+        ],
+        [
+          928,
+          601
+        ],
+        [
+          928,
+          4448
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "我故に君か折ける紅葉こそなへての宮に色そんては",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5842,
+          784
+        ],
+        [
+          5842,
+          4434
+        ],
+        [
+          6120,
+          784
+        ],
+        [
+          6120,
+          4434
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "たゝの里のあけんにし山のもみちみたるもせんし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5580,
+          800
+        ],
+        [
+          5580,
+          3592
+        ],
+        [
+          5843,
+          800
+        ],
+        [
+          5843,
+          3592
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "ならぬ枝をおうせてむすひ付て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5259,
+          553
+        ],
+        [
+          5259,
+          4237
+        ],
+        [
+          5576,
+          553
+        ],
+        [
+          5576,
+          4237
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "君々思ひふかきみやまのりみちはを鼠のひまに折そしらする",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5084,
+          889
+        ],
+        [
+          5084,
+          1520
+        ],
+        [
+          5238,
+          889
+        ],
+        [
+          5238,
+          1520
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4749,
+          583
+        ],
+        [
+          4749,
+          4236
+        ],
+        [
+          5048,
+          583
+        ],
+        [
+          5048,
+          4236
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "おほつかな折こそ知らねて思もふかきらいのかみもなし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4527,
+          796
+        ],
+        [
+          4527,
+          4224
+        ],
+        [
+          4767,
+          796
+        ],
+        [
+          4767,
+          4224
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "見くし金廃の里に日さしくをはせし比",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4279,
+          820
+        ],
+        [
+          4279,
+          4212
+        ],
+        [
+          4502,
+          820
+        ],
+        [
+          4502,
+          4212
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "弁のとのゝそのさとへまいりてかへりこれたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4025,
+          814
+        ],
+        [
+          4025,
+          4194
+        ],
+        [
+          4250,
+          814
+        ],
+        [
+          4250,
+          4194
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "しになとかこのたよりにもをとつれはせぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3800,
+          846
+        ],
+        [
+          3800,
+          2738
+        ],
+        [
+          3972,
+          846
+        ],
+        [
+          3972,
+          2738
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "このたまひしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3487,
+          632
+        ],
+        [
+          3487,
+          4246
+        ],
+        [
+          3772,
+          632
+        ],
+        [
+          3772,
+          4246
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "なをさりに思ひしもとぬことの葉を風のたしりに散たりけん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3044,
+          817
+        ],
+        [
+          3044,
+          4212
+        ],
+        [
+          3296,
+          817
+        ],
+        [
+          3296,
+          4212
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "武陸山宮の西八条に出させ給へりしほと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2784,
+          839
+        ],
+        [
+          2784,
+          4272
+        ],
+        [
+          3044,
+          839
+        ],
+        [
+          3044,
+          4272
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "おほかたかまいる人はさることかかて御はらから",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2526,
+          801
+        ],
+        [
+          2526,
+          4338
+        ],
+        [
+          2829,
+          801
+        ],
+        [
+          2829,
+          4338
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "御をいたちなとみな番におりて二三人は月",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2254,
+          828
+        ],
+        [
+          2254,
+          4301
+        ],
+        [
+          2561,
+          828
+        ],
+        [
+          2561,
+          4301
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "あかゝりし夜あたらよたゝかやわかさんとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1985,
+          812
+        ],
+        [
+          1985,
+          4284
+        ],
+        [
+          2250,
+          812
+        ],
+        [
+          2250,
+          4284
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "のすけらうゑい□□吹つねまさひはかき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1751,
+          833
+        ],
+        [
+          1751,
+          4304
+        ],
+        [
+          1974,
+          833
+        ],
+        [
+          1974,
+          4304
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "みすの内にも一とかきあはせなとおりしつく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1454,
+          823
+        ],
+        [
+          1454,
+          4213
+        ],
+        [
+          1733,
+          823
+        ],
+        [
+          1733,
+          4213
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "あそひし程に内よりたかふさの丘将御つ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1162,
+          835
+        ],
+        [
+          1162,
+          4249
+        ],
+        [
+          1440,
+          835
+        ],
+        [
+          1440,
+          4249
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "かひにて□□ちてさいりたりしをやかて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          931,
+          803
+        ],
+        [
+          931,
+          4252
+        ],
+        [
+          1181,
+          803
+        ],
+        [
+          1181,
+          4252
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "よひてさまの竹ともつくして後かは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          660,
+          724
+        ],
+        [
+          660,
+          4453
+        ],
+        [
+          901,
+          724
+        ],
+        [
+          901,
+          4453
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "むかし今の物かたりなとしてあけかたまて",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

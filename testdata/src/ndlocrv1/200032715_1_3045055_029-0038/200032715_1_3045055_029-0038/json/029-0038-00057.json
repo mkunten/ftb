@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5854,
+          821
+        ],
+        [
+          5854,
+          4256
+        ],
+        [
+          6152,
+          821
+        ],
+        [
+          6152,
+          4256
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "かりかゝぬけしきにて木草もなきはまへにたん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5574,
+          849
+        ],
+        [
+          5574,
+          4289
+        ],
+        [
+          5853,
+          849
+        ],
+        [
+          5853,
+          4289
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "かたく風はつききに如何にそ頃に入よし人点",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5318,
+          827
+        ],
+        [
+          5318,
+          4270
+        ],
+        [
+          5539,
+          827
+        ],
+        [
+          5539,
+          4270
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "かゝるわたりにもあるとおもひのほかり中ゝたらは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5073,
+          817
+        ],
+        [
+          5073,
+          4264
+        ],
+        [
+          5280,
+          817
+        ],
+        [
+          5280,
+          4264
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "如何かすみうきわたりなりともとゝまりこそ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4823,
+          820
+        ],
+        [
+          4823,
+          2710
+        ],
+        [
+          5063,
+          820
+        ],
+        [
+          5063,
+          2710
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "せめときへあんせられて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4525,
+          596
+        ],
+        [
+          4525,
+          4306
+        ],
+        [
+          4787,
+          596
+        ],
+        [
+          4787,
+          4306
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "恋しいふ人かふふみのうみならはあらき浪にもしましらまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4282,
+          788
+        ],
+        [
+          4282,
+          4302
+        ],
+        [
+          4533,
+          788
+        ],
+        [
+          4533,
+          4302
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "む月の秋は過る頃なにとなくもの寒しきうら",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3989,
+          771
+        ],
+        [
+          3989,
+          4254
+        ],
+        [
+          4269,
+          771
+        ],
+        [
+          4269,
+          4254
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "とにすみわたりたるに馬心院の中勤候旨",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3707,
+          751
+        ],
+        [
+          3707,
+          4272
+        ],
+        [
+          3991,
+          751
+        ],
+        [
+          3991,
+          4272
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "典帰こいたし人今の内にさふらはるゝ□んとある",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3480,
+          798
+        ],
+        [
+          3480,
+          4232
+        ],
+        [
+          3752,
+          798
+        ],
+        [
+          3752,
+          4232
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "りしかは廿日のこけ知れる人もなつかしくて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3108,
+          780
+        ],
+        [
+          3108,
+          4220
+        ],
+        [
+          3375,
+          780
+        ],
+        [
+          3375,
+          4220
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "なつかしくてその日をまつ程にさしあふこと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2833,
+          807
+        ],
+        [
+          2833,
+          4232
+        ],
+        [
+          3120,
+          807
+        ],
+        [
+          3120,
+          4232
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "めりてとゝまりぬゝよひかてあらましとおもふよ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2539,
+          778
+        ],
+        [
+          2539,
+          4257
+        ],
+        [
+          2867,
+          778
+        ],
+        [
+          2867,
+          4257
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "あれたる家のゝきはより月さゝ入れ梅かほり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2309,
+          812
+        ],
+        [
+          2309,
+          3707
+        ],
+        [
+          2585,
+          812
+        ],
+        [
+          2585,
+          3707
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "つゝえんやなかめあかしてつとめて申ゆる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2086,
+          539
+        ],
+        [
+          2086,
+          4219
+        ],
+        [
+          2341,
+          539
+        ],
+        [
+          2341,
+          4219
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "君如何にけさはなこりをなかめまし明日のくれのまとかり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1903,
+          848
+        ],
+        [
+          1903,
+          1463
+        ],
+        [
+          2061,
+          848
+        ],
+        [
+          2061,
+          1463
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "追し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1474,
+          574
+        ],
+        [
+          1474,
+          4245
+        ],
+        [
+          1820,
+          574
+        ],
+        [
+          1820,
+          4245
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "辺へたしさはあらましのなかりたる昨日もけふもわかの空",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1276,
+          765
+        ],
+        [
+          1276,
+          4251
+        ],
+        [
+          1543,
+          765
+        ],
+        [
+          1543,
+          4251
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "ことなる事なき物かたりを人のするに思出らるゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1035,
+          786
+        ],
+        [
+          1035,
+          4238
+        ],
+        [
+          1288,
+          786
+        ],
+        [
+          1288,
+          4238
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "事ありてすゝろは涙のほれそめてとゝめかたく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          780,
+          532
+        ],
+        [
+          780,
+          1814
+        ],
+        [
+          992,
+          532
+        ],
+        [
+          992,
+          1814
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "なかるれは",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

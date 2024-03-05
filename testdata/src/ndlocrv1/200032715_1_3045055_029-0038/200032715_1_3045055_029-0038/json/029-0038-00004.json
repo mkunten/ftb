@@ -1,0 +1,254 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          2977,
+          930
+        ],
+        [
+          2977,
+          4292
+        ],
+        [
+          3290,
+          930
+        ],
+        [
+          3290,
+          4292
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "家の集なといひて歌より人こそかきと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2746,
+          916
+        ],
+        [
+          2746,
+          4308
+        ],
+        [
+          3014,
+          916
+        ],
+        [
+          3014,
+          4308
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "とむる井なれ是は極めさかはあらす",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2507,
+          926
+        ],
+        [
+          2507,
+          4348
+        ],
+        [
+          2775,
+          926
+        ],
+        [
+          2775,
+          4348
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "只念にもかなしくもなかことなく忘れ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2270,
+          935
+        ],
+        [
+          2270,
+          4348
+        ],
+        [
+          2517,
+          935
+        ],
+        [
+          2517,
+          4348
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "かたくおほゆることゝものそのおり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1992,
+          929
+        ],
+        [
+          1992,
+          4327
+        ],
+        [
+          2287,
+          929
+        ],
+        [
+          2287,
+          4327
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "ふと心におほえしを思ひいてらるゝまゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1735,
+          922
+        ],
+        [
+          1735,
+          4313
+        ],
+        [
+          2009,
+          922
+        ],
+        [
+          2009,
+          4313
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "にわかめ日とつか見むとてかきをく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1546,
+          934
+        ],
+        [
+          1546,
+          1380
+        ],
+        [
+          1660,
+          934
+        ],
+        [
+          1660,
+          1380
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "なり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1202,
+          1165
+        ],
+        [
+          1202,
+          4289
+        ],
+        [
+          1479,
+          1165
+        ],
+        [
+          1479,
+          4289
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "我ならて後か君と見つくき洛",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          956,
+          1201
+        ],
+        [
+          956,
+          4012
+        ],
+        [
+          1192,
+          1201
+        ],
+        [
+          1192,
+          4012
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "あともし東のよにのこるとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          662,
+          937
+        ],
+        [
+          662,
+          4243
+        ],
+        [
+          945,
+          937
+        ],
+        [
+          945,
+          4243
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "高倉の院の御位のころ承徳四年なと",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

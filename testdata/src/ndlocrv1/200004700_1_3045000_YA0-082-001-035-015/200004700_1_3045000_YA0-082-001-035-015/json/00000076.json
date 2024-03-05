@@ -1,0 +1,454 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3533,
+          816
+        ],
+        [
+          3533,
+          2933
+        ],
+        [
+          3681,
+          816
+        ],
+        [
+          3681,
+          2933
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "はるかに海面を見れは。西は淡路島須磨明石",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3397,
+          822
+        ],
+        [
+          3397,
+          2942
+        ],
+        [
+          3548,
+          822
+        ],
+        [
+          3548,
+          2942
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "の浦なといふ。舟にてわたり見はやなとおもへと。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3251,
+          821
+        ],
+        [
+          3251,
+          2938
+        ],
+        [
+          3411,
+          821
+        ],
+        [
+          3411,
+          2938
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "又世中の鉾楯により人のをそれもいかゝなれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3107,
+          822
+        ],
+        [
+          3107,
+          2153
+        ],
+        [
+          3254,
+          822
+        ],
+        [
+          3254,
+          2153
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "一夜をあかし都にかへりぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2988,
+          1151
+        ],
+        [
+          2988,
+          2730
+        ],
+        [
+          3125,
+          1151
+        ],
+        [
+          3125,
+          2730
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "淡路かた霞を分てゆく舟の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2866,
+          1160
+        ],
+        [
+          2866,
+          2797
+        ],
+        [
+          2993,
+          1160
+        ],
+        [
+          2993,
+          2797
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "たよりもしらぬ波のうへかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2709,
+          818
+        ],
+        [
+          2709,
+          2938
+        ],
+        [
+          2854,
+          818
+        ],
+        [
+          2854,
+          2938
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "須磨の浦を見れは。塩やく煙の立のほる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2579,
+          835
+        ],
+        [
+          2579,
+          1288
+        ],
+        [
+          2680,
+          835
+        ],
+        [
+          2680,
+          1288
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "を見て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2453,
+          1158
+        ],
+        [
+          2453,
+          2802
+        ],
+        [
+          2590,
+          1158
+        ],
+        [
+          2590,
+          2802
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "たちのほるもしほの煙いたつらに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2322,
+          1165
+        ],
+        [
+          2322,
+          2765
+        ],
+        [
+          2447,
+          1165
+        ],
+        [
+          2447,
+          2765
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "たかおもひよりくゆるなるらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2176,
+          828
+        ],
+        [
+          2176,
+          1843
+        ],
+        [
+          2289,
+          828
+        ],
+        [
+          2289,
+          1843
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "あかしの浦を見て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2046,
+          1158
+        ],
+        [
+          2046,
+          2893
+        ],
+        [
+          2176,
+          1158
+        ],
+        [
+          2176,
+          2893
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "よみをきしことの葉はかりあり明の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1760,
+          1189
+        ],
+        [
+          1760,
+          2711
+        ],
+        [
+          1877,
+          1189
+        ],
+        [
+          1877,
+          2711
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "月もあかしのうらのまさこの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1626,
+          851
+        ],
+        [
+          1626,
+          2971
+        ],
+        [
+          1745,
+          851
+        ],
+        [
+          1745,
+          2971
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "また御前にまいりて。いとま申て下向し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1505,
+          859
+        ],
+        [
+          1505,
+          1275
+        ],
+        [
+          1608,
+          859
+        ],
+        [
+          1608,
+          1275
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "待りぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1345,
+          1195
+        ],
+        [
+          1345,
+          2927
+        ],
+        [
+          1484,
+          1195
+        ],
+        [
+          1484,
+          2927
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "みつかきのいく千代まても行すゑを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1205,
+          1193
+        ],
+        [
+          1205,
+          2825
+        ],
+        [
+          1352,
+          1193
+        ],
+        [
+          1352,
+          2825
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "まもらせたまへ住よしの神",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          546,
+          833
+        ],
+        [
+          546,
+          2053
+        ],
+        [
+          709,
+          833
+        ],
+        [
+          709,
+          2053
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "扶桑拾葉集巻第十三終",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

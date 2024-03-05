@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5819,
+          662
+        ],
+        [
+          5819,
+          3854
+        ],
+        [
+          6046,
+          662
+        ],
+        [
+          6046,
+          3854
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "かし絵のましりたるいとあはれにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5563,
+          600
+        ],
+        [
+          5563,
+          4233
+        ],
+        [
+          5802,
+          600
+        ],
+        [
+          5802,
+          4233
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "めくりきてみるきもとをぬらす哉ゑしまにとめし水くき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5291,
+          839
+        ],
+        [
+          5291,
+          4240
+        ],
+        [
+          5548,
+          839
+        ],
+        [
+          5548,
+          4240
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "四月はかりしたしき人にくして山里に有",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5073,
+          852
+        ],
+        [
+          5073,
+          3498
+        ],
+        [
+          5277,
+          852
+        ],
+        [
+          5277,
+          3498
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "申比ほとゝきすのなきしに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4769,
+          584
+        ],
+        [
+          4769,
+          4214
+        ],
+        [
+          5007,
+          584
+        ],
+        [
+          5007,
+          4214
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "跡大さつゝけ物を時鳥なきふるつるみ山辺のさと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4517,
+          850
+        ],
+        [
+          4517,
+          3758
+        ],
+        [
+          4758,
+          850
+        ],
+        [
+          4758,
+          3758
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "花たち花の雨はまゝ風にほひしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4235,
+          581
+        ],
+        [
+          4235,
+          4171
+        ],
+        [
+          4488,
+          581
+        ],
+        [
+          4488,
+          4171
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "橘の花みていとゝかほるなれ風まえにふる雨の夕暮",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3968,
+          845
+        ],
+        [
+          3968,
+          4188
+        ],
+        [
+          4202,
+          845
+        ],
+        [
+          4202,
+          4188
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "八月五日空の揺大夫時家のりとよりくすむま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3750,
+          844
+        ],
+        [
+          3750,
+          4237
+        ],
+        [
+          3956,
+          844
+        ],
+        [
+          3956,
+          4237
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "きたるはこのふたにしやふのうすやうしき事なし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3477,
+          833
+        ],
+        [
+          3477,
+          3958
+        ],
+        [
+          3702,
+          833
+        ],
+        [
+          3702,
+          3958
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "うすやに書てなへておゝすなかきねをまいらせて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3007,
+          575
+        ],
+        [
+          3007,
+          4215
+        ],
+        [
+          3317,
+          575
+        ],
+        [
+          3317,
+          4215
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "君か代に日きくらふれはあやめ草なかれふねも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2769,
+          1128
+        ],
+        [
+          2769,
+          3686
+        ],
+        [
+          3005,
+          1128
+        ],
+        [
+          3005,
+          3686
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "し花播はなのうすににかく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2534,
+          591
+        ],
+        [
+          2534,
+          4225
+        ],
+        [
+          2785,
+          591
+        ],
+        [
+          2785,
+          4225
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "心さしふかくそみゆるあやめ草なかきためしかひける程",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2213,
+          771
+        ],
+        [
+          2213,
+          4172
+        ],
+        [
+          2502,
+          771
+        ],
+        [
+          2502,
+          4172
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "なけくことまりてうるゐたりしうろさうふの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1987,
+          816
+        ],
+        [
+          1987,
+          2619
+        ],
+        [
+          2251,
+          816
+        ],
+        [
+          2251,
+          2619
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "ねをうきたる人に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1720,
+          583
+        ],
+        [
+          1720,
+          4150
+        ],
+        [
+          2010,
+          583
+        ],
+        [
+          2010,
+          4150
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "おやめふく月日も思わかぬさけふをいつこと君そしける",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1461,
+          799
+        ],
+        [
+          1461,
+          4164
+        ],
+        [
+          1715,
+          799
+        ],
+        [
+          1715,
+          4164
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "なりちかの大納言の女宮の種のすけのうへ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1196,
+          792
+        ],
+        [
+          1196,
+          4177
+        ],
+        [
+          1438,
+          792
+        ],
+        [
+          1438,
+          4177
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "なりし人はしるゆかりおらしとよりくす玉を",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1000,
+          826
+        ],
+        [
+          1000,
+          1687
+        ],
+        [
+          1159,
+          826
+        ],
+        [
+          1159,
+          1687
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "こすとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          660,
+          583
+        ],
+        [
+          660,
+          4222
+        ],
+        [
+          954,
+          583
+        ],
+        [
+          954,
+          4222
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "君々おもひふかき元にこそ日きつれとあやめの草のねにう",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

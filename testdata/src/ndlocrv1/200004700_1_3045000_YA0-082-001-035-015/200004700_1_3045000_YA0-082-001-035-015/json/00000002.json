@@ -1,0 +1,629 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          1744,
+          855
+        ],
+        [
+          1744,
+          1886
+        ],
+        [
+          1866,
+          855
+        ],
+        [
+          1866,
+          1886
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "扶桑拾葉集巻第十三",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1482,
+          867
+        ],
+        [
+          1482,
+          1607
+        ],
+        [
+          1607,
+          867
+        ],
+        [
+          1607,
+          1607
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "中務内侍の日記",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1343,
+          862
+        ],
+        [
+          1343,
+          2977
+        ],
+        [
+          1478,
+          862
+        ],
+        [
+          1478,
+          2977
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "石清水御願書後伏見可皇",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1345,
+          870
+        ],
+        [
+          1345,
+          1606
+        ],
+        [
+          1475,
+          870
+        ],
+        [
+          1475,
+          1606
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "石清水御願書",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2156,
+          1481
+        ],
+        [
+          2156,
+          1616
+        ],
+        [
+          2246,
+          1481
+        ],
+        [
+          2246,
+          1616
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "同日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1618,
+          1080
+        ],
+        [
+          1618,
+          1355
+        ],
+        [
+          1742,
+          1080
+        ],
+        [
+          1742,
+          1355
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "目録",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1204,
+          869
+        ],
+        [
+          1204,
+          1617
+        ],
+        [
+          1322,
+          869
+        ],
+        [
+          1322,
+          1617
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "賀茂社御願出",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1710,
+          2376
+        ],
+        [
+          1710,
+          2909
+        ],
+        [
+          1850,
+          2376
+        ],
+        [
+          1850,
+          2909
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "同十八日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1074,
+          868
+        ],
+        [
+          1074,
+          2009
+        ],
+        [
+          1206,
+          868
+        ],
+        [
+          1206,
+          2009
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "御子に贈給ふ古今集政",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1492,
+          2366
+        ],
+        [
+          1492,
+          2608
+        ],
+        [
+          1604,
+          2366
+        ],
+        [
+          1604,
+          2608
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "中務",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1351,
+          2361
+        ],
+        [
+          1351,
+          2950
+        ],
+        [
+          1467,
+          2361
+        ],
+        [
+          1467,
+          2950
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "後伏見一之皇",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          935,
+          861
+        ],
+        [
+          935,
+          2111
+        ],
+        [
+          1055,
+          861
+        ],
+        [
+          1055,
+          2111
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "名和長年に下し給ふ勅書",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          807,
+          862
+        ],
+        [
+          807,
+          1595
+        ],
+        [
+          912,
+          862
+        ],
+        [
+          912,
+          1595
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "李花集のうち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1245,
+          2368
+        ],
+        [
+          1245,
+          2484
+        ],
+        [
+          1323,
+          2368
+        ],
+        [
+          1323,
+          2484
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "十二日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1097,
+          2363
+        ],
+        [
+          1097,
+          2489
+        ],
+        [
+          1194,
+          2363
+        ],
+        [
+          1194,
+          2489
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "百",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          937,
+          2367
+        ],
+        [
+          937,
+          2916
+        ],
+        [
+          1064,
+          2367
+        ],
+        [
+          1064,
+          2916
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "後醍醐天皇",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          666,
+          861
+        ],
+        [
+          666,
+          969
+        ],
+        [
+          787,
+          861
+        ],
+        [
+          787,
+          969
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "又",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          524,
+          865
+        ],
+        [
+          524,
+          972
+        ],
+        [
+          634,
+          865
+        ],
+        [
+          634,
+          972
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "覚",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          800,
+          2371
+        ],
+        [
+          800,
+          2847
+        ],
+        [
+          915,
+          2371
+        ],
+        [
+          915,
+          2847
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "宗良親王",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          394,
+          853
+        ],
+        [
+          394,
+          970
+        ],
+        [
+          510,
+          853
+        ],
+        [
+          510,
+          970
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "又",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          691,
+          2360
+        ],
+        [
+          691,
+          2469
+        ],
+        [
+          770,
+          2360
+        ],
+        [
+          770,
+          2469
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "十二日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          247,
+          870
+        ],
+        [
+          247,
+          996
+        ],
+        [
+          381,
+          870
+        ],
+        [
+          381,
+          996
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "十八",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          559,
+          2371
+        ],
+        [
+          559,
+          2473
+        ],
+        [
+          637,
+          2371
+        ],
+        [
+          637,
+          2473
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "正四",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          420,
+          2362
+        ],
+        [
+          420,
+          2469
+        ],
+        [
+          500,
+          2362
+        ],
+        [
+          500,
+          2469
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "十一日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          279,
+          2371
+        ],
+        [
+          279,
+          2482
+        ],
+        [
+          367,
+          2371
+        ],
+        [
+          367,
+          2482
+        ]
+      ],
+      "id": 25,
+      "isVertical": "true",
+      "text": "一男",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

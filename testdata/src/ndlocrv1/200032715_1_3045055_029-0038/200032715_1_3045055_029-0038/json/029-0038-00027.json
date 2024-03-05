@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5906,
+          609
+        ],
+        [
+          5906,
+          4451
+        ],
+        [
+          6218,
+          609
+        ],
+        [
+          6218,
+          4451
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "のあさましくかくてもへにけりとかきてし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5613,
+          651
+        ],
+        [
+          5613,
+          2985
+        ],
+        [
+          5876,
+          651
+        ],
+        [
+          5876,
+          2985
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "恋しく思ひまいらせて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5259,
+          403
+        ],
+        [
+          5259,
+          4155
+        ],
+        [
+          5602,
+          403
+        ],
+        [
+          5602,
+          4155
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "恋はふる心をやみにくらさせて秋のみやまに月すむらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5061,
+          653
+        ],
+        [
+          5061,
+          4122
+        ],
+        [
+          5313,
+          653
+        ],
+        [
+          5313,
+          4122
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "そのにろちりつもりたることをいかておほくの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4792,
+          660
+        ],
+        [
+          4792,
+          4098
+        ],
+        [
+          5058,
+          660
+        ],
+        [
+          5058,
+          4098
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "月日へはけりよみるにも君にて宮にて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4506,
+          642
+        ],
+        [
+          4506,
+          4123
+        ],
+        [
+          4796,
+          642
+        ],
+        [
+          4796,
+          4123
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "つねはちかくさふらふ人のふゑにあはせなと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4267,
+          656
+        ],
+        [
+          4267,
+          3798
+        ],
+        [
+          4513,
+          656
+        ],
+        [
+          4513,
+          3798
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "あそひしこといみしく恋しく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3984,
+          406
+        ],
+        [
+          3984,
+          4165
+        ],
+        [
+          4292,
+          406
+        ],
+        [
+          4292,
+          4165
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "折のそのふゑ竹も落てすさひしこのゆくゑ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3713,
+          698
+        ],
+        [
+          3713,
+          4182
+        ],
+        [
+          3983,
+          698
+        ],
+        [
+          3983,
+          4182
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "宮の御座なとめてたくきゝまいらせしにも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3495,
+          748
+        ],
+        [
+          3495,
+          4234
+        ],
+        [
+          3737,
+          748
+        ],
+        [
+          3737,
+          4234
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "たゝ尻をともにてかくるに皇子むまさせ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2878,
+          794
+        ],
+        [
+          2878,
+          2906
+        ],
+        [
+          3129,
+          794
+        ],
+        [
+          3129,
+          2906
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "おりひつゝけられし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3101,
+          735
+        ],
+        [
+          3101,
+          4188
+        ],
+        [
+          3338,
+          735
+        ],
+        [
+          3338,
+          4188
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "をはしまして無宮たちなときこえしにも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2589,
+          412
+        ],
+        [
+          2589,
+          4180
+        ],
+        [
+          2836,
+          412
+        ],
+        [
+          2836,
+          4180
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "雲のよそゆきなしける廿日ならはしましるまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2299,
+          773
+        ],
+        [
+          2299,
+          4233
+        ],
+        [
+          2557,
+          773
+        ],
+        [
+          2557,
+          4233
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "となりに庭火のふゑのをとするにもうし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2042,
+          704
+        ],
+        [
+          2042,
+          4181
+        ],
+        [
+          2286,
+          704
+        ],
+        [
+          2286,
+          4181
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "心侍所のみかくらにこれりの打将やすみち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1794,
+          726
+        ],
+        [
+          1794,
+          4141
+        ],
+        [
+          2017,
+          726
+        ],
+        [
+          2017,
+          4141
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "の中将なとのおもしろくりしねともまろ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1557,
+          791
+        ],
+        [
+          1557,
+          1918
+        ],
+        [
+          1750,
+          791
+        ],
+        [
+          1750,
+          1918
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "思いてらる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1193,
+          383
+        ],
+        [
+          1193,
+          4202
+        ],
+        [
+          1479,
+          383
+        ],
+        [
+          1479,
+          4202
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "いからねとむかしの恋しくて庭火のふゑの音に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          946,
+          781
+        ],
+        [
+          946,
+          4140
+        ],
+        [
+          1214,
+          781
+        ],
+        [
+          1214,
+          4140
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "おほやけの御かしこまりかてとをゝ行人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          690,
+          723
+        ],
+        [
+          690,
+          4150
+        ],
+        [
+          964,
+          723
+        ],
+        [
+          964,
+          4150
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "そこによへはとまりなときゝしかはそのゆかは有人の",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

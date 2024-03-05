@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3552,
+          831
+        ],
+        [
+          3552,
+          2960
+        ],
+        [
+          3684,
+          831
+        ],
+        [
+          3684,
+          2960
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "へきよしなと。別当資次卿のもとへ申つかはす次に。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3412,
+          829
+        ],
+        [
+          3412,
+          2604
+        ],
+        [
+          3533,
+          829
+        ],
+        [
+          3533,
+          2604
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "打伊城にありし紅葉を一はつゝみぐして",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3272,
+          1155
+        ],
+        [
+          3272,
+          2821
+        ],
+        [
+          3406,
+          1155
+        ],
+        [
+          3406,
+          2821
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "おもふにも猶色あさきもみちかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3131,
+          1161
+        ],
+        [
+          3131,
+          2590
+        ],
+        [
+          3247,
+          1161
+        ],
+        [
+          3247,
+          2590
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "そなたの山はいかゝしくるゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3022,
+          835
+        ],
+        [
+          3022,
+          1111
+        ],
+        [
+          3098,
+          835
+        ],
+        [
+          3098,
+          1111
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2867,
+          1161
+        ],
+        [
+          2867,
+          2704
+        ],
+        [
+          2995,
+          1161
+        ],
+        [
+          2995,
+          2704
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "この秋のなみたをそへて時雨にし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2742,
+          1169
+        ],
+        [
+          2742,
+          2695
+        ],
+        [
+          2852,
+          1169
+        ],
+        [
+          2852,
+          2695
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "山はいかなるもみちとかしる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2598,
+          832
+        ],
+        [
+          2598,
+          2960
+        ],
+        [
+          2725,
+          832
+        ],
+        [
+          2725,
+          2960
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "参らて二三年もすき侍し後九月はかりに。新待賢",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2464,
+          838
+        ],
+        [
+          2464,
+          2965
+        ],
+        [
+          2595,
+          838
+        ],
+        [
+          2595,
+          2965
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "門院いまた准后と申侍し頃。御廟に御籠有て。御覧せ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2324,
+          838
+        ],
+        [
+          2324,
+          2951
+        ],
+        [
+          2456,
+          838
+        ],
+        [
+          2456,
+          2951
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "られけるに。山の紅葉面白かりけれは。所から殊に御め一",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2185,
+          841
+        ],
+        [
+          2185,
+          2955
+        ],
+        [
+          2317,
+          841
+        ],
+        [
+          2317,
+          2955
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "もやつしかたくて一葉文につゝみくせらるゝよし。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2050,
+          835
+        ],
+        [
+          2050,
+          2953
+        ],
+        [
+          2188,
+          835
+        ],
+        [
+          2188,
+          2953
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "仰られしかとも。ひきあけて見侍し見えさりしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1797,
+          822
+        ],
+        [
+          1797,
+          1637
+        ],
+        [
+          1884,
+          822
+        ],
+        [
+          1884,
+          1637
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "御返事に申侍し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1660,
+          1150
+        ],
+        [
+          1660,
+          2809
+        ],
+        [
+          1786,
+          1150
+        ],
+        [
+          1786,
+          2809
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "その山ときくになみたもしくるゝは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1527,
+          1164
+        ],
+        [
+          1527,
+          2675
+        ],
+        [
+          1642,
+          1164
+        ],
+        [
+          1642,
+          2675
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "袖をもみ地の色と見よとや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1392,
+          1160
+        ],
+        [
+          1392,
+          2844
+        ],
+        [
+          1506,
+          1160
+        ],
+        [
+          1506,
+          2844
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "こゝまても吹はふきこてもみちはを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1246,
+          1167
+        ],
+        [
+          1246,
+          2752
+        ],
+        [
+          1381,
+          1167
+        ],
+        [
+          1381,
+          2752
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "さそひすて千類山風そうき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1100,
+          821
+        ],
+        [
+          1100,
+          2967
+        ],
+        [
+          1252,
+          821
+        ],
+        [
+          1252,
+          2967
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "かやうに申侍て。程へて御みの中より見出し侍し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          968,
+          832
+        ],
+        [
+          968,
+          1860
+        ],
+        [
+          1088,
+          832
+        ],
+        [
+          1088,
+          1860
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "かは又のひんきに申侍",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          838,
+          1158
+        ],
+        [
+          838,
+          2853
+        ],
+        [
+          990,
+          1158
+        ],
+        [
+          990,
+          2853
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "もみち葉になみたをそへてみる色は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          559,
+          1047
+        ],
+        [
+          559,
+          1154
+        ],
+        [
+          684,
+          1047
+        ],
+        [
+          684,
+          1154
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "十八",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          716,
+          1160
+        ],
+        [
+          716,
+          2843
+        ],
+        [
+          836,
+          1160
+        ],
+        [
+          836,
+          2843
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "手折しよりもふかきとひしれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          469,
+          2285
+        ],
+        [
+          469,
+          2413
+        ],
+        [
+          566,
+          2285
+        ],
+        [
+          566,
+          2413
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "一",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          272,
+          821
+        ],
+        [
+          272,
+          2972
+        ],
+        [
+          436,
+          821
+        ],
+        [
+          436,
+          2972
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "讃後拾遺撰侍し頃立親王以前名字なとなんきに",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

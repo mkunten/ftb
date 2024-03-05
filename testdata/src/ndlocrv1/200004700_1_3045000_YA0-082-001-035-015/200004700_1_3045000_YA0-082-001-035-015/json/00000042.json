@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3539,
+          1189
+        ],
+        [
+          3539,
+          2558
+        ],
+        [
+          3655,
+          1189
+        ],
+        [
+          3655,
+          2558
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "かゝること葉の色もそへしな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3395,
+          1189
+        ],
+        [
+          3395,
+          2828
+        ],
+        [
+          3529,
+          1189
+        ],
+        [
+          3529,
+          2828
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "雨風に花はあとなくちりはてぬか",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3266,
+          1207
+        ],
+        [
+          3266,
+          2606
+        ],
+        [
+          3384,
+          1207
+        ],
+        [
+          3384,
+          2606
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "むなしき枝をかたみとはみよ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3114,
+          849
+        ],
+        [
+          3114,
+          2995
+        ],
+        [
+          3267,
+          849
+        ],
+        [
+          3267,
+          2995
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "四月十九日まつりなり。つかひ一条中将さねつくのあそん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2985,
+          859
+        ],
+        [
+          2985,
+          2204
+        ],
+        [
+          3099,
+          859
+        ],
+        [
+          3099,
+          2204
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "皇后宮のつかひはしるへし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2852,
+          856
+        ],
+        [
+          2852,
+          2996
+        ],
+        [
+          2974,
+          856
+        ],
+        [
+          2974,
+          2996
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "五月五日軒のあやめもことしはめつらしきさまにふきたり。し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2716,
+          863
+        ],
+        [
+          2716,
+          2983
+        ],
+        [
+          2847,
+          863
+        ],
+        [
+          2847,
+          2983
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "やうふの御こしかきたてゝことにおもしろし。もとへの女官",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2576,
+          859
+        ],
+        [
+          2576,
+          2993
+        ],
+        [
+          2710,
+          859
+        ],
+        [
+          2710,
+          2993
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "とも。くすたまのしやうふもちてゆきかふ。御くすだまのはなと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2445,
+          867
+        ],
+        [
+          2445,
+          1454
+        ],
+        [
+          2535,
+          867
+        ],
+        [
+          2535,
+          1454
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "もまいらす",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2298,
+          863
+        ],
+        [
+          2298,
+          2989
+        ],
+        [
+          2442,
+          863
+        ],
+        [
+          2442,
+          2989
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "五月八日むらさきのゝわか宮より。まつのみとりにしつけて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2181,
+          857
+        ],
+        [
+          2181,
+          2989
+        ],
+        [
+          2311,
+          857
+        ],
+        [
+          2311,
+          2989
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "まいらせたり御はいまたしきほとなるに御所へまいりたるに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2042,
+          867
+        ],
+        [
+          2042,
+          2988
+        ],
+        [
+          2171,
+          867
+        ],
+        [
+          2171,
+          2988
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "何となくきくもやさしく。これをたいにて哥をよみ侍はや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1776,
+          875
+        ],
+        [
+          1776,
+          1395
+        ],
+        [
+          1866,
+          875
+        ],
+        [
+          1866,
+          1395
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "とさたあれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1630,
+          1207
+        ],
+        [
+          1630,
+          2744
+        ],
+        [
+          1756,
+          1207
+        ],
+        [
+          1756,
+          2744
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "むらさきにみとりかへたるひめこ松",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1494,
+          1212
+        ],
+        [
+          1494,
+          2688
+        ],
+        [
+          1620,
+          1212
+        ],
+        [
+          1620,
+          2688
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "あたし色とや君にみすらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1362,
+          882
+        ],
+        [
+          1362,
+          1959
+        ],
+        [
+          1476,
+          882
+        ],
+        [
+          1476,
+          1959
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "九日は小五月の御幸なり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1221,
+          886
+        ],
+        [
+          1221,
+          3024
+        ],
+        [
+          1356,
+          886
+        ],
+        [
+          1356,
+          3024
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "五月十五日御はいの御ともに。せいりやう殿のすのこにさふらへ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1097,
+          883
+        ],
+        [
+          1097,
+          3011
+        ],
+        [
+          1220,
+          883
+        ],
+        [
+          1220,
+          3011
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "は。花はあとなくて木くらきあをはのこすゑもおもしろし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          955,
+          891
+        ],
+        [
+          955,
+          1748
+        ],
+        [
+          1070,
+          891
+        ],
+        [
+          1070,
+          1748
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "六月二日女御まいり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          823,
+          886
+        ],
+        [
+          823,
+          3016
+        ],
+        [
+          956,
+          886
+        ],
+        [
+          956,
+          3016
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "五日ろけんなり。御つかひに一条中将さねつく。紅のうすやうの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          686,
+          887
+        ],
+        [
+          686,
+          3019
+        ],
+        [
+          831,
+          887
+        ],
+        [
+          831,
+          3019
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "御ふみ。あさかれゐよりまいらせて。女御の御かたのたいはん所",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          551,
+          899
+        ],
+        [
+          551,
+          1737
+        ],
+        [
+          660,
+          899
+        ],
+        [
+          660,
+          1737
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "よりろくたまへる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          405,
+          888
+        ],
+        [
+          405,
+          3022
+        ],
+        [
+          547,
+          888
+        ],
+        [
+          547,
+          3022
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "六月六日御とのあふらまいらせてのち。つねの御所の御ゑんを。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          258,
+          886
+        ],
+        [
+          258,
+          3025
+        ],
+        [
+          412,
+          886
+        ],
+        [
+          412,
+          3025
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "新宰相殿ととをるに。むしのなきそむるをきゝて新寧相殿",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

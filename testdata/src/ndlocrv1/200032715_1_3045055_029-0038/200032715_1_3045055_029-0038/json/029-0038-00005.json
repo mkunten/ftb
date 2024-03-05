@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5780,
+          741
+        ],
+        [
+          5780,
+          4301
+        ],
+        [
+          6094,
+          741
+        ],
+        [
+          6094,
+          4301
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "いたしとしにや正月一日中宮の御かたへ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5562,
+          733
+        ],
+        [
+          5562,
+          4303
+        ],
+        [
+          5840,
+          733
+        ],
+        [
+          5840,
+          4303
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "内の上立たらせたまへりし御日きなを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5347,
+          748
+        ],
+        [
+          5347,
+          4251
+        ],
+        [
+          5581,
+          748
+        ],
+        [
+          5581,
+          4251
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "しの御すかた宮の御ものゝくめしたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5051,
+          734
+        ],
+        [
+          5051,
+          4298
+        ],
+        [
+          5317,
+          734
+        ],
+        [
+          5317,
+          4298
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "たりに御さまなとのいつと申なからめもあや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4817,
+          745
+        ],
+        [
+          4817,
+          4250
+        ],
+        [
+          5063,
+          745
+        ],
+        [
+          5063,
+          4250
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "にみえさせ給しをものゝとをりより見ま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4581,
+          739
+        ],
+        [
+          4581,
+          3231
+        ],
+        [
+          4795,
+          739
+        ],
+        [
+          4795,
+          3231
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "いらさていにおもひし事",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4312,
+          1014
+        ],
+        [
+          4312,
+          3855
+        ],
+        [
+          4552,
+          1014
+        ],
+        [
+          4552,
+          3855
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "雲の上かゝる月日のひかり見る",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4041,
+          1046
+        ],
+        [
+          4041,
+          3397
+        ],
+        [
+          4287,
+          1046
+        ],
+        [
+          4287,
+          3397
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "もの契さへ嬉しとそ思",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3739,
+          744
+        ],
+        [
+          3739,
+          4245
+        ],
+        [
+          4048,
+          744
+        ],
+        [
+          4048,
+          4245
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "おなじ春なりしにや建春へ院たいりか",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3484,
+          749
+        ],
+        [
+          3484,
+          4239
+        ],
+        [
+          3759,
+          749
+        ],
+        [
+          3759,
+          4239
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "しはらさふらはせおはしまししかこの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3070,
+          794
+        ],
+        [
+          3070,
+          4193
+        ],
+        [
+          3350,
+          794
+        ],
+        [
+          3350,
+          4193
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "御方へいらせおはしまして八条こ位殿御",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2786,
+          810
+        ],
+        [
+          2786,
+          4236
+        ],
+        [
+          3049,
+          810
+        ],
+        [
+          3049,
+          4236
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "まいりありしも御所にさふらはせ給し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2553,
+          806
+        ],
+        [
+          2553,
+          4307
+        ],
+        [
+          2818,
+          806
+        ],
+        [
+          2818,
+          4307
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "を見くしけ殿の御うしろよりおつ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2231,
+          821
+        ],
+        [
+          2231,
+          4256
+        ],
+        [
+          2541,
+          821
+        ],
+        [
+          2541,
+          4256
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "ちとみまいらせしかは女院むらさきの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1984,
+          816
+        ],
+        [
+          1984,
+          4380
+        ],
+        [
+          2296,
+          816
+        ],
+        [
+          2296,
+          4380
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "にほひの御そやまふきの御うはき桜の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1756,
+          817
+        ],
+        [
+          1756,
+          4239
+        ],
+        [
+          2022,
+          817
+        ],
+        [
+          2022,
+          4239
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "御かうちきあを宮の御から衣てふを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1494,
+          821
+        ],
+        [
+          1494,
+          4232
+        ],
+        [
+          1749,
+          821
+        ],
+        [
+          1749,
+          4232
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "色におりたりしありしかはいふかた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1254,
+          843
+        ],
+        [
+          1254,
+          4213
+        ],
+        [
+          1524,
+          843
+        ],
+        [
+          1524,
+          4213
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "なくめてたくわかくもおはします宮は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          976,
+          840
+        ],
+        [
+          976,
+          4205
+        ],
+        [
+          1283,
+          840
+        ],
+        [
+          1283,
+          4205
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "つほめる色の衣梅の御てかはさくらの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          629,
+          825
+        ],
+        [
+          629,
+          4181
+        ],
+        [
+          1003,
+          825
+        ],
+        [
+          1003,
+          4181
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "御うはき格の御こうちきある色の御",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

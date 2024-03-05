@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3554,
+          1180
+        ],
+        [
+          3554,
+          2766
+        ],
+        [
+          3683,
+          1180
+        ],
+        [
+          3683,
+          2766
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "おくより君かひろめけるかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3400,
+          835
+        ],
+        [
+          3400,
+          2973
+        ],
+        [
+          3565,
+          835
+        ],
+        [
+          3565,
+          2973
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "とおもひ給ひのみそうきしきれいの人なみに。か",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3275,
+          850
+        ],
+        [
+          3275,
+          2503
+        ],
+        [
+          3388,
+          850
+        ],
+        [
+          3388,
+          2503
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "へすかたはらいたきことなから",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3136,
+          1175
+        ],
+        [
+          3136,
+          2902
+        ],
+        [
+          3272,
+          1175
+        ],
+        [
+          3272,
+          2902
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "つらけれは花とも見せしよしやたゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2994,
+          1177
+        ],
+        [
+          2994,
+          2817
+        ],
+        [
+          3137,
+          1177
+        ],
+        [
+          3137,
+          2817
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "けふこぬ庭のあすのゝら雪",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2853,
+          1182
+        ],
+        [
+          2853,
+          2834
+        ],
+        [
+          3017,
+          1182
+        ],
+        [
+          3017,
+          2834
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "かへすとも人なとかりそおきなさひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2749,
+          1187
+        ],
+        [
+          2749,
+          2714
+        ],
+        [
+          2875,
+          1187
+        ],
+        [
+          2875,
+          2714
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "としはかりの花そめの袖",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2596,
+          1177
+        ],
+        [
+          2596,
+          2819
+        ],
+        [
+          2736,
+          1177
+        ],
+        [
+          2736,
+          2819
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "これにまに都のつとはなきものを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2464,
+          1190
+        ],
+        [
+          2464,
+          2678
+        ],
+        [
+          2590,
+          1190
+        ],
+        [
+          2590,
+          2678
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "いさといはゝやをはすての月",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2325,
+          1184
+        ],
+        [
+          2325,
+          2857
+        ],
+        [
+          2461,
+          1184
+        ],
+        [
+          2461,
+          2857
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "おほはらや雪ふりつみて道もなし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2192,
+          1190
+        ],
+        [
+          2192,
+          2759
+        ],
+        [
+          2315,
+          1190
+        ],
+        [
+          2315,
+          2759
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "けふはなやきそみねの炭かま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2063,
+          1176
+        ],
+        [
+          2063,
+          2827
+        ],
+        [
+          2190,
+          1176
+        ],
+        [
+          2190,
+          2827
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "月もいさ我にまたるゝものなれや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1799,
+          1185
+        ],
+        [
+          1799,
+          2629
+        ],
+        [
+          1910,
+          1185
+        ],
+        [
+          1910,
+          2629
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "ふくるを人のとかめおもはし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1663,
+          1192
+        ],
+        [
+          1663,
+          2889
+        ],
+        [
+          1779,
+          1192
+        ],
+        [
+          1779,
+          2889
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "いせの海にしつまはしつめ身のはてよ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1531,
+          1198
+        ],
+        [
+          1531,
+          2838
+        ],
+        [
+          1643,
+          1198
+        ],
+        [
+          1643,
+          2838
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "釣のうけれるさまもうらめし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1394,
+          856
+        ],
+        [
+          1394,
+          2973
+        ],
+        [
+          1521,
+          856
+        ],
+        [
+          1521,
+          2973
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "いつくをめつらしきたしとも覚え侍らねとも。見所",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1263,
+          862
+        ],
+        [
+          1263,
+          2981
+        ],
+        [
+          1385,
+          862
+        ],
+        [
+          1385,
+          2981
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "なきかうちにも。すこし哥のやうにもや侍らんとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1117,
+          855
+        ],
+        [
+          1117,
+          2990
+        ],
+        [
+          1247,
+          855
+        ],
+        [
+          1247,
+          2990
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "大かたこの外には花をたつぬる山の奥にも。散残り",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          989,
+          852
+        ],
+        [
+          989,
+          2996
+        ],
+        [
+          1109,
+          852
+        ],
+        [
+          1109,
+          2996
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "たる梢も見えす月を詠るいそかくれもかけとゝむる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          853,
+          850
+        ],
+        [
+          853,
+          2999
+        ],
+        [
+          980,
+          850
+        ],
+        [
+          980,
+          2999
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "浪もなけれは。山時鳥のをちかへり鳴ふる声をし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          719,
+          851
+        ],
+        [
+          719,
+          2990
+        ],
+        [
+          842,
+          851
+        ],
+        [
+          842,
+          2990
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "たひ。野原の雪のさきたつ跡をしるへにして。我と",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          566,
+          862
+        ],
+        [
+          566,
+          2996
+        ],
+        [
+          711,
+          862
+        ],
+        [
+          711,
+          2996
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "思ひよる事もあるへからすましてまた忍ぶ然山に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          430,
+          860
+        ],
+        [
+          430,
+          2996
+        ],
+        [
+          583,
+          860
+        ],
+        [
+          583,
+          2996
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "分入らん心のおくも。人うは人の残したることもなし。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          294,
+          851
+        ],
+        [
+          294,
+          3000
+        ],
+        [
+          436,
+          851
+        ],
+        [
+          436,
+          3000
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "春秋にもれたる草々も。いよめつらしからさら",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

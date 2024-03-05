@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5802,
+          1363
+        ],
+        [
+          5802,
+          3022
+        ],
+        [
+          6084,
+          1363
+        ],
+        [
+          6084,
+          3022
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "ふねのともりの花",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5474,
+          372
+        ],
+        [
+          5474,
+          4340
+        ],
+        [
+          5801,
+          372
+        ],
+        [
+          5801,
+          4340
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "一高砂の夕上の衣をなかけれは花こそ春のとよりなりけり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5242,
+          592
+        ],
+        [
+          5242,
+          4338
+        ],
+        [
+          5552,
+          592
+        ],
+        [
+          5552,
+          4338
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "ともふねもこきはなれ行うすゑよりかすみ吹とけよこも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4952,
+          1440
+        ],
+        [
+          4952,
+          2118
+        ],
+        [
+          5190,
+          1440
+        ],
+        [
+          5190,
+          2118
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "花落衣",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4712,
+          653
+        ],
+        [
+          4712,
+          4293
+        ],
+        [
+          5019,
+          653
+        ],
+        [
+          5019,
+          4293
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "さゝそひつる風はこすゑをすきぬなり花は鹿〻ちりかゝりつゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4488,
+          1495
+        ],
+        [
+          4488,
+          2460
+        ],
+        [
+          4737,
+          1495
+        ],
+        [
+          4737,
+          2460
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "さ人を恋",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4215,
+          310
+        ],
+        [
+          4215,
+          4340
+        ],
+        [
+          4515,
+          310
+        ],
+        [
+          4515,
+          4340
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "つくもかみこひぬ人にもいにしへは面影かさへ見えたる物を",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3944,
+          1551
+        ],
+        [
+          3944,
+          2648
+        ],
+        [
+          4164,
+          1551
+        ],
+        [
+          4164,
+          2648
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "ゐゆ草も",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3704,
+          654
+        ],
+        [
+          3704,
+          4311
+        ],
+        [
+          4014,
+          654
+        ],
+        [
+          4014,
+          4311
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "すきて行人はつらゝなはなすもなまねくま袖に雨はふりまて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3454,
+          1544
+        ],
+        [
+          3454,
+          2626
+        ],
+        [
+          3727,
+          1544
+        ],
+        [
+          3727,
+          2626
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "月依所明",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3078,
+          510
+        ],
+        [
+          3078,
+          4415
+        ],
+        [
+          3398,
+          510
+        ],
+        [
+          3398,
+          4415
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "名にたかきをはすて山のかひなれや月の光るのと□",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2811,
+          1440
+        ],
+        [
+          2811,
+          2952
+        ],
+        [
+          3040,
+          1440
+        ],
+        [
+          3040,
+          2952
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "涙をへたてたるゝ悪",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2562,
+          532
+        ],
+        [
+          2562,
+          4141
+        ],
+        [
+          2826,
+          532
+        ],
+        [
+          2826,
+          4141
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "恋侘てかく玉つさのもの関いつかこゆへき契なるらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2297,
+          1473
+        ],
+        [
+          2297,
+          2404
+        ],
+        [
+          2509,
+          1473
+        ],
+        [
+          2509,
+          2404
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "山家初雪",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2027,
+          527
+        ],
+        [
+          2027,
+          4136
+        ],
+        [
+          2290,
+          527
+        ],
+        [
+          2290,
+          4136
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "春陰花秋の月にもおとらぬは見山の里の雪の明ほの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1776,
+          1451
+        ],
+        [
+          1776,
+          3148
+        ],
+        [
+          2023,
+          1451
+        ],
+        [
+          2023,
+          3148
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "さいはらによする也",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1510,
+          540
+        ],
+        [
+          1510,
+          4157
+        ],
+        [
+          1777,
+          540
+        ],
+        [
+          1777,
+          4157
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "みし人はかれにふるあつまやはしけりのみますいすれはな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1262,
+          1438
+        ],
+        [
+          1262,
+          2972
+        ],
+        [
+          1521,
+          1438
+        ],
+        [
+          1521,
+          2972
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "山家はなをまつ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          971,
+          432
+        ],
+        [
+          971,
+          4098
+        ],
+        [
+          1330,
+          432
+        ],
+        [
+          1330,
+          4098
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "一里の花を其けなるこすゑよりまたぬあらしのをとそ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          675,
+          681
+        ],
+        [
+          675,
+          4086
+        ],
+        [
+          1028,
+          681
+        ],
+        [
+          1028,
+          4086
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "中宮の御方にさふらふ人をきん日らの",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

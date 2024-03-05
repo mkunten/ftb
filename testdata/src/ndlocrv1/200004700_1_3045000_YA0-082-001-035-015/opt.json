@@ -1,0 +1,31 @@
+{
+    "config_file": "config.yml",
+    "input_dirs": [
+        "/mnt/tmp/kotenocr_target1.txt/200004700_1_3045000_YA0-082-001-035-015"
+    ],
+    "input_root": "/mnt/tmp/kotenocr_target1.txt/200004700_1_3045000_YA0-082-001-035-015",
+    "input_structure": "s",
+    "kotenseki_reading_order": {
+        "checkpoint_path": "src/kotenseki_reading_order/models/kotenseki_reading_order_model.joblib"
+    },
+    "ndl_kotenseki_layout": {
+        "checkpoint_path": "src/ndl_kotenseki_layout/models/ndl_kotenseki_layout_v1.pth",
+        "config_path": "src/ndl_kotenseki_layout/models/ndl_kotenseki_layout_config.py",
+        "device": "cuda:0",
+        "score_thr": 0.3
+    },
+    "output_root": "/mnt/storage/kotenocred/200004700_1_3045000_YA0-082-001-035-015",
+    "partial_infer": false,
+    "proc_range": {
+        "end": 2,
+        "start": 0
+    },
+    "text_kotenseki_recognition": {
+        "accept_empty": true,
+        "batch_size": 100,
+        "device": "cuda:0",
+        "saved_ocr_model": "src/text_kotenseki_recognition/models/kotenseki-trocr-honkoku-v3",
+        "saved_preprocessor_model": "src/text_kotenseki_recognition/models/trocr-base-preprocessor",
+        "saved_tokenize_model": "src/text_kotenseki_recognition/models/decoder-roberta-v3"
+    }
+}

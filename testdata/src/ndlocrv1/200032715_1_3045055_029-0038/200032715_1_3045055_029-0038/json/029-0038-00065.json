@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5876,
+          546
+        ],
+        [
+          5876,
+          4302
+        ],
+        [
+          6261,
+          546
+        ],
+        [
+          6261,
+          4302
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "一水のあすと御国申人の名許をさすかにとめてきくもなしき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5635,
+          700
+        ],
+        [
+          5635,
+          4275
+        ],
+        [
+          5865,
+          700
+        ],
+        [
+          5865,
+          4275
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "面かけもその心もさらは御もせて中空のゐに心",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5389,
+          695
+        ],
+        [
+          5389,
+          4263
+        ],
+        [
+          5630,
+          695
+        ],
+        [
+          5630,
+          4263
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "うりける夢の契のもをさられさやるよもなき夜のみする",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5125,
+          854
+        ],
+        [
+          5125,
+          4291
+        ],
+        [
+          5355,
+          854
+        ],
+        [
+          5355,
+          4291
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "条房中納言のなけゝことありてこもりつゐたかもとへ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4842,
+          881
+        ],
+        [
+          4842,
+          4287
+        ],
+        [
+          5108,
+          881
+        ],
+        [
+          5108,
+          4287
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "是御はむかしの事もをのやういひなとする",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4588,
+          929
+        ],
+        [
+          4588,
+          3705
+        ],
+        [
+          4812,
+          929
+        ],
+        [
+          4812,
+          3705
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "人なれはとふらむ申とて五月三日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4320,
+          656
+        ],
+        [
+          4320,
+          4297
+        ],
+        [
+          4562,
+          656
+        ],
+        [
+          4562,
+          4297
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "つきもせぬうきねは袖にかけなからよその涙をめ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4061,
+          930
+        ],
+        [
+          4061,
+          1712
+        ],
+        [
+          4236,
+          930
+        ],
+        [
+          4236,
+          1712
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3777,
+          673
+        ],
+        [
+          3777,
+          4320
+        ],
+        [
+          4015,
+          673
+        ],
+        [
+          4015,
+          4320
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "かけなるゝうきねにつけて思ひやれあやめもしらぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3512,
+          814
+        ],
+        [
+          3512,
+          4292
+        ],
+        [
+          3777,
+          814
+        ],
+        [
+          3777,
+          4292
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "大宮入道内大臣う□たりし此公卿の中納言",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3118,
+          778
+        ],
+        [
+          3118,
+          4224
+        ],
+        [
+          3331,
+          778
+        ],
+        [
+          3331,
+          4224
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "かきこもりて五笛頃なともまいられさもしにしろ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2842,
+          769
+        ],
+        [
+          2842,
+          4237
+        ],
+        [
+          3105,
+          769
+        ],
+        [
+          3105,
+          4237
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "きうすやまの色のくしをかきたるかきて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2633,
+          797
+        ],
+        [
+          2633,
+          2685
+        ],
+        [
+          2837,
+          797
+        ],
+        [
+          2837,
+          2685
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "のつかはしゝかはりて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2309,
+          482
+        ],
+        [
+          2309,
+          4287
+        ],
+        [
+          2569,
+          482
+        ],
+        [
+          2569,
+          4287
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "まよふらむ御のやみをなけくかなとよのあかりのさやかなる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2081,
+          878
+        ],
+        [
+          2081,
+          3025
+        ],
+        [
+          2270,
+          878
+        ],
+        [
+          2270,
+          3025
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "聞しうするひのうすまに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1787,
+          545
+        ],
+        [
+          1787,
+          4236
+        ],
+        [
+          2055,
+          545
+        ],
+        [
+          2055,
+          4236
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "かきうりやみもよそにそなりぬへきをかのありかほの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1502,
+          766
+        ],
+        [
+          1502,
+          4190
+        ],
+        [
+          1785,
+          766
+        ],
+        [
+          1785,
+          4190
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "親宗の中納言うもてのち昔もちかくうし人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1255,
+          787
+        ],
+        [
+          1255,
+          4173
+        ],
+        [
+          1551,
+          787
+        ],
+        [
+          1551,
+          4173
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "かてあはれなれは親長のもとへ九月つくるう",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          998,
+          800
+        ],
+        [
+          998,
+          4170
+        ],
+        [
+          1250,
+          800
+        ],
+        [
+          1250,
+          4170
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "申やるゝ空のけしきも打くれてさまの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          560,
+          774
+        ],
+        [
+          560,
+          4220
+        ],
+        [
+          977,
+          774
+        ],
+        [
+          977,
+          4220
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "あかれもことにしのひかたけれは色なる人の袖は",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

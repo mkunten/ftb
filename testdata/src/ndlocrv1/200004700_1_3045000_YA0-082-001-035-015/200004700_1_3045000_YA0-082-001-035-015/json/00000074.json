@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3541,
+          843
+        ],
+        [
+          3541,
+          2388
+        ],
+        [
+          3666,
+          843
+        ],
+        [
+          3666,
+          2388
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "にやとりせしことおもひ出られて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3401,
+          1167
+        ],
+        [
+          3401,
+          2787
+        ],
+        [
+          3560,
+          1167
+        ],
+        [
+          3560,
+          2787
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "おしみしもおしまぬ人もとゝまらぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3266,
+          1175
+        ],
+        [
+          3266,
+          2791
+        ],
+        [
+          3399,
+          1175
+        ],
+        [
+          3399,
+          2791
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "かりのやとりにひと夜ねましを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3127,
+          825
+        ],
+        [
+          3127,
+          2965
+        ],
+        [
+          3282,
+          825
+        ],
+        [
+          3282,
+          2965
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "夜明てゆくほとに。長柄といふ所につきぬいにしへ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2988,
+          850
+        ],
+        [
+          2988,
+          2961
+        ],
+        [
+          3134,
+          850
+        ],
+        [
+          3134,
+          2961
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "は此所に橋ありて。人のゆきかよひしか。今は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2841,
+          833
+        ],
+        [
+          2841,
+          2962
+        ],
+        [
+          3002,
+          833
+        ],
+        [
+          3002,
+          2962
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "橋の跡とてはわつかにふるくゐはかり也。誠や古きた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2721,
+          825
+        ],
+        [
+          2721,
+          2630
+        ],
+        [
+          2850,
+          825
+        ],
+        [
+          2850,
+          2630
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "めしに。人のひくめれはことはりとそ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2594,
+          1177
+        ],
+        [
+          2594,
+          2859
+        ],
+        [
+          2731,
+          1177
+        ],
+        [
+          2731,
+          2859
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "くちはてしなからのはしのならへて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2463,
+          1184
+        ],
+        [
+          2463,
+          2863
+        ],
+        [
+          2581,
+          1184
+        ],
+        [
+          2581,
+          2863
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "けふにあひぬる身そやりにける",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2327,
+          841
+        ],
+        [
+          2327,
+          2975
+        ],
+        [
+          2463,
+          841
+        ],
+        [
+          2463,
+          2975
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "やう難波の浦につきぬ。聞しよりは見るはまさ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2183,
+          848
+        ],
+        [
+          2183,
+          2979
+        ],
+        [
+          2346,
+          848
+        ],
+        [
+          2346,
+          2979
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "れり。芦屋の里みつの浦なといふ。よせくる波に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2047,
+          846
+        ],
+        [
+          2047,
+          2984
+        ],
+        [
+          2196,
+          846
+        ],
+        [
+          2196,
+          2984
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "をしやかもめの水をもてあそひて。たはふるゝさま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1789,
+          861
+        ],
+        [
+          1789,
+          1686
+        ],
+        [
+          1907,
+          861
+        ],
+        [
+          1907,
+          1686
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "とおもしろし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1643,
+          1177
+        ],
+        [
+          1643,
+          2738
+        ],
+        [
+          1772,
+          1177
+        ],
+        [
+          1772,
+          2738
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "難波かたあしまの小舟いとまなみ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1517,
+          1186
+        ],
+        [
+          1517,
+          2767
+        ],
+        [
+          1629,
+          1186
+        ],
+        [
+          1629,
+          2767
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "さほのしつくに袖そくちぬる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1379,
+          854
+        ],
+        [
+          1379,
+          2876
+        ],
+        [
+          1516,
+          854
+        ],
+        [
+          1516,
+          2876
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "三つの浦より舟に乗て。爰かしこを見るに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1242,
+          1188
+        ],
+        [
+          1242,
+          2848
+        ],
+        [
+          1362,
+          1188
+        ],
+        [
+          1362,
+          2848
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "聞しより見るはまされりけふこそは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1112,
+          1184
+        ],
+        [
+          1112,
+          2867
+        ],
+        [
+          1234,
+          1184
+        ],
+        [
+          1234,
+          2867
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "はしめてみつのうらの夕なみ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          970,
+          856
+        ],
+        [
+          970,
+          2971
+        ],
+        [
+          1097,
+          856
+        ],
+        [
+          1097,
+          2971
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "たみのゝ島にあかりて見れはあまの釣する船と",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          843,
+          862
+        ],
+        [
+          843,
+          2977
+        ],
+        [
+          968,
+          862
+        ],
+        [
+          968,
+          2977
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "もあまた岸のほとりに漕よせてやすらひゐたり。釣",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          705,
+          853
+        ],
+        [
+          705,
+          2977
+        ],
+        [
+          834,
+          853
+        ],
+        [
+          834,
+          2977
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "のうけなはぬれたるあみを。木の枝にかけをきたる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          587,
+          864
+        ],
+        [
+          587,
+          1275
+        ],
+        [
+          684,
+          864
+        ],
+        [
+          684,
+          1275
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "を見て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          425,
+          1193
+        ],
+        [
+          425,
+          2902
+        ],
+        [
+          556,
+          1193
+        ],
+        [
+          556,
+          2902
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "雨ふれとふらねとかはくひまそなき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          287,
+          1191
+        ],
+        [
+          287,
+          2867
+        ],
+        [
+          415,
+          1191
+        ],
+        [
+          415,
+          2867
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "たみのゝ島のあまのぬれ衣",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

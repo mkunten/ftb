@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5850,
+          499
+        ],
+        [
+          5850,
+          4314
+        ],
+        [
+          6176,
+          499
+        ],
+        [
+          6176,
+          4314
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "清ぬへみ煙の末はうら風になりきもをすてたゝよふ物を",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5586,
+          835
+        ],
+        [
+          5586,
+          3062
+        ],
+        [
+          5814,
+          835
+        ],
+        [
+          5814,
+          3062
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "またおりしこをいりて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5338,
+          562
+        ],
+        [
+          5338,
+          4289
+        ],
+        [
+          5620,
+          562
+        ],
+        [
+          5620,
+          4289
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "君のみふかくかくへき我をゝきて誰に心をかはすなるらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5103,
+          886
+        ],
+        [
+          5103,
+          1488
+        ],
+        [
+          5246,
+          886
+        ],
+        [
+          5246,
+          1488
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "廻し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4730,
+          598
+        ],
+        [
+          4730,
+          4273
+        ],
+        [
+          5097,
+          598
+        ],
+        [
+          5097,
+          4273
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "人わかすあはれをかはすあた人になさけくりてもみえしとは思ふ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4551,
+          844
+        ],
+        [
+          4551,
+          2671
+        ],
+        [
+          4815,
+          844
+        ],
+        [
+          4815,
+          2671
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "まりの日おなし人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4259,
+          605
+        ],
+        [
+          4259,
+          4263
+        ],
+        [
+          4536,
+          605
+        ],
+        [
+          4536,
+          4263
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "行すゑを神にかけても新〽あふ日てふらをふらし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4043,
+          845
+        ],
+        [
+          4043,
+          1491
+        ],
+        [
+          4259,
+          845
+        ],
+        [
+          4259,
+          1491
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3712,
+          565
+        ],
+        [
+          3712,
+          4278
+        ],
+        [
+          4010,
+          565
+        ],
+        [
+          4010,
+          4278
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "もろうたの名をかけて新とも神の心うけしとそ思ふ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3496,
+          809
+        ],
+        [
+          3496,
+          4274
+        ],
+        [
+          3749,
+          809
+        ],
+        [
+          3749,
+          4274
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "かやうかてなかことにもさてあらてぬいゝくやしき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3112,
+          816
+        ],
+        [
+          3112,
+          2597
+        ],
+        [
+          3353,
+          816
+        ],
+        [
+          3353,
+          2597
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "手おかひしころ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2848,
+          598
+        ],
+        [
+          2848,
+          4235
+        ],
+        [
+          3122,
+          598
+        ],
+        [
+          3122,
+          4235
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "こえぬれはくやしかりけりあふさかを何故にかゝふみはしめん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2591,
+          769
+        ],
+        [
+          2591,
+          4261
+        ],
+        [
+          2855,
+          769
+        ],
+        [
+          2855,
+          4261
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "車おこせつゝ人のもとへ行なさせしか如し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2340,
+          798
+        ],
+        [
+          2340,
+          4266
+        ],
+        [
+          2578,
+          798
+        ],
+        [
+          2578,
+          4266
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "つよくさたまるへしなと申しころなれぬる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2103,
+          821
+        ],
+        [
+          2103,
+          4060
+        ],
+        [
+          2345,
+          821
+        ],
+        [
+          2345,
+          4060
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "枕に硯のみらしをひきかせてかきつくる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1811,
+          503
+        ],
+        [
+          1811,
+          4263
+        ],
+        [
+          2068,
+          503
+        ],
+        [
+          2068,
+          4263
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "つか真たもひうつるとしるなら夜なくなれし枕仲は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1559,
+          836
+        ],
+        [
+          1559,
+          4223
+        ],
+        [
+          1777,
+          836
+        ],
+        [
+          1777,
+          4223
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "帰りて後みつけたりけるとてやかてあれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1259,
+          591
+        ],
+        [
+          1259,
+          4246
+        ],
+        [
+          1538,
+          591
+        ],
+        [
+          1538,
+          4246
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "心にも袖にもあまるうつりにを枕かえのみや契をくるへき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1029,
+          752
+        ],
+        [
+          1029,
+          4251
+        ],
+        [
+          1286,
+          752
+        ],
+        [
+          1286,
+          4251
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "おなしよとこなて郭公をゆたりしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          749,
+          679
+        ],
+        [
+          749,
+          4315
+        ],
+        [
+          1015,
+          679
+        ],
+        [
+          1015,
+          4315
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "ひとりねさめにまたかはらぬ静にてすきしを",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

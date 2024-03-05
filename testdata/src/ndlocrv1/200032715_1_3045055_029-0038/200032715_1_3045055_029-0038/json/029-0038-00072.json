@@ -1,0 +1,204 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5775,
+          784
+        ],
+        [
+          5775,
+          4118
+        ],
+        [
+          6211,
+          784
+        ],
+        [
+          6211,
+          4118
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "建礼門院右京大夫家康",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5347,
+          904
+        ],
+        [
+          5347,
+          4125
+        ],
+        [
+          5740,
+          904
+        ],
+        [
+          5740,
+          4125
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "いさ衛門尉平氏若本永",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4955,
+          920
+        ],
+        [
+          4955,
+          4116
+        ],
+        [
+          5264,
+          920
+        ],
+        [
+          5264,
+          4116
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "享十二年三月日云々へ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4487,
+          2541
+        ],
+        [
+          4487,
+          3828
+        ],
+        [
+          4804,
+          2541
+        ],
+        [
+          4804,
+          3828
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "藤原利永",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3994,
+          902
+        ],
+        [
+          3994,
+          4028
+        ],
+        [
+          4362,
+          902
+        ],
+        [
+          4362,
+          4028
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "右以本寛永元年九月",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3621,
+          957
+        ],
+        [
+          3621,
+          3184
+        ],
+        [
+          4057,
+          957
+        ],
+        [
+          4057,
+          3184
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "同書之同校合候",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          721,
+          3750
+        ],
+        [
+          721,
+          4210
+        ],
+        [
+          823,
+          3750
+        ],
+        [
+          823,
+          4210
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "なる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          582,
+          3739
+        ],
+        [
+          582,
+          4213
+        ],
+        [
+          702,
+          3739
+        ],
+        [
+          702,
+          4213
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "ゆき",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

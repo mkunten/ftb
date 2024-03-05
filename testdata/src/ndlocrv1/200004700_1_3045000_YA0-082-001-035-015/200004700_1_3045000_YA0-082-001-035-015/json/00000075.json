@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3538,
+          842
+        ],
+        [
+          3538,
+          2970
+        ],
+        [
+          3694,
+          842
+        ],
+        [
+          3694,
+          2970
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "それより南にあたりて野田の玉河といふ所あり此",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3414,
+          847
+        ],
+        [
+          3414,
+          2405
+        ],
+        [
+          3526,
+          847
+        ],
+        [
+          3526,
+          2405
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "ほとりに藤の花咲みたれたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3269,
+          1172
+        ],
+        [
+          3269,
+          2819
+        ],
+        [
+          3422,
+          1172
+        ],
+        [
+          3422,
+          2819
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "紫の雲とやいはむふしのはな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3134,
+          1189
+        ],
+        [
+          3134,
+          2796
+        ],
+        [
+          3264,
+          1189
+        ],
+        [
+          3264,
+          2796
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "野にも山にもばひそかゞれる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2995,
+          848
+        ],
+        [
+          2995,
+          2990
+        ],
+        [
+          3129,
+          848
+        ],
+        [
+          3129,
+          2990
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "是より住吉にまうてむとて。天王寺に立よりみれは。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2866,
+          868
+        ],
+        [
+          2866,
+          2982
+        ],
+        [
+          3006,
+          868
+        ],
+        [
+          3006,
+          2982
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "聖徳太子四天王をおさめをき給ふ。又みつからの御",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2713,
+          862
+        ],
+        [
+          2713,
+          2980
+        ],
+        [
+          2867,
+          862
+        ],
+        [
+          2867,
+          2980
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "俄をすへ置給ふ。石の鳥居亀井の水なと。心しつかに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2599,
+          858
+        ],
+        [
+          2599,
+          1409
+        ],
+        [
+          2676,
+          858
+        ],
+        [
+          2676,
+          1409
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "なかめて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2451,
+          1194
+        ],
+        [
+          2451,
+          2907
+        ],
+        [
+          2584,
+          1194
+        ],
+        [
+          2584,
+          2907
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "よろつ代をかめ竹の水に結ひをきて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2321,
+          1191
+        ],
+        [
+          2321,
+          2836
+        ],
+        [
+          2432,
+          1191
+        ],
+        [
+          2432,
+          2836
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "ゆくすゑなかくわれもたのまむ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2160,
+          855
+        ],
+        [
+          2160,
+          2916
+        ],
+        [
+          2321,
+          855
+        ],
+        [
+          2321,
+          2916
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "夫より住吉にまかりて。四社の明神をおかみ奉りて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2055,
+          1191
+        ],
+        [
+          2055,
+          2830
+        ],
+        [
+          2184,
+          1191
+        ],
+        [
+          2184,
+          2830
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "よもの海ふかきちかひやひのもとの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1766,
+          1178
+        ],
+        [
+          1766,
+          2686
+        ],
+        [
+          1880,
+          1178
+        ],
+        [
+          1880,
+          2686
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "民もゆたかにすみよしの神",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1625,
+          832
+        ],
+        [
+          1625,
+          2954
+        ],
+        [
+          1758,
+          832
+        ],
+        [
+          1758,
+          2954
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "この御神は和歌の道に心さしふかき人を能",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1486,
+          837
+        ],
+        [
+          1486,
+          2952
+        ],
+        [
+          1624,
+          837
+        ],
+        [
+          1624,
+          2952
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "まもらせ給ふと。昔よりいひつたへ侍り。ことに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1356,
+          831
+        ],
+        [
+          1356,
+          2950
+        ],
+        [
+          1498,
+          831
+        ],
+        [
+          1498,
+          2950
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "秀歌を好む人此神に参りて祈誓申せは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1239,
+          829
+        ],
+        [
+          1239,
+          2574
+        ],
+        [
+          1344,
+          829
+        ],
+        [
+          1344,
+          2574
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "かならすその道にかなひけるとそ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1079,
+          1166
+        ],
+        [
+          1079,
+          2760
+        ],
+        [
+          1210,
+          1166
+        ],
+        [
+          1210,
+          2760
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "神代よりつたへたふる敷嶋の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          976,
+          1158
+        ],
+        [
+          976,
+          2811
+        ],
+        [
+          1069,
+          1158
+        ],
+        [
+          1069,
+          2811
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "ろに心もうとくも有かなし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          822,
+          824
+        ],
+        [
+          822,
+          2945
+        ],
+        [
+          957,
+          824
+        ],
+        [
+          957,
+          2945
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "浜へにくたりて松の木塩に立より見れはまことに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          691,
+          820
+        ],
+        [
+          691,
+          2941
+        ],
+        [
+          820,
+          820
+        ],
+        [
+          820,
+          2941
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "雁なきて菊の花さくと。在原中将か詠せし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          579,
+          821
+        ],
+        [
+          579,
+          1635
+        ],
+        [
+          678,
+          821
+        ],
+        [
+          678,
+          1635
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "ことおもひ出て",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          410,
+          1145
+        ],
+        [
+          410,
+          2680
+        ],
+        [
+          532,
+          1145
+        ],
+        [
+          532,
+          2680
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "住吉の岸によるてふしら浪の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          275,
+          1149
+        ],
+        [
+          275,
+          2773
+        ],
+        [
+          400,
+          1149
+        ],
+        [
+          400,
+          2773
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "しらすむかしを松にとふらん",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

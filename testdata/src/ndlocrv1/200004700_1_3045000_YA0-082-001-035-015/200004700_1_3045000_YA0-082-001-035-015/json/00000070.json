@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3559,
+          1186
+        ],
+        [
+          3559,
+          2773
+        ],
+        [
+          3683,
+          1186
+        ],
+        [
+          3683,
+          2773
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "かつちる花にはる風そふく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3416,
+          1191
+        ],
+        [
+          3416,
+          2788
+        ],
+        [
+          3559,
+          1191
+        ],
+        [
+          3559,
+          2788
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "なりはひにたのむ所やおほからん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3282,
+          1206
+        ],
+        [
+          3282,
+          2711
+        ],
+        [
+          3408,
+          1206
+        ],
+        [
+          3408,
+          2711
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "ひをへてつきすとる早苗哉",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3140,
+          1189
+        ],
+        [
+          3140,
+          2898
+        ],
+        [
+          3275,
+          1189
+        ],
+        [
+          3275,
+          2898
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "尋はや宇よをそむけるすまゐにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3012,
+          1189
+        ],
+        [
+          3012,
+          2770
+        ],
+        [
+          3143,
+          1189
+        ],
+        [
+          3143,
+          2770
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "世は忘られぬ月の影かと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2881,
+          1201
+        ],
+        [
+          2881,
+          2892
+        ],
+        [
+          3000,
+          1201
+        ],
+        [
+          3000,
+          2892
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "鶯のなかぬはかりそ年のうちに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2742,
+          1184
+        ],
+        [
+          2742,
+          2803
+        ],
+        [
+          2862,
+          1184
+        ],
+        [
+          2862,
+          2803
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "はるやをそきとさける梅かえ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2598,
+          1192
+        ],
+        [
+          2598,
+          2905
+        ],
+        [
+          2733,
+          1192
+        ],
+        [
+          2733,
+          2905
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "身をおもへはにほのうきすもよそなれや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2477,
+          1199
+        ],
+        [
+          2477,
+          2815
+        ],
+        [
+          2587,
+          1199
+        ],
+        [
+          2587,
+          2815
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "しつむはかりの身をなけくかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2337,
+          1185
+        ],
+        [
+          2337,
+          2877
+        ],
+        [
+          2475,
+          1185
+        ],
+        [
+          2475,
+          2877
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "やともなく月にゆくへきみちなれや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2195,
+          1196
+        ],
+        [
+          2195,
+          2761
+        ],
+        [
+          2331,
+          1196
+        ],
+        [
+          2331,
+          2761
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "さのゝわたりの秋のたひ人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2077,
+          2057
+        ],
+        [
+          2077,
+          2323
+        ],
+        [
+          2174,
+          2057
+        ],
+        [
+          2174,
+          2323
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "関白",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1797,
+          1190
+        ],
+        [
+          1797,
+          2725
+        ],
+        [
+          1925,
+          1190
+        ],
+        [
+          1925,
+          2725
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "さくら花故郷人はとはすとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1680,
+          1201
+        ],
+        [
+          1680,
+          2738
+        ],
+        [
+          1780,
+          1201
+        ],
+        [
+          1780,
+          2738
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "ちらはちれともいかゝおもはむ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1529,
+          1198
+        ],
+        [
+          1529,
+          2832
+        ],
+        [
+          1656,
+          1198
+        ],
+        [
+          1656,
+          2832
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "山のはのつしさをしらて夏の夜の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1396,
+          1192
+        ],
+        [
+          1396,
+          2790
+        ],
+        [
+          1510,
+          1192
+        ],
+        [
+          1510,
+          2790
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "中そらにのみ残る月かな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1251,
+          1195
+        ],
+        [
+          1251,
+          2879
+        ],
+        [
+          1379,
+          1195
+        ],
+        [
+          1379,
+          2879
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "月さにそ軒のしのふをもりかねて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1120,
+          1193
+        ],
+        [
+          1120,
+          2851
+        ],
+        [
+          1234,
+          1193
+        ],
+        [
+          1234,
+          2851
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "すますなりぬる煤のふるさと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          984,
+          1202
+        ],
+        [
+          984,
+          2837
+        ],
+        [
+          1105,
+          1202
+        ],
+        [
+          1105,
+          2837
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "関よりはしくると見つる山のはに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          855,
+          1206
+        ],
+        [
+          855,
+          2745
+        ],
+        [
+          968,
+          1206
+        ],
+        [
+          968,
+          2745
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "雪をのこしてはるゝうき雲",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          705,
+          1200
+        ],
+        [
+          705,
+          2851
+        ],
+        [
+          843,
+          1200
+        ],
+        [
+          843,
+          2851
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "ますかゝみ人はとゝめぬおもかけの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          570,
+          1185
+        ],
+        [
+          570,
+          2808
+        ],
+        [
+          692,
+          1185
+        ],
+        [
+          692,
+          2808
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "みるたひことになとうかふらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          441,
+          1200
+        ],
+        [
+          441,
+          2844
+        ],
+        [
+          570,
+          1200
+        ],
+        [
+          570,
+          2844
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "難波江の身をつくしてもつかへきぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          309,
+          1170
+        ],
+        [
+          309,
+          2777
+        ],
+        [
+          432,
+          1170
+        ],
+        [
+          432,
+          2777
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "ふかき心のしるしあらはせ",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

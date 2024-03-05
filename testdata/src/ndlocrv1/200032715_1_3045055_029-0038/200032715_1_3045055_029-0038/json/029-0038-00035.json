@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5893,
+          898
+        ],
+        [
+          5893,
+          4398
+        ],
+        [
+          6240,
+          898
+        ],
+        [
+          6240,
+          4398
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "前なるかきほとくすはひかくこさゝうちなむくに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5597,
+          669
+        ],
+        [
+          5597,
+          4157
+        ],
+        [
+          5905,
+          669
+        ],
+        [
+          5905,
+          4157
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "山里は出にかくすのうらみにてこさゝか原に秋の船風",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5345,
+          952
+        ],
+        [
+          5345,
+          3806
+        ],
+        [
+          5558,
+          952
+        ],
+        [
+          5558,
+          3806
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "月のよれはのおもひ出てすもなくて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5042,
+          627
+        ],
+        [
+          5042,
+          4150
+        ],
+        [
+          5304,
+          627
+        ],
+        [
+          5304,
+          4150
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "面影を心にこめてなかむれは忍かたくもすめる月さ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4798,
+          892
+        ],
+        [
+          4798,
+          4197
+        ],
+        [
+          5000,
+          892
+        ],
+        [
+          5000,
+          4197
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "冬になりてかれのゝおきに時ゆはしたるくまて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4548,
+          921
+        ],
+        [
+          4548,
+          4286
+        ],
+        [
+          4774,
+          921
+        ],
+        [
+          4774,
+          4286
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "ぬれたのすさましてに空よりさきにし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4266,
+          904
+        ],
+        [
+          4266,
+          4281
+        ],
+        [
+          4562,
+          904
+        ],
+        [
+          4562,
+          4281
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "たるみか葉のろくしやうけいなるか時みたるに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4023,
+          916
+        ],
+        [
+          4023,
+          3811
+        ],
+        [
+          4236,
+          916
+        ],
+        [
+          4236,
+          3811
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "露は呼まひいてゝをきいたしたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3738,
+          637
+        ],
+        [
+          3738,
+          4257
+        ],
+        [
+          4033,
+          637
+        ],
+        [
+          4033,
+          4257
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "霜さゆるかのゝおきの露の色秋のなこりをとりにしや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3435,
+          948
+        ],
+        [
+          3435,
+          4263
+        ],
+        [
+          3749,
+          948
+        ],
+        [
+          3749,
+          4263
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "かやうとなくねやのさむしへは打はらひつかふ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2854,
+          798
+        ],
+        [
+          2854,
+          2142
+        ],
+        [
+          3043,
+          798
+        ],
+        [
+          3043,
+          2142
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "このみあはれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2559,
+          463
+        ],
+        [
+          2559,
+          4239
+        ],
+        [
+          2816,
+          463
+        ],
+        [
+          2816,
+          4239
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "夕ざれはあらましことおもかけに枕のちりを打はらひつゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2309,
+          513
+        ],
+        [
+          2309,
+          4234
+        ],
+        [
+          2631,
+          513
+        ],
+        [
+          2631,
+          4234
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "定にさふらひしまさりの中納言しむすめうち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2054,
+          776
+        ],
+        [
+          2054,
+          4192
+        ],
+        [
+          2301,
+          776
+        ],
+        [
+          2301,
+          4192
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "とのゝいひしる物いひかしくにくからぬさまして",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1771,
+          788
+        ],
+        [
+          1771,
+          4183
+        ],
+        [
+          2027,
+          788
+        ],
+        [
+          2027,
+          4183
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "なにもも中かはしなととしか秋ころいさと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1489,
+          817
+        ],
+        [
+          1489,
+          4128
+        ],
+        [
+          1751,
+          817
+        ],
+        [
+          1751,
+          4128
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "にてゆあむるとてひさしくこもり給られたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1242,
+          816
+        ],
+        [
+          1242,
+          3386
+        ],
+        [
+          1474,
+          816
+        ],
+        [
+          1474,
+          3386
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "しにこのついてに申つかはす",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          916,
+          492
+        ],
+        [
+          916,
+          4197
+        ],
+        [
+          1243,
+          492
+        ],
+        [
+          1243,
+          4197
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "まし葉ふくねやのはたまもりる月をしもとやはらふ秋の山里",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          719,
+          538
+        ],
+        [
+          719,
+          4265
+        ],
+        [
+          965,
+          538
+        ],
+        [
+          965,
+          4265
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "めつらしくわか思はるしかのねをあくにてきくや秋の山さと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          550,
+          527
+        ],
+        [
+          550,
+          4028
+        ],
+        [
+          759,
+          527
+        ],
+        [
+          759,
+          4028
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "仕と申候由声やおきそふ所きくらし雨ふる頃の秋の山郷",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

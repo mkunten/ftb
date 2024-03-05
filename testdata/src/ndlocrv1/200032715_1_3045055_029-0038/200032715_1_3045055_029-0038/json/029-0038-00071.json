@@ -1,0 +1,204 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5816,
+          1290
+        ],
+        [
+          5816,
+          4013
+        ],
+        [
+          6238,
+          1290
+        ],
+        [
+          6238,
+          4013
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "とるありしなむ様して",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5659,
+          2821
+        ],
+        [
+          5659,
+          4119
+        ],
+        [
+          5793,
+          2821
+        ],
+        [
+          5793,
+          4119
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "こまらし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3059,
+          1493
+        ],
+        [
+          3059,
+          2725
+        ],
+        [
+          3311,
+          1493
+        ],
+        [
+          3311,
+          2725
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "世尊寺系図",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2823,
+          1331
+        ],
+        [
+          2823,
+          1854
+        ],
+        [
+          2926,
+          1331
+        ],
+        [
+          2926,
+          1854
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "伊尹義左衛門",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2498,
+          1181
+        ],
+        [
+          2498,
+          3647
+        ],
+        [
+          2806,
+          1181
+        ],
+        [
+          2806,
+          3647
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "行成行経伊房定貫",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2109,
+          1328
+        ],
+        [
+          2109,
+          3543
+        ],
+        [
+          2402,
+          1328
+        ],
+        [
+          2402,
+          3543
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "定信伊行伊経行能",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2039,
+          1345
+        ],
+        [
+          2039,
+          1607
+        ],
+        [
+          2136,
+          1345
+        ],
+        [
+          2136,
+          1607
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "百徳書",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1741,
+          2168
+        ],
+        [
+          1741,
+          3604
+        ],
+        [
+          1992,
+          2168
+        ],
+        [
+          1992,
+          3604
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "建礼門院右京大夫",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

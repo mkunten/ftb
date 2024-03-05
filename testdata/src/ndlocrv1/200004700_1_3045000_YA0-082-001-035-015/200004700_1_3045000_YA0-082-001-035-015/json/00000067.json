@@ -1,0 +1,629 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3293,
+          870
+        ],
+        [
+          3293,
+          2995
+        ],
+        [
+          3416,
+          870
+        ],
+        [
+          3416,
+          2995
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "と申侍しに。いくとせも隔てさりしに女院も御かく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3427,
+          1192
+        ],
+        [
+          3427,
+          2839
+        ],
+        [
+          3546,
+          1192
+        ],
+        [
+          3546,
+          2839
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "おなしかさしのみはし野の花",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3559,
+          1185
+        ],
+        [
+          3559,
+          2902
+        ],
+        [
+          3692,
+          1185
+        ],
+        [
+          3692,
+          2902
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "たつね見る人のためにや残りけん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3140,
+          867
+        ],
+        [
+          3140,
+          2992
+        ],
+        [
+          3282,
+          867
+        ],
+        [
+          3282,
+          2992
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "礼有しかは更にまた世の中くれまとひぬる心地",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3019,
+          873
+        ],
+        [
+          3019,
+          2993
+        ],
+        [
+          3143,
+          873
+        ],
+        [
+          3143,
+          2993
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "して後の春またかの御ふみをとり出して見侍しに。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2880,
+          866
+        ],
+        [
+          2880,
+          3002
+        ],
+        [
+          3013,
+          866
+        ],
+        [
+          3013,
+          3002
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "しほめる花もさなからつゝみくせられて見しまゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2739,
+          856
+        ],
+        [
+          2739,
+          2051
+        ],
+        [
+          2850,
+          856
+        ],
+        [
+          2850,
+          2051
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "なれはいとゝあはれにて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2620,
+          1188
+        ],
+        [
+          2620,
+          2907
+        ],
+        [
+          2745,
+          1188
+        ],
+        [
+          2745,
+          2907
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "たつねてもいまはた誰かみなし野の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2473,
+          1195
+        ],
+        [
+          2473,
+          2884
+        ],
+        [
+          2600,
+          1195
+        ],
+        [
+          2600,
+          2884
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "はなのむかしを我にかたらむ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2334,
+          1075
+        ],
+        [
+          2334,
+          1170
+        ],
+        [
+          2455,
+          1075
+        ],
+        [
+          2455,
+          1170
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "又",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2073,
+          864
+        ],
+        [
+          2073,
+          2979
+        ],
+        [
+          2220,
+          864
+        ],
+        [
+          2220,
+          2979
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "正平十五年東国の凶徒とも。河内国にせめ入て。行宮も",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2239,
+          2299
+        ],
+        [
+          2239,
+          2417
+        ],
+        [
+          2328,
+          2299
+        ],
+        [
+          2328,
+          2417
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "八",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1801,
+          855
+        ],
+        [
+          1801,
+          2968
+        ],
+        [
+          1924,
+          855
+        ],
+        [
+          1924,
+          2968
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "あやうし聞えしかは。なにともしてひとつ所へなと思ひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1658,
+          853
+        ],
+        [
+          1658,
+          2970
+        ],
+        [
+          1778,
+          853
+        ],
+        [
+          1778,
+          2970
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "侍しかとも。ふとはかなひ侍らて。心くるしうきゝ。わた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1535,
+          849
+        ],
+        [
+          1535,
+          2971
+        ],
+        [
+          1655,
+          849
+        ],
+        [
+          1655,
+          2971
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "り侍し。程なうもとのことくにうちしたかへられて。あ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1388,
+          855
+        ],
+        [
+          1388,
+          2984
+        ],
+        [
+          1518,
+          855
+        ],
+        [
+          1518,
+          2984
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "まさへ御入洛あるへきにて。住吉へうつろはせ給程",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1251,
+          854
+        ],
+        [
+          1251,
+          2993
+        ],
+        [
+          1379,
+          854
+        ],
+        [
+          1379,
+          2993
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "信濃よりとも申あはせめて。せめのほるへきよし仰られ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1108,
+          853
+        ],
+        [
+          1108,
+          2992
+        ],
+        [
+          1237,
+          853
+        ],
+        [
+          1237,
+          2992
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "しに。秋冬まてに成にけれはをそく侍とて。いつ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          981,
+          846
+        ],
+        [
+          981,
+          2990
+        ],
+        [
+          1106,
+          846
+        ],
+        [
+          1106,
+          2990
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "まてかわれのみ独りすみよしのとはぬ恨を君にのこ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          845,
+          848
+        ],
+        [
+          845,
+          2895
+        ],
+        [
+          979,
+          848
+        ],
+        [
+          979,
+          2895
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "さんと仰られしかは返れに奏せさせ侍し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          722,
+          1178
+        ],
+        [
+          722,
+          2805
+        ],
+        [
+          832,
+          1178
+        ],
+        [
+          832,
+          2805
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "わかいそく心をしらはすみよしの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          734,
+          1172
+        ],
+        [
+          734,
+          1316
+        ],
+        [
+          788,
+          1172
+        ],
+        [
+          788,
+          1316
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "わか",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          585,
+          1174
+        ],
+        [
+          585,
+          2825
+        ],
+        [
+          711,
+          1174
+        ],
+        [
+          711,
+          2825
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "まつ久しさをうらみさらまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          429,
+          850
+        ],
+        [
+          429,
+          3000
+        ],
+        [
+          594,
+          850
+        ],
+        [
+          594,
+          3000
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "冬の程は馬のあしなとも木曽路のこほりになん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          297,
+          852
+        ],
+        [
+          297,
+          2072
+        ],
+        [
+          404,
+          852
+        ],
+        [
+          404,
+          2072
+        ]
+      ],
+      "id": 25,
+      "isVertical": "true",
+      "text": "きなるへきよし申て",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

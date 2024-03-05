@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5847,
+          745
+        ],
+        [
+          5847,
+          2707
+        ],
+        [
+          6079,
+          745
+        ],
+        [
+          6079,
+          2707
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "人のきませしに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5522,
+          433
+        ],
+        [
+          5522,
+          4231
+        ],
+        [
+          5816,
+          433
+        ],
+        [
+          5816,
+          4231
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "千世の秋すむへき空の月もる今雪の影やめ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5240,
+          448
+        ],
+        [
+          5240,
+          4245
+        ],
+        [
+          5543,
+          448
+        ],
+        [
+          5543,
+          4245
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "つれもなき人そ情も知られけりぬれすは袖に月を",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4955,
+          752
+        ],
+        [
+          4955,
+          4144
+        ],
+        [
+          5284,
+          752
+        ],
+        [
+          5284,
+          4144
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "ふかり有人の風のおこりたるをとふらひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4818,
+          784
+        ],
+        [
+          4818,
+          2371
+        ],
+        [
+          4984,
+          784
+        ],
+        [
+          4984,
+          2371
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "たわし返事に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4527,
+          518
+        ],
+        [
+          4527,
+          4246
+        ],
+        [
+          4769,
+          518
+        ],
+        [
+          4769,
+          4246
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "なさけをくとのはことにもにしみて涙のふろそいとゝほるゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4222,
+          864
+        ],
+        [
+          4222,
+          3503
+        ],
+        [
+          4489,
+          864
+        ],
+        [
+          4489,
+          3503
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "ふくになりたる人とふらふとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3968,
+          580
+        ],
+        [
+          3968,
+          4231
+        ],
+        [
+          4230,
+          580
+        ],
+        [
+          4230,
+          4231
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "君とも思ひしらなん忠ゆへによそのなけきの露もふかき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3694,
+          940
+        ],
+        [
+          3694,
+          4238
+        ],
+        [
+          3966,
+          940
+        ],
+        [
+          3966,
+          4238
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "こ松のおとゝうせ給て後北方の御りとん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3484,
+          954
+        ],
+        [
+          3484,
+          2743
+        ],
+        [
+          3672,
+          954
+        ],
+        [
+          3672,
+          2743
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "十月はかりきゆる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3055,
+          580
+        ],
+        [
+          3055,
+          4231
+        ],
+        [
+          3306,
+          580
+        ],
+        [
+          3306,
+          4231
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "かきくらす夜の夜にも色かはる袖のしくれを思こそう",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2771,
+          586
+        ],
+        [
+          2771,
+          4227
+        ],
+        [
+          3075,
+          586
+        ],
+        [
+          3075,
+          4227
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "とほるらんふかき枕にちりはゐてはらはぬときを思うやれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2625,
+          993
+        ],
+        [
+          2625,
+          1502
+        ],
+        [
+          2813,
+          993
+        ],
+        [
+          2813,
+          1502
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "返し",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2302,
+          629
+        ],
+        [
+          2302,
+          4213
+        ],
+        [
+          2542,
+          629
+        ],
+        [
+          2542,
+          4213
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "をとつるゝ時毎は袖にしらそひてなくあかすよりうちし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2020,
+          617
+        ],
+        [
+          2020,
+          4255
+        ],
+        [
+          2284,
+          617
+        ],
+        [
+          2284,
+          4255
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "みかきこし玉沢よとこにちりつみてふるき穢をみるそかなき",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1799,
+          829
+        ],
+        [
+          1799,
+          4253
+        ],
+        [
+          2027,
+          829
+        ],
+        [
+          2027,
+          4253
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "なりちかの大納言とおき所へくたられにし後",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1532,
+          874
+        ],
+        [
+          1532,
+          3040
+        ],
+        [
+          1762,
+          874
+        ],
+        [
+          1762,
+          3040
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "院の京こくとのゝつりとん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1233,
+          599
+        ],
+        [
+          1233,
+          4206
+        ],
+        [
+          1510,
+          599
+        ],
+        [
+          1510,
+          4206
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "如何体の下のこほるらんなへての袖もさゆるこの比",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          957,
+          606
+        ],
+        [
+          957,
+          4216
+        ],
+        [
+          1232,
+          606
+        ],
+        [
+          1232,
+          4216
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "旅衣立別にしあとの袖にもろき涙のつゆやるま",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          700,
+          951
+        ],
+        [
+          700,
+          2368
+        ],
+        [
+          945,
+          951
+        ],
+        [
+          945,
+          2368
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "返し京こく殿",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

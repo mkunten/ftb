@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5821,
+          872
+        ],
+        [
+          5821,
+          4240
+        ],
+        [
+          6161,
+          872
+        ],
+        [
+          6161,
+          4240
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "くもりかてぬ物からむら皇打きらしたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5526,
+          895
+        ],
+        [
+          5526,
+          4253
+        ],
+        [
+          5814,
+          895
+        ],
+        [
+          5814,
+          4253
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "引かつきふしたるきぬを気ぬれそしこ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5246,
+          888
+        ],
+        [
+          5246,
+          4278
+        ],
+        [
+          5518,
+          888
+        ],
+        [
+          5518,
+          4278
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "はかりなとにやと思ふ程に日きのけて空を見",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5027,
+          876
+        ],
+        [
+          5027,
+          4272
+        ],
+        [
+          5254,
+          876
+        ],
+        [
+          5254,
+          4272
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "あけたれはとにはれてあさき色なるたり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4776,
+          860
+        ],
+        [
+          4776,
+          4265
+        ],
+        [
+          5013,
+          860
+        ],
+        [
+          5013,
+          4265
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "ことしきほしのおほきなるかむらもなくに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4479,
+          818
+        ],
+        [
+          4479,
+          4232
+        ],
+        [
+          4745,
+          818
+        ],
+        [
+          4745,
+          4232
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "たるなのめならすおもしろくはなのかみにはくを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4192,
+          805
+        ],
+        [
+          4192,
+          4247
+        ],
+        [
+          4492,
+          805
+        ],
+        [
+          4492,
+          4247
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "打ちらしたるにようにたり今宮はしめて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3968,
+          756
+        ],
+        [
+          3968,
+          4223
+        ],
+        [
+          4238,
+          756
+        ],
+        [
+          4238,
+          4223
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "めそめたる心ちすさきもほし月よ照なれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3678,
+          766
+        ],
+        [
+          3678,
+          4261
+        ],
+        [
+          3971,
+          766
+        ],
+        [
+          3971,
+          4261
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "やか身なれと色は折からにやことなる心ちする",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3456,
+          783
+        ],
+        [
+          3456,
+          3548
+        ],
+        [
+          3687,
+          783
+        ],
+        [
+          3687,
+          3548
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "につけてもたゝりのみおほゆ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3103,
+          579
+        ],
+        [
+          3103,
+          4274
+        ],
+        [
+          3343,
+          579
+        ],
+        [
+          3343,
+          4274
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "月をこそなかめれしかほしのよのふかき者を今夜暮",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2843,
+          806
+        ],
+        [
+          2843,
+          4205
+        ],
+        [
+          3096,
+          806
+        ],
+        [
+          3096,
+          4205
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "日吉へまいるに雪はかきくらしの前いたにこち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2609,
+          763
+        ],
+        [
+          2609,
+          4225
+        ],
+        [
+          2839,
+          763
+        ],
+        [
+          2839,
+          4225
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "たゝつもりてつやしたる明ほのかにやとへ出る",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2317,
+          795
+        ],
+        [
+          2317,
+          4196
+        ],
+        [
+          2563,
+          795
+        ],
+        [
+          2563,
+          4196
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "道すからすたれをあけたれは袖にもふとうろ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2024,
+          797
+        ],
+        [
+          2024,
+          4208
+        ],
+        [
+          2330,
+          797
+        ],
+        [
+          2330,
+          4208
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "にもよこ雪にて入て袖のうへははらへともやかて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1758,
+          783
+        ],
+        [
+          1758,
+          4202
+        ],
+        [
+          2033,
+          783
+        ],
+        [
+          2033,
+          4202
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "むらたほるか面白にもあけも見せはや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1481,
+          836
+        ],
+        [
+          1481,
+          2990
+        ],
+        [
+          1746,
+          836
+        ],
+        [
+          1746,
+          2990
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "とおもふ人のなきあはれなり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1255,
+          528
+        ],
+        [
+          1255,
+          4196
+        ],
+        [
+          1515,
+          528
+        ],
+        [
+          1515,
+          4196
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "何事をとりかすへき我袖のこほりはとけんかたもあらし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          986,
+          795
+        ],
+        [
+          986,
+          4238
+        ],
+        [
+          1240,
+          795
+        ],
+        [
+          1240,
+          4238
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "いたく心ほそきたひのすまゐにともまつ雪きん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          648,
+          554
+        ],
+        [
+          648,
+          3981
+        ],
+        [
+          996,
+          554
+        ],
+        [
+          996,
+          3981
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "はやたてかつあまきるゝ無をなかめつと",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

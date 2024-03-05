@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3511,
+          893
+        ],
+        [
+          3511,
+          2052
+        ],
+        [
+          3625,
+          893
+        ],
+        [
+          3625,
+          2052
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "をとのみあはれにきこゆ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3377,
+          1232
+        ],
+        [
+          3377,
+          2875
+        ],
+        [
+          3512,
+          1232
+        ],
+        [
+          3512,
+          2875
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "いはまもるいしまの水のをとまても",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3248,
+          1228
+        ],
+        [
+          3248,
+          2718
+        ],
+        [
+          3350,
+          1228
+        ],
+        [
+          3350,
+          2718
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "保はあはれときゝそなさるゝ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3096,
+          880
+        ],
+        [
+          3096,
+          3015
+        ],
+        [
+          3234,
+          880
+        ],
+        [
+          3234,
+          3015
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "十月十日比はつせに参り侍は。河原の程にてほのとあ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2973,
+          888
+        ],
+        [
+          2973,
+          3017
+        ],
+        [
+          3095,
+          888
+        ],
+        [
+          3095,
+          3017
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "くるに川霧たちて行さきも見えす横雲の空はかり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2839,
+          896
+        ],
+        [
+          2839,
+          2585
+        ],
+        [
+          2954,
+          896
+        ],
+        [
+          2954,
+          2585
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "けちめ見えていとおもしろし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2701,
+          1223
+        ],
+        [
+          2701,
+          2853
+        ],
+        [
+          2829,
+          1223
+        ],
+        [
+          2829,
+          2853
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "川霧にみちこそ見らね小車の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2577,
+          1234
+        ],
+        [
+          2577,
+          2758
+        ],
+        [
+          2686,
+          1234
+        ],
+        [
+          2686,
+          2758
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "まはりていつくわたせなるらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2427,
+          886
+        ],
+        [
+          2427,
+          3015
+        ],
+        [
+          2573,
+          886
+        ],
+        [
+          2573,
+          3015
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "うちなる。をちといふ所をみれは。いつれ昔のあとならんと。色",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2295,
+          896
+        ],
+        [
+          2295,
+          2906
+        ],
+        [
+          2425,
+          896
+        ],
+        [
+          2425,
+          2906
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "このもみちとも見えたるに。しる人あらまほしく覚ゆ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2164,
+          1222
+        ],
+        [
+          2164,
+          2879
+        ],
+        [
+          2294,
+          1222
+        ],
+        [
+          2294,
+          2879
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "おほつかないつれむかしのあとならん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2021,
+          1218
+        ],
+        [
+          2021,
+          2732
+        ],
+        [
+          2145,
+          1218
+        ],
+        [
+          2145,
+          2732
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "をちかた人にことやとはまし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1754,
+          888
+        ],
+        [
+          1754,
+          3005
+        ],
+        [
+          1883,
+          888
+        ],
+        [
+          1883,
+          3005
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "まきのしまといふ所。すさきに路鳥のゐたるおほきなる水く",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1630,
+          883
+        ],
+        [
+          1630,
+          3017
+        ],
+        [
+          1752,
+          883
+        ],
+        [
+          1752,
+          3017
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "るまに。もみちの色々にしきをかけわたしたらんやうなり。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1483,
+          886
+        ],
+        [
+          1483,
+          3005
+        ],
+        [
+          1616,
+          886
+        ],
+        [
+          1616,
+          3005
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "しはつむ舟ともありつみはてゝいそききしをはなれんとするものあり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1356,
+          1216
+        ],
+        [
+          1356,
+          2855
+        ],
+        [
+          1478,
+          1216
+        ],
+        [
+          1478,
+          2855
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "心ほそやいくゐにつなくしはふねの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1228,
+          1200
+        ],
+        [
+          1228,
+          2824
+        ],
+        [
+          1345,
+          1200
+        ],
+        [
+          1345,
+          2824
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "きしをはなれていつち行なん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1082,
+          883
+        ],
+        [
+          1082,
+          3025
+        ],
+        [
+          1210,
+          883
+        ],
+        [
+          1210,
+          3025
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "平とう院をみれは。こくらくのしやうこん床しく見るとかや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          951,
+          887
+        ],
+        [
+          951,
+          3022
+        ],
+        [
+          1075,
+          887
+        ],
+        [
+          1075,
+          3022
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "きこゆるもことはりに。紅葉の色さへことなるも。時雨もこの里",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          811,
+          887
+        ],
+        [
+          811,
+          3025
+        ],
+        [
+          947,
+          887
+        ],
+        [
+          947,
+          3025
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "はかりわきてそめける。みやこのつとにおらまほしく。かへらんたひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          682,
+          888
+        ],
+        [
+          682,
+          3017
+        ],
+        [
+          812,
+          888
+        ],
+        [
+          812,
+          3017
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "と思ひなしてすくるに。又にゑのゝ池といふ池のはたをすく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          546,
+          883
+        ],
+        [
+          546,
+          3017
+        ],
+        [
+          685,
+          883
+        ],
+        [
+          685,
+          3017
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "れは。鳥のおほく水におりゐてあまふ何そととへはかもめと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          399,
+          896
+        ],
+        [
+          399,
+          1657
+        ],
+        [
+          509,
+          896
+        ],
+        [
+          509,
+          1657
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "いふ鳥なりといへは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          270,
+          1207
+        ],
+        [
+          270,
+          2877
+        ],
+        [
+          410,
+          1207
+        ],
+        [
+          410,
+          2877
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "池水もあさけの風もさむけきに",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

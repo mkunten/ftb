@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5807,
+          1330
+        ],
+        [
+          5807,
+          4369
+        ],
+        [
+          6088,
+          1330
+        ],
+        [
+          6088,
+          4369
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "くりけれをなかめあかしてこそ□う",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5547,
+          1359
+        ],
+        [
+          5547,
+          4107
+        ],
+        [
+          5825,
+          1359
+        ],
+        [
+          5825,
+          4107
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "らさとにさゆる月をなかむれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5288,
+          1644
+        ],
+        [
+          5288,
+          2952
+        ],
+        [
+          5530,
+          1644
+        ],
+        [
+          5530,
+          2952
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "夕に過るの花",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4992,
+          1352
+        ],
+        [
+          4992,
+          4186
+        ],
+        [
+          5281,
+          1352
+        ],
+        [
+          5281,
+          4186
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "心をはをはなか袖にとゝめをたて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4751,
+          1397
+        ],
+        [
+          4751,
+          4037
+        ],
+        [
+          5041,
+          1397
+        ],
+        [
+          5041,
+          4037
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "こまにまかするのへのゆふくれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4516,
+          1601
+        ],
+        [
+          4516,
+          3413
+        ],
+        [
+          4755,
+          1601
+        ],
+        [
+          4755,
+          3413
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "たかひ□つねにきく窓",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4194,
+          1393
+        ],
+        [
+          4194,
+          4184
+        ],
+        [
+          4496,
+          1393
+        ],
+        [
+          4496,
+          4184
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "有ときかれ我も申しもつらきかな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3999,
+          1431
+        ],
+        [
+          3999,
+          4075
+        ],
+        [
+          4224,
+          1431
+        ],
+        [
+          4224,
+          4075
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "たゝ日とすちになきになしなて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3736,
+          1583
+        ],
+        [
+          3736,
+          3280
+        ],
+        [
+          3965,
+          1583
+        ],
+        [
+          3965,
+          3280
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "たゝの辺のしか",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3451,
+          624
+        ],
+        [
+          3451,
+          4201
+        ],
+        [
+          3732,
+          624
+        ],
+        [
+          3732,
+          4201
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "たにふかみ杉の木するを吹風に秋のをして声はかする日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3037,
+          1410
+        ],
+        [
+          3037,
+          2912
+        ],
+        [
+          3264,
+          1410
+        ],
+        [
+          3264,
+          2912
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "ねさめのたう衣",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2770,
+          634
+        ],
+        [
+          2770,
+          4254
+        ],
+        [
+          3025,
+          634
+        ],
+        [
+          3025,
+          4254
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "うつをとにねさめの袖そぬれまさる石はなにのゆへと知らねと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2535,
+          1458
+        ],
+        [
+          2535,
+          2842
+        ],
+        [
+          2746,
+          1458
+        ],
+        [
+          2746,
+          2842
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "名をかへて逢恋",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2272,
+          369
+        ],
+        [
+          2272,
+          4279
+        ],
+        [
+          2505,
+          369
+        ],
+        [
+          2505,
+          4279
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "いとかれしうき心をさゝにあらためて逢みるしもそつらさける",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2013,
+          1476
+        ],
+        [
+          2013,
+          2848
+        ],
+        [
+          2198,
+          1476
+        ],
+        [
+          2198,
+          2848
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "野て夕の夏草",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1730,
+          664
+        ],
+        [
+          1730,
+          4271
+        ],
+        [
+          2028,
+          664
+        ],
+        [
+          2028,
+          4271
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "夕されは庭野の草のかたなひきすゝはかてらにやすむ旅人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1516,
+          1474
+        ],
+        [
+          1516,
+          2723
+        ],
+        [
+          1713,
+          1474
+        ],
+        [
+          1713,
+          2723
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "れゆのくゐな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1210,
+          692
+        ],
+        [
+          1210,
+          4255
+        ],
+        [
+          1436,
+          692
+        ],
+        [
+          1436,
+          4255
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "あれはてゝさすことりなき槙の戸をなにと夜かれすたゝく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          953,
+          1490
+        ],
+        [
+          953,
+          2782
+        ],
+        [
+          1152,
+          1490
+        ],
+        [
+          1152,
+          2782
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "夜ふかき春雨",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          692,
+          644
+        ],
+        [
+          692,
+          4306
+        ],
+        [
+          942,
+          644
+        ],
+        [
+          942,
+          4306
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "ふくるよのねさゝめさひしき袖の上りをとにもぬらす春の雨哉",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

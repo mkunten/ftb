@@ -1,0 +1,629 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3552,
+          866
+        ],
+        [
+          3552,
+          3016
+        ],
+        [
+          3688,
+          866
+        ],
+        [
+          3688,
+          3016
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "むは。みところなかるへけれと。ひのふまさこの数をさへ。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3417,
+          872
+        ],
+        [
+          3417,
+          3011
+        ],
+        [
+          3547,
+          872
+        ],
+        [
+          3547,
+          3011
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "ちひろの濱の名にかなふはかりと思ひ侍れは。たゝに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3254,
+          865
+        ],
+        [
+          3254,
+          2998
+        ],
+        [
+          3421,
+          865
+        ],
+        [
+          3421,
+          2998
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "跡にのみたちかへる心地し侍りて題の心なとも更",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3141,
+          872
+        ],
+        [
+          3141,
+          2991
+        ],
+        [
+          3282,
+          872
+        ],
+        [
+          3282,
+          2991
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "にわきかたし。君は千代ませのもの。忘れも有けん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2989,
+          867
+        ],
+        [
+          2989,
+          2993
+        ],
+        [
+          3144,
+          867
+        ],
+        [
+          3144,
+          2993
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "ことなれは。すさみをく老のとかをは。ゆるされ侍る",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2880,
+          875
+        ],
+        [
+          2880,
+          1704
+        ],
+        [
+          2968,
+          875
+        ],
+        [
+          2968,
+          1704
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "こともあらんかし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2742,
+          1193
+        ],
+        [
+          2742,
+          2881
+        ],
+        [
+          2870,
+          1193
+        ],
+        [
+          2870,
+          2881
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "かきをくもあたなる露のことの葉よ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2604,
+          1204
+        ],
+        [
+          2604,
+          2769
+        ],
+        [
+          2725,
+          1204
+        ],
+        [
+          2725,
+          2769
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "なにとしのたのもりの下かけ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2473,
+          865
+        ],
+        [
+          2473,
+          3005
+        ],
+        [
+          2604,
+          865
+        ],
+        [
+          2604,
+          3005
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "吹ちらしなんこともうしろめたかりぬへきことな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2322,
+          875
+        ],
+        [
+          2322,
+          2967
+        ],
+        [
+          2470,
+          875
+        ],
+        [
+          2470,
+          2967
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "れは。山人のましはたゝ煙にもあつらへたく侍るなり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2180,
+          1102
+        ],
+        [
+          2180,
+          1737
+        ],
+        [
+          2297,
+          1102
+        ],
+        [
+          2297,
+          1737
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "すみよし詣",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2083,
+          2321
+        ],
+        [
+          2083,
+          2727
+        ],
+        [
+          2207,
+          2321
+        ],
+        [
+          2207,
+          2727
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "原義全",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1807,
+          857
+        ],
+        [
+          1807,
+          2975
+        ],
+        [
+          1930,
+          857
+        ],
+        [
+          1930,
+          2975
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "貞治三年卯月上旬の比津の国難波の浦見んとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1663,
+          854
+        ],
+        [
+          1663,
+          2977
+        ],
+        [
+          1789,
+          854
+        ],
+        [
+          1789,
+          2977
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "かの所にまうてけるに。淀より舟にのりて。こゝの河",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1540,
+          853
+        ],
+        [
+          1540,
+          2977
+        ],
+        [
+          1662,
+          853
+        ],
+        [
+          1662,
+          2977
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "面かしこの山〻を詠め行に。此しも卯月のはしめなれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1399,
+          855
+        ],
+        [
+          1399,
+          2974
+        ],
+        [
+          1523,
+          855
+        ],
+        [
+          1523,
+          2974
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "は。散残りたる岸の山吹をみれは。春の名残そ忍は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1265,
+          848
+        ],
+        [
+          1265,
+          2979
+        ],
+        [
+          1386,
+          848
+        ],
+        [
+          1386,
+          2979
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "るゝ。垣手の雪が卯花に。山郭公そをとつるゝ夏山の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1119,
+          844
+        ],
+        [
+          1119,
+          2977
+        ],
+        [
+          1249,
+          844
+        ],
+        [
+          1249,
+          2977
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "しけみかすゑを見渡せは是なん八幡山鳩の峯",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          987,
+          847
+        ],
+        [
+          987,
+          1942
+        ],
+        [
+          1089,
+          847
+        ],
+        [
+          1089,
+          1942
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "なとふしおかみて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          989,
+          1414
+        ],
+        [
+          989,
+          1939
+        ],
+        [
+          1084,
+          1414
+        ],
+        [
+          1084,
+          1939
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "おかみて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          844,
+          1179
+        ],
+        [
+          844,
+          2847
+        ],
+        [
+          966,
+          1179
+        ],
+        [
+          966,
+          2847
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "はし水たえぬなかれをくみてしる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          710,
+          1173
+        ],
+        [
+          710,
+          2825
+        ],
+        [
+          826,
+          1173
+        ],
+        [
+          826,
+          2825
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "ふかきめくみそ代々にかはらぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          567,
+          831
+        ],
+        [
+          567,
+          2965
+        ],
+        [
+          700,
+          831
+        ],
+        [
+          700,
+          2965
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "山崎たから寺。田辺の里なとうち詠め行に。江口の里",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          440,
+          835
+        ],
+        [
+          440,
+          2964
+        ],
+        [
+          564,
+          835
+        ],
+        [
+          564,
+          2964
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "といひてしはし舟をとゝめて。かなたこれらを詠",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          289,
+          838
+        ],
+        [
+          289,
+          2962
+        ],
+        [
+          435,
+          838
+        ],
+        [
+          435,
+          2962
+        ]
+      ],
+      "id": 25,
+      "isVertical": "true",
+      "text": "めありきけるに。日も暮ぬ古へ西行法師。此所",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

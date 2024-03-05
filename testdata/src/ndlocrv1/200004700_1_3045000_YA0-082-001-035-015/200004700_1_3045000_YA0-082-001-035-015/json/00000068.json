@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3555,
+          1163
+        ],
+        [
+          3555,
+          2847
+        ],
+        [
+          3677,
+          1163
+        ],
+        [
+          3677,
+          2847
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "木曽路河あらしにさして行浪の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3422,
+          1165
+        ],
+        [
+          3422,
+          2867
+        ],
+        [
+          3541,
+          1165
+        ],
+        [
+          3541,
+          2867
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "とゝこほるまをしはしまたなん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3262,
+          1070
+        ],
+        [
+          3262,
+          1700
+        ],
+        [
+          3397,
+          1070
+        ],
+        [
+          3397,
+          1700
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "千首和歌政",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3000,
+          848
+        ],
+        [
+          3000,
+          2968
+        ],
+        [
+          3142,
+          848
+        ],
+        [
+          3142,
+          2968
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "天授二年の夏のすゑつかた。山風も都に吹て。しけ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3174,
+          2299
+        ],
+        [
+          3174,
+          2413
+        ],
+        [
+          3259,
+          2299
+        ],
+        [
+          3259,
+          2413
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "同日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2879,
+          841
+        ],
+        [
+          2879,
+          2977
+        ],
+        [
+          3000,
+          841
+        ],
+        [
+          3000,
+          2977
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "き梢も枝をならさす鯛のこゑも長閑に聞して。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2725,
+          846
+        ],
+        [
+          2725,
+          2980
+        ],
+        [
+          2878,
+          846
+        ],
+        [
+          2878,
+          2980
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "大宮人もいとまある比なれはにや。内春宮二御かた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2592,
+          854
+        ],
+        [
+          2592,
+          2981
+        ],
+        [
+          2733,
+          854
+        ],
+        [
+          2733,
+          2981
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "千首御歌あそはさるへしとて。関白なとをはしめと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2472,
+          851
+        ],
+        [
+          2472,
+          2981
+        ],
+        [
+          2610,
+          851
+        ],
+        [
+          2610,
+          2981
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "して。面々おなし題にて。歌奉るへきよし仰こと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2331,
+          848
+        ],
+        [
+          2331,
+          2992
+        ],
+        [
+          2461,
+          848
+        ],
+        [
+          2461,
+          2992
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "有しかともいさゝかさはる事侍りてのかれ申侍き其",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2195,
+          850
+        ],
+        [
+          2195,
+          2975
+        ],
+        [
+          2333,
+          850
+        ],
+        [
+          2333,
+          2975
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "後いくはくの日数もなくて。皆よみ出させ給ふと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2060,
+          848
+        ],
+        [
+          2060,
+          2974
+        ],
+        [
+          2194,
+          848
+        ],
+        [
+          2194,
+          2974
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "て清書なとせらるゝよし聞えしかはいつの程にや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1815,
+          855
+        ],
+        [
+          1815,
+          2965
+        ],
+        [
+          1937,
+          855
+        ],
+        [
+          1937,
+          2965
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "とふしきにて侍し。二御かたならひに関白の歌は。同",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1678,
+          855
+        ],
+        [
+          1678,
+          2980
+        ],
+        [
+          1803,
+          855
+        ],
+        [
+          1803,
+          2980
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "しつらにかきなめつゝ。わさと御名ともをもかくされて。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1539,
+          853
+        ],
+        [
+          1539,
+          2985
+        ],
+        [
+          1676,
+          853
+        ],
+        [
+          1676,
+          2985
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "よしあしなとくはしく申させんとの御心はへ成へし数",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1415,
+          852
+        ],
+        [
+          1415,
+          2976
+        ],
+        [
+          1531,
+          852
+        ],
+        [
+          1531,
+          2976
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "給をきて見侍しにさら卒尓の御さたとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1273,
+          848
+        ],
+        [
+          1273,
+          2981
+        ],
+        [
+          1411,
+          848
+        ],
+        [
+          1411,
+          2981
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "覚えず。五句の玉をつらね三十一字の金をみかしれり。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1124,
+          866
+        ],
+        [
+          1124,
+          2984
+        ],
+        [
+          1245,
+          866
+        ],
+        [
+          1245,
+          2984
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "をろかなる老のみしかき心さらにさとりかたし。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          995,
+          854
+        ],
+        [
+          995,
+          3000
+        ],
+        [
+          1127,
+          854
+        ],
+        [
+          1127,
+          3000
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "去なからかしこけれはおほせのまゝに。いさゝかの心の底",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          855,
+          870
+        ],
+        [
+          855,
+          3002
+        ],
+        [
+          994,
+          870
+        ],
+        [
+          994,
+          3002
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "をも残さす後みん人の嘲りをも忘れてしるし申",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          728,
+          867
+        ],
+        [
+          728,
+          2998
+        ],
+        [
+          870,
+          867
+        ],
+        [
+          870,
+          2998
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "侍し。あまり感興さゆかく侍しにたへす。墨なと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          587,
+          861
+        ],
+        [
+          587,
+          2994
+        ],
+        [
+          725,
+          861
+        ],
+        [
+          725,
+          2994
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "つけ侍しも。今はまたくゐの八千度そ覚る是に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          446,
+          863
+        ],
+        [
+          446,
+          2994
+        ],
+        [
+          580,
+          863
+        ],
+        [
+          580,
+          2994
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "よりていとはれし命なかきもかひある心地し侍り",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          305,
+          855
+        ],
+        [
+          305,
+          2995
+        ],
+        [
+          446,
+          855
+        ],
+        [
+          446,
+          2995
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "て。かゝる事ともをみ申ても。浜千鳥の跡にともなは",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

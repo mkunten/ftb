@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5843,
+          802
+        ],
+        [
+          5843,
+          4194
+        ],
+        [
+          6186,
+          802
+        ],
+        [
+          6186,
+          4194
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "四月廿三日明ははなるゝ程は雨すうしふりたるに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5535,
+          841
+        ],
+        [
+          5535,
+          4233
+        ],
+        [
+          5788,
+          841
+        ],
+        [
+          5788,
+          4233
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "東のかたの空に郭公の神音なきわたるしら",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5325,
+          846
+        ],
+        [
+          5325,
+          2702
+        ],
+        [
+          5500,
+          846
+        ],
+        [
+          5500,
+          2702
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "申く君かきくにも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5022,
+          556
+        ],
+        [
+          5022,
+          4202
+        ],
+        [
+          5252,
+          556
+        ],
+        [
+          5252,
+          4202
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "明かたに初音巾山かほときすしてのいろのことをつ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4752,
+          565
+        ],
+        [
+          4752,
+          4239
+        ],
+        [
+          5018,
+          565
+        ],
+        [
+          5018,
+          4239
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "あらすなるうき世のけてに時鳥如何てなくねのかはらさるらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4504,
+          721
+        ],
+        [
+          4504,
+          4309
+        ],
+        [
+          4781,
+          721
+        ],
+        [
+          4781,
+          4309
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "五月二日昔諸母のき日也心ちなやましかりしかとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4223,
+          757
+        ],
+        [
+          4223,
+          4221
+        ],
+        [
+          4518,
+          757
+        ],
+        [
+          4518,
+          4221
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "なとあらひて心仏申経よむ法師よひて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3982,
+          743
+        ],
+        [
+          3982,
+          4257
+        ],
+        [
+          4241,
+          743
+        ],
+        [
+          4241,
+          4257
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "経よませて丁もんするにも又こん年のいとなみ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3652,
+          763
+        ],
+        [
+          3652,
+          4252
+        ],
+        [
+          3964,
+          763
+        ],
+        [
+          3964,
+          4252
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "はえせぬにもやとおもふもさすかあわれとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3500,
+          800
+        ],
+        [
+          3500,
+          2255
+        ],
+        [
+          3719,
+          800
+        ],
+        [
+          3719,
+          2255
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "袖も又ぬれぬ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3075,
+          598
+        ],
+        [
+          3075,
+          4275
+        ],
+        [
+          3365,
+          598
+        ],
+        [
+          3365,
+          4275
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "別にし年月日には逢けも是許とや思ふかならさ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2804,
+          850
+        ],
+        [
+          2804,
+          4290
+        ],
+        [
+          3082,
+          850
+        ],
+        [
+          3082,
+          4290
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "やよひの水かおもりの此はかなかりし人の水のあはと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2563,
+          867
+        ],
+        [
+          2563,
+          4270
+        ],
+        [
+          2818,
+          867
+        ],
+        [
+          2818,
+          4270
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "なりける日なれは例の心ひとつかことかく思ひ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2281,
+          909
+        ],
+        [
+          2281,
+          4275
+        ],
+        [
+          2548,
+          909
+        ],
+        [
+          2548,
+          4275
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "いとなむにも我かなからむ後たれかこれほとも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2051,
+          943
+        ],
+        [
+          2051,
+          4298
+        ],
+        [
+          2345,
+          943
+        ],
+        [
+          2345,
+          4298
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "丑日やらむかくおりひしけとて思いつへき人も",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1824,
+          952
+        ],
+        [
+          1824,
+          4291
+        ],
+        [
+          2049,
+          952
+        ],
+        [
+          2049,
+          4291
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "なきかたしかたくかなしくてしくとなく",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1539,
+          965
+        ],
+        [
+          1539,
+          4288
+        ],
+        [
+          1776,
+          965
+        ],
+        [
+          1776,
+          4288
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "より外のこけそなきを身のなくならむより",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1243,
+          964
+        ],
+        [
+          1243,
+          2596
+        ],
+        [
+          1533,
+          964
+        ],
+        [
+          1533,
+          2596
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "色かおほゆに",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          970,
+          586
+        ],
+        [
+          970,
+          4368
+        ],
+        [
+          1324,
+          586
+        ],
+        [
+          1324,
+          4368
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "如何かすかせゝ我のちの世はさても傾旧法たりをとふ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          639,
+          925
+        ],
+        [
+          639,
+          4274
+        ],
+        [
+          968,
+          925
+        ],
+        [
+          968,
+          4274
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "四方のこすゑも庭のけ色も見なこゝちよけ",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

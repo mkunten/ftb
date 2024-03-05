@@ -1,0 +1,454 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3504,
+          877
+        ],
+        [
+          3504,
+          976
+        ],
+        [
+          3627,
+          877
+        ],
+        [
+          3627,
+          976
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "又",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3366,
+          883
+        ],
+        [
+          3366,
+          1442
+        ],
+        [
+          3500,
+          883
+        ],
+        [
+          3500,
+          1442
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "千首和歌政",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3402,
+          2360
+        ],
+        [
+          3402,
+          2479
+        ],
+        [
+          3636,
+          2360
+        ],
+        [
+          3636,
+          2479
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "月",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3546,
+          2365
+        ],
+        [
+          3546,
+          2475
+        ],
+        [
+          3631,
+          2365
+        ],
+        [
+          3631,
+          2475
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "同日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3248,
+          884
+        ],
+        [
+          3248,
+          1469
+        ],
+        [
+          3336,
+          884
+        ],
+        [
+          3336,
+          1469
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "住吉まうて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3407,
+          2373
+        ],
+        [
+          3407,
+          2475
+        ],
+        [
+          3495,
+          2373
+        ],
+        [
+          3495,
+          2475
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "八日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3262,
+          2361
+        ],
+        [
+          3262,
+          2734
+        ],
+        [
+          3386,
+          2361
+        ],
+        [
+          3386,
+          2734
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "源義詮",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1716,
+          860
+        ],
+        [
+          1716,
+          1940
+        ],
+        [
+          1850,
+          860
+        ],
+        [
+          1850,
+          1940
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "扶桑拾葉集巻第十三",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1455,
+          1079
+        ],
+        [
+          1455,
+          1850
+        ],
+        [
+          1586,
+          1079
+        ],
+        [
+          1586,
+          1850
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "中務内侍の日記",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1184,
+          872
+        ],
+        [
+          1184,
+          2994
+        ],
+        [
+          1314,
+          872
+        ],
+        [
+          1314,
+          2994
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "いたつらにあかし暮す春秋はたゝひつしのあゆみなる",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1322,
+          2305
+        ],
+        [
+          1322,
+          2596
+        ],
+        [
+          1431,
+          2305
+        ],
+        [
+          1431,
+          2596
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "中務",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1044,
+          865
+        ],
+        [
+          1044,
+          2995
+        ],
+        [
+          1177,
+          865
+        ],
+        [
+          1177,
+          2995
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "心地して。すゑの露もとのしつくに。をくれさきたつ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          911,
+          863
+        ],
+        [
+          911,
+          3012
+        ],
+        [
+          1039,
+          863
+        ],
+        [
+          1039,
+          3012
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "ためしのはかなき世をかつ思ひなからも。とくたつのえん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          779,
+          858
+        ],
+        [
+          779,
+          3005
+        ],
+        [
+          908,
+          858
+        ],
+        [
+          908,
+          3005
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "にはすゝます。皆しやうせゝにまよひぬへき人間の八くな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          650,
+          856
+        ],
+        [
+          650,
+          3000
+        ],
+        [
+          775,
+          856
+        ],
+        [
+          775,
+          3000
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "類そ浅増きたゝかゝる世のそゝろことのみ心にしみて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          503,
+          861
+        ],
+        [
+          503,
+          2995
+        ],
+        [
+          640,
+          861
+        ],
+        [
+          640,
+          2995
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "わすれかたき中にも。こうあん三年ふしみとのゝ御せん法",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          376,
+          864
+        ],
+        [
+          376,
+          2993
+        ],
+        [
+          496,
+          864
+        ],
+        [
+          496,
+          2993
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "とて。院の御かたはかなくなりしに。十五夜の月も雪う",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          222,
+          860
+        ],
+        [
+          222,
+          2985
+        ],
+        [
+          365,
+          860
+        ],
+        [
+          365,
+          2985
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "ち地りて。風もひやゝかなる。かれのゝ庭の気色物哀",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

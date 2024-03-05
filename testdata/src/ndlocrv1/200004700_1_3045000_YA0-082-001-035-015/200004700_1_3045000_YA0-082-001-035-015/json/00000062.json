@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3548,
+          839
+        ],
+        [
+          3548,
+          2968
+        ],
+        [
+          3687,
+          839
+        ],
+        [
+          3687,
+          2968
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "をく也すゑの君にも是を見せたてまつらは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3419,
+          844
+        ],
+        [
+          3419,
+          2974
+        ],
+        [
+          3540,
+          844
+        ],
+        [
+          3540,
+          2974
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "いかゝをろかならん。私の子孫まても此忠はしと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3261,
+          841
+        ],
+        [
+          3261,
+          2959
+        ],
+        [
+          3433,
+          841
+        ],
+        [
+          3433,
+          2959
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "おもへは。正直を以報国として。行末かへしくつかへた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3132,
+          841
+        ],
+        [
+          3132,
+          1601
+        ],
+        [
+          3248,
+          841
+        ],
+        [
+          3248,
+          1601
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "てまつるへし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3007,
+          1057
+        ],
+        [
+          3007,
+          1678
+        ],
+        [
+          3111,
+          1057
+        ],
+        [
+          3111,
+          1678
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "李花集の内",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2734,
+          845
+        ],
+        [
+          2734,
+          2965
+        ],
+        [
+          2874,
+          845
+        ],
+        [
+          2874,
+          2965
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "延元四年の秋の比にや。伊勢より船にのりて。遠江人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2883,
+          2315
+        ],
+        [
+          2883,
+          2803
+        ],
+        [
+          3004,
+          2315
+        ],
+        [
+          3004,
+          2803
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "宗良親王",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2601,
+          836
+        ],
+        [
+          2601,
+          2967
+        ],
+        [
+          2741,
+          836
+        ],
+        [
+          2741,
+          2967
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "心さし侍らに。天龍なたとかやにて。浪岡なへてな",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2466,
+          851
+        ],
+        [
+          2466,
+          2962
+        ],
+        [
+          2597,
+          851
+        ],
+        [
+          2597,
+          2962
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "らすあらく成て。二三日まておきにたゝよひ侍しに。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2337,
+          848
+        ],
+        [
+          2337,
+          2959
+        ],
+        [
+          2463,
+          848
+        ],
+        [
+          2463,
+          2959
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "友なる船ともゝ皆かしこにてしつみ侍しに。からう",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2187,
+          849
+        ],
+        [
+          2187,
+          2961
+        ],
+        [
+          2337,
+          849
+        ],
+        [
+          2337,
+          2961
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "してしろ王の湊といふ所へ。浪にうちあけられて。",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2054,
+          839
+        ],
+        [
+          2054,
+          2969
+        ],
+        [
+          2192,
+          839
+        ],
+        [
+          2192,
+          2969
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "我にもあらす舟さしよせ侍らに。夜もすから波に",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1754,
+          849
+        ],
+        [
+          1754,
+          2203
+        ],
+        [
+          1886,
+          849
+        ],
+        [
+          1886,
+          2203
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "しほれていとたへかたかりしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1637,
+          1202
+        ],
+        [
+          1637,
+          2733
+        ],
+        [
+          1763,
+          1202
+        ],
+        [
+          1763,
+          2733
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "いかてほすものともしらすとまやかた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1493,
+          1177
+        ],
+        [
+          1493,
+          2777
+        ],
+        [
+          1624,
+          1177
+        ],
+        [
+          1624,
+          2777
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "かたしくそてのよるのうらなみ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1346,
+          1063
+        ],
+        [
+          1346,
+          1171
+        ],
+        [
+          1464,
+          1063
+        ],
+        [
+          1464,
+          1171
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "十八",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1079,
+          852
+        ],
+        [
+          1079,
+          2988
+        ],
+        [
+          1220,
+          852
+        ],
+        [
+          1220,
+          2988
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "駿河国貞長かもとに。興良親王あるよし聞て。しはし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1245,
+          2286
+        ],
+        [
+          1245,
+          2412
+        ],
+        [
+          1334,
+          2286
+        ],
+        [
+          1334,
+          2412
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "十九",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          952,
+          848
+        ],
+        [
+          952,
+          2999
+        ],
+        [
+          1079,
+          848
+        ],
+        [
+          1079,
+          2999
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "たちより侍し比富士の煙も宿のあさ氣に立なら",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          812,
+          855
+        ],
+        [
+          812,
+          2994
+        ],
+        [
+          966,
+          855
+        ],
+        [
+          966,
+          2994
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "ふ心地して。まことにめつらしけなきやうなれと。都の人は",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          676,
+          854
+        ],
+        [
+          676,
+          2996
+        ],
+        [
+          816,
+          854
+        ],
+        [
+          816,
+          2996
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "いかに見はやしなましと。まつ思ひ出らるれは。山のすかた",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          536,
+          855
+        ],
+        [
+          536,
+          2799
+        ],
+        [
+          667,
+          855
+        ],
+        [
+          667,
+          2799
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "なとゑに書て。為定卿のもとへつかはすとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          412,
+          1190
+        ],
+        [
+          412,
+          2855
+        ],
+        [
+          539,
+          1190
+        ],
+        [
+          539,
+          2855
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "見せはやなかたれはさらにことの葉も",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          265,
+          1193
+        ],
+        [
+          265,
+          2870
+        ],
+        [
+          394,
+          1193
+        ],
+        [
+          394,
+          2870
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "をよはぬ富士のたかねなりけり",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

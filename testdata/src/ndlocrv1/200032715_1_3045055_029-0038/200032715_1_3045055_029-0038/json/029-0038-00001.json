@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          2148,
+          2333
+        ],
+        [
+          2148,
+          3008
+        ],
+        [
+          2262,
+          2333
+        ],
+        [
+          2262,
+          3008
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "伝大黒常信筆",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1973,
+          199
+        ],
+        [
+          1973,
+          2984
+        ],
+        [
+          2273,
+          199
+        ],
+        [
+          2273,
+          2984
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "建禮門院右京大夫集傳大里常信筆",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

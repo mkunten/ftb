@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          3517,
+          821
+        ],
+        [
+          3517,
+          2957
+        ],
+        [
+          3654,
+          821
+        ],
+        [
+          3654,
+          2957
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "をかうふらん事いさゝかもいたむところにあらす。たゝ神",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3381,
+          821
+        ],
+        [
+          3381,
+          2958
+        ],
+        [
+          3526,
+          821
+        ],
+        [
+          3526,
+          2958
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "にみをまかせ奉りて。更に身をわたくしにせす。此心をあ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3246,
+          823
+        ],
+        [
+          3246,
+          2961
+        ],
+        [
+          3388,
+          823
+        ],
+        [
+          3388,
+          2961
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "きらけくかゝみ給ひて。あやまるところなくは。しやねいを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3108,
+          821
+        ],
+        [
+          3108,
+          2968
+        ],
+        [
+          3247,
+          821
+        ],
+        [
+          3247,
+          2968
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "万里にしりそけて。せいちよくのみちをすゝめ。治天の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2971,
+          830
+        ],
+        [
+          2971,
+          2962
+        ],
+        [
+          3108,
+          830
+        ],
+        [
+          3108,
+          2962
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "うんたちまちにひらけん大明神このしやうをたいら",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2840,
+          824
+        ],
+        [
+          2840,
+          2959
+        ],
+        [
+          2976,
+          824
+        ],
+        [
+          2976,
+          2959
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "けく。やすらけく聞しめらて。夜のまもり日のまかもり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2699,
+          828
+        ],
+        [
+          2699,
+          2907
+        ],
+        [
+          2845,
+          828
+        ],
+        [
+          2845,
+          2907
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "に。守りさいはひ給へと。をそれみ申たまはくと申",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2561,
+          1052
+        ],
+        [
+          2561,
+          2189
+        ],
+        [
+          2691,
+          1052
+        ],
+        [
+          2691,
+          2189
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "御子に贈給ふ古今集跋",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2464,
+          2258
+        ],
+        [
+          2464,
+          2380
+        ],
+        [
+          2553,
+          2258
+        ],
+        [
+          2553,
+          2380
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "十二日",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2287,
+          833
+        ],
+        [
+          2287,
+          2970
+        ],
+        [
+          2448,
+          833
+        ],
+        [
+          2448,
+          2970
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "元亨第二のとし仲呂のかみの七日。そのがみ書うつし侍",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2167,
+          855
+        ],
+        [
+          2167,
+          2966
+        ],
+        [
+          2309,
+          855
+        ],
+        [
+          2309,
+          2966
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "し古今集を。亀のおの蓬の島に求め出て。鳥の",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2022,
+          849
+        ],
+        [
+          2022,
+          2979
+        ],
+        [
+          2167,
+          849
+        ],
+        [
+          2167,
+          2979
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "跡の芝の砌に残れるをあはれみ。西の中のつれ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1768,
+          836
+        ],
+        [
+          1768,
+          2952
+        ],
+        [
+          1887,
+          836
+        ],
+        [
+          1887,
+          2952
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "を簾の外になかめ暮し時代につけて替り行",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1625,
+          824
+        ],
+        [
+          1625,
+          2952
+        ],
+        [
+          1749,
+          824
+        ],
+        [
+          1749,
+          2952
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "墨筆のゆくゑ昔をこひ今をうれへよるの鶴",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1488,
+          835
+        ],
+        [
+          1488,
+          2954
+        ],
+        [
+          1617,
+          835
+        ],
+        [
+          1617,
+          2954
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "の子を思ふまとひ。春の雀のひなをひく心に。さかし",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1355,
+          832
+        ],
+        [
+          1355,
+          2957
+        ],
+        [
+          1493,
+          832
+        ],
+        [
+          1493,
+          2957
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "をろかなるいきとしいけるいつれかまよはさるへき此",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1223,
+          832
+        ],
+        [
+          1223,
+          2978
+        ],
+        [
+          1349,
+          832
+        ],
+        [
+          1349,
+          2978
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "ことはりあるをや。しかあると夏の夜のみしかき心そ",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1078,
+          831
+        ],
+        [
+          1078,
+          2952
+        ],
+        [
+          1214,
+          831
+        ],
+        [
+          1214,
+          2952
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "のはへつくしかたく。あまのたくなはなかきそしり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          941,
+          841
+        ],
+        [
+          941,
+          1796
+        ],
+        [
+          1053,
+          841
+        ],
+        [
+          1053,
+          1796
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "のかれ侍らめやも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          821,
+          1150
+        ],
+        [
+          821,
+          2852
+        ],
+        [
+          938,
+          1150
+        ],
+        [
+          938,
+          2852
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "かはり行時よにつけてしられけり",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          675,
+          1171
+        ],
+        [
+          675,
+          2802
+        ],
+        [
+          809,
+          1171
+        ],
+        [
+          809,
+          2802
+        ]
+      ],
+      "id": 21,
+      "isVertical": "true",
+      "text": "いにしへ今のふてのすさみは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          553,
+          1176
+        ],
+        [
+          553,
+          2798
+        ],
+        [
+          673,
+          1176
+        ],
+        [
+          673,
+          2798
+        ]
+      ],
+      "id": 22,
+      "isVertical": "true",
+      "text": "ことの葉はちりうせすともをのつから",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          404,
+          1167
+        ],
+        [
+          404,
+          2646
+        ],
+        [
+          539,
+          1167
+        ],
+        [
+          539,
+          2646
+        ]
+      ],
+      "id": 23,
+      "isVertical": "true",
+      "text": "あはれと忍ふ人やなからん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          270,
+          1155
+        ],
+        [
+          270,
+          2832
+        ],
+        [
+          411,
+          1155
+        ],
+        [
+          411,
+          2832
+        ]
+      ],
+      "id": 24,
+      "isVertical": "true",
+      "text": "このうちに夜なくつるのおもひはの",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]

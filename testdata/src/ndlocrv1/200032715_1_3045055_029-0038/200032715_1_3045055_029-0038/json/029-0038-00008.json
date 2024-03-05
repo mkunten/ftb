@@ -1,0 +1,504 @@
+[
+  [
+    {
+      "boundingBox": [
+        [
+          5810,
+          781
+        ],
+        [
+          5810,
+          4375
+        ],
+        [
+          6172,
+          781
+        ],
+        [
+          6172,
+          4375
+        ]
+      ],
+      "id": 1,
+      "isVertical": "true",
+      "text": "内裏にて御八かうおこなはれし五くわんの日やう",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5551,
+          797
+        ],
+        [
+          5551,
+          4228
+        ],
+        [
+          5848,
+          797
+        ],
+        [
+          5848,
+          4228
+        ]
+      ],
+      "id": 2,
+      "isVertical": "true",
+      "text": "院たち后の宮三条右衛門殿白川殿なとは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5279,
+          784
+        ],
+        [
+          5279,
+          4234
+        ],
+        [
+          5524,
+          784
+        ],
+        [
+          5524,
+          4234
+        ]
+      ],
+      "id": 3,
+      "isVertical": "true",
+      "text": "御ほう物たてまつらせ給しそなたにみんある",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          5000,
+          779
+        ],
+        [
+          5000,
+          4243
+        ],
+        [
+          5271,
+          779
+        ],
+        [
+          5271,
+          4243
+        ]
+      ],
+      "id": 4,
+      "isVertical": "true",
+      "text": "殿上人もちてまいりしけ色おりしろくも",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4741,
+          785
+        ],
+        [
+          4741,
+          4215
+        ],
+        [
+          5027,
+          785
+        ],
+        [
+          5027,
+          4215
+        ]
+      ],
+      "id": 5,
+      "isVertical": "true",
+      "text": "あはれにもありしに中空の御ほう物は二枝",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4486,
+          782
+        ],
+        [
+          4486,
+          4436
+        ],
+        [
+          4750,
+          782
+        ],
+        [
+          4750,
+          4436
+        ]
+      ],
+      "id": 6,
+      "isVertical": "true",
+      "text": "山を宮のすけしけばしなとりたれたりしと",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          4194,
+          786
+        ],
+        [
+          4194,
+          4393
+        ],
+        [
+          4535,
+          786
+        ],
+        [
+          4535,
+          4393
+        ]
+      ],
+      "id": 7,
+      "isVertical": "true",
+      "text": "おほゆこ成浜いらせ給ておはしましゝ御方を",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3948,
+          767
+        ],
+        [
+          3948,
+          4316
+        ],
+        [
+          4247,
+          767
+        ],
+        [
+          4247,
+          4316
+        ]
+      ],
+      "id": 8,
+      "isVertical": "true",
+      "text": "とりはらひてたうちやうにしつらはれたりしも君にて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3698,
+          1056
+        ],
+        [
+          3698,
+          4085
+        ],
+        [
+          3970,
+          1056
+        ],
+        [
+          3970,
+          4085
+        ]
+      ],
+      "id": 9,
+      "isVertical": "true",
+      "text": "九重に見のりの花張にほふけふや",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3453,
+          1059
+        ],
+        [
+          3453,
+          3948
+        ],
+        [
+          3706,
+          1059
+        ],
+        [
+          3706,
+          3948
+        ]
+      ],
+      "id": 10,
+      "isVertical": "true",
+      "text": "きえにし露も光そふらん",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          3022,
+          821
+        ],
+        [
+          3022,
+          4217
+        ],
+        [
+          3334,
+          821
+        ],
+        [
+          3334,
+          4217
+        ]
+      ],
+      "id": 11,
+      "isVertical": "true",
+      "text": "近衛殿二位中将と申うろたか付しけれは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2777,
+          831
+        ],
+        [
+          2777,
+          4251
+        ],
+        [
+          3074,
+          831
+        ],
+        [
+          3074,
+          4251
+        ]
+      ],
+      "id": 12,
+      "isVertical": "true",
+      "text": "これかりすけりなとの殿上人なりしを",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2538,
+          827
+        ],
+        [
+          2538,
+          4237
+        ],
+        [
+          2794,
+          827
+        ],
+        [
+          2794,
+          4237
+        ]
+      ],
+      "id": 13,
+      "isVertical": "true",
+      "text": "日きくせさせ給て白つとのゝ女房たち",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          2268,
+          837
+        ],
+        [
+          2268,
+          4353
+        ],
+        [
+          2545,
+          837
+        ],
+        [
+          2545,
+          4353
+        ]
+      ],
+      "id": 14,
+      "isVertical": "true",
+      "text": "さそひて所々のはなさめしけるとて",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1975,
+          817
+        ],
+        [
+          1975,
+          4436
+        ],
+        [
+          2296,
+          817
+        ],
+        [
+          2296,
+          4436
+        ]
+      ],
+      "id": 15,
+      "isVertical": "true",
+      "text": "またの日花の枝のなへてならぬを花",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1732,
+          854
+        ],
+        [
+          1732,
+          4158
+        ],
+        [
+          2048,
+          854
+        ],
+        [
+          2048,
+          4158
+        ]
+      ],
+      "id": 16,
+      "isVertical": "true",
+      "text": "見ける人の中よりとて中宮の御",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1489,
+          868
+        ],
+        [
+          1489,
+          3145
+        ],
+        [
+          1701,
+          868
+        ],
+        [
+          1701,
+          3145
+        ]
+      ],
+      "id": 17,
+      "isVertical": "true",
+      "text": "方へまいらせられたりしかは",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          1254,
+          1120
+        ],
+        [
+          1254,
+          4192
+        ],
+        [
+          1524,
+          1120
+        ],
+        [
+          1524,
+          4192
+        ]
+      ],
+      "id": 18,
+      "isVertical": "true",
+      "text": "さそはれぬうさも忘れて一えたの",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          981,
+          1108
+        ],
+        [
+          981,
+          3531
+        ],
+        [
+          1265,
+          1108
+        ],
+        [
+          1265,
+          3531
+        ]
+      ],
+      "id": 19,
+      "isVertical": "true",
+      "text": "花にそめつる雲のうへ人",
+      "isTextline": "true",
+      "confidence": 1
+    },
+    {
+      "boundingBox": [
+        [
+          655,
+          1569
+        ],
+        [
+          655,
+          4396
+        ],
+        [
+          1008,
+          1569
+        ],
+        [
+          1008,
+          4396
+        ]
+      ],
+      "id": 20,
+      "isVertical": "true",
+      "text": "通明に舟かふさの中将に",
+      "isTextline": "true",
+      "confidence": 1
+    }
+  ]
+]
