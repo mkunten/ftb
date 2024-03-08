@@ -27,6 +27,7 @@ type NdlOcrV1BoundingBox [4][2]int
 
 // NdlOcrV12BookText convert ndlkotenocr result to *BookText
 func NdlOcrV12BookText(dir string, start, end int) (*BookText, error) {
+	fmt.Println("ndlocrv1:", dir, start, end)
 	files, err := filepath.Glob(filepath.Join(dir, "**/json/*.json"))
 	if err != nil {
 		return nil, err

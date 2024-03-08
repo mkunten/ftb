@@ -32,6 +32,7 @@ type NdlOcrV2BookDetail struct {
 func NdlOcrV22BookText(
 	dir string, start, end int, isDetail bool,
 ) (*BookText, error) {
+	fmt.Println("ndlocrv2:", dir, start, end, isDetail)
 	files, err := filepath.Glob(filepath.Join(dir, "**/json/*.json"))
 	if err != nil {
 		return nil, err
@@ -51,7 +52,6 @@ func NdlOcrV22BookText(
 	} else {
 		files = files[start-1:]
 	}
-	fmt.Println(files)
 
 	var (
 		sb  strings.Builder
