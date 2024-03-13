@@ -11,14 +11,18 @@ import (
 
 func TestNdlOcrV1Result2BookText(t *testing.T) {
 	t.Run("NdlOcrV1Result2BookText", func(t *testing.T) {
-		testNdlOcrV12BookText(t, "200004700_1_3045000_YA0-082-001-035-015")
-		testNdlOcrV12BookText(t, "200032715_1_3045055_029-0038")
+		testNdlOcrV12BookText(t, "200004700_1_3045000_YA0-082-001-035-015", 1, 78)
+		testNdlOcrV12BookText(t, "200032715_1_3045055_029-0038", 1, 74)
 	})
 }
 
-func testNdlOcrV12BookText(t *testing.T, dir string) {
+func testNdlOcrV12BookText(t *testing.T, dir string, startPos, endPos int) {
 	t.Helper()
-	bt, err := NdlOcrV12BookText(filepath.Join(srcDir, "ndlocrv1", dir))
+	bt, err := NdlOcrV12BookText([]OCRInfo{{
+		LocalPath: filepath.Join(srcDir, "ndlocrv1", dir),
+		StartPos:  startPos,
+		EndPos:    endPos,
+	}})
 	if err != nil {
 		t.Fatal(err)
 	}

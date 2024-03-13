@@ -10,7 +10,7 @@ case "$arg" in
     curl -X POST -F 'bid=200035526' -F 'type=ndlocrv1' -F 'mecabType=chusei-bungo' -F 'localPath=/home/mkunten/Downloads/dev/ocr/200035526_1_3045011_0110-196301' http://localhost:1323/api/register
     ;;
   "bulk" )
-    curl -X POST -F 'abortOnError=true' -F 'listcsv=@10.csv' http://localhost:1323/api/bulkRegister
+    curl -X POST -F 'abortOnError=true' -F 'type=ndlocrv3detail' -F 'listcsv=@10.csv' http://localhost:1323/api/bulkRegister
     ;;
   "search" )
     curl -X GET 'http://localhost:1323/api/search?type=ocr&mecabType=chusei_bungo&q=俳諧+和歌'

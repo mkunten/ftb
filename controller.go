@@ -64,7 +64,7 @@ func (es *ES) PostRegister(c echo.Context) error {
 			http.StatusBadRequest, fmt.Errorf("bind param: %s", err))
 	}
 
-	if rp.LocalPath == "" {
+	if len(rp.LocalPath) == 0 {
 		file, err := c.FormFile("file")
 		if err != nil {
 			return echo.NewHTTPError(
@@ -77,7 +77,7 @@ func (es *ES) PostRegister(c echo.Context) error {
 			return echo.NewHTTPError(
 				http.StatusBadRequest, fmt.Errorf("make a tmp dir: %s", err))
 		}
-		rp.LocalPath = destdir
+		rp.LocalPath = []string{destdir}
 
 		// unzip the uploaded file at the tmp dir
 		if err := unzipUploaded(file, destdir); err != nil {

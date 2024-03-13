@@ -11,24 +11,28 @@ import (
 
 func TestOcrV2Result2BookText(t *testing.T) {
 	t.Run("OcrV2Result2BookText", func(t *testing.T) {
-		testOcrV2Result2BookText(t, "0001-000101", false)
-		testOcrV2Result2BookText(t, "0001-000102", false)
+		testOcrV2Result2BookText(t, "0001-000101", 1, 23, false)
+		testOcrV2Result2BookText(t, "0001-000102", 1, 101, false)
 	})
 }
 
 func TestOcrV2DetailResult2BookText(t *testing.T) {
 	t.Run("OcrV2DetailResult2BookText", func(t *testing.T) {
-		testOcrV2Result2BookText(t, "0001-000101", true)
+		testOcrV2Result2BookText(t, "0001-000101", 1, 23, true)
 	})
 }
 
-func testOcrV2Result2BookText(t *testing.T, dir string, isDetail bool) {
+func testOcrV2Result2BookText(t *testing.T, dir string, startPos, endPos int, isDetail bool) {
 	t.Helper()
 	s := "ndlocrv2"
 	if isDetail {
 		s += "detail"
 	}
-	bt, err := NdlOcrV22BookText(filepath.Join(srcDir, s, dir), isDetail)
+	bt, err := NdlOcrV22BookText([]OCRInfo{{
+		LocalPath: filepath.Join(srcDir, s, dir),
+		StartPos:  startPos,
+		EndPos:    endPos,
+	}}, isDetail)
 	if err != nil {
 		t.Fatal(err)
 	}

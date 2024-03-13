@@ -29,82 +29,83 @@ type NdlOcrV2BookDetail struct {
 }
 
 // OCRResult2BookText convert ndlkotenocr result to *BookText
-func NdlOcrV22BookText(
-	dir string, start, end int, isDetail bool,
-) (*BookText, error) {
-	fmt.Println("ndlocrv2:", dir, start, end, isDetail)
-	files, err := filepath.Glob(filepath.Join(dir, "**/json/*.json"))
-	if err != nil {
-		return nil, err
-	}
-
-	if len(files) == 0 {
-		return nil, fmt.Errorf("no files found under %s", dir)
-	}
-
-	sort.Strings(files)
-	if start <= 1 {
-		if end != 0 && end < len(files) {
-			files = files[:end]
-		}
-	} else if end != 0 && end < len(files) {
-		files = files[start-1 : end]
-	} else {
-		files = files[start-1:]
-	}
-
+func NdlOcrV22BookText(ocrInfos []OCRInfo, isDetail bool) (*BookText, error) {
+	fmt.Println("ndlocrv2:", ocrInfos, isDetail)
 	var (
 		sb  strings.Builder
-		lbs []int
 		pbs []int
+		lbs []int
 		bbs []*BB
 	)
 	pos := 0
 
-	for _, file := range files {
-		raw, err := os.ReadFile(file)
+	for _, oi := range ocrInfos {
+		files, err := filepath.Glob(filepath.Join(oi.LocalPath, "**/json/*.json"))
 		if err != nil {
 			return nil, err
 		}
 
-		var contents NdlOcrV2Book
-
-		if isDetail {
-			var book NdlOcrV2BookDetail
-			if err := json.Unmarshal(raw, &book); err != nil {
-				return nil, err
-			}
-			contents = NdlOcrV2Book{
-				book.Contents,
-			}
-		} else {
-			if err := json.Unmarshal(raw, &contents); err != nil {
-				return nil, err
-			}
+		if len(files) == 0 {
+			return nil, fmt.Errorf("no files found under %s", oi.LocalPath)
 		}
 
-		for _, page := range contents {
-			pbs = append(pbs, pos)
-			for _, line := range page {
-				if len(line) != 5 {
-					continue
+		sort.Strings(files)
+		if oi.StartPos <= 1 {
+			if oi.EndPos != 0 && oi.EndPos < len(files) {
+				files = files[:oi.EndPos]
+			}
+		} else if oi.EndPos != 0 && oi.EndPos < len(files) {
+			files = files[oi.StartPos-1 : oi.EndPos]
+		} else {
+			files = files[oi.StartPos-1:]
+		}
+
+		for _, file := range files {
+			raw, err := os.ReadFile(file)
+			if err != nil {
+				return nil, err
+			}
+
+			var contents NdlOcrV2Book
+
+			if isDetail {
+				var book NdlOcrV2BookDetail
+				if err := json.Unmarshal(raw, &book); err != nil {
+					return nil, err
 				}
-				sb.WriteString(line[4].(string))
-				lbs = append(lbs, pos)
-				pos += utf8.RuneCountInString(line[4].(string))
-				x := int(line[0].(float64))
-				y := int(line[1].(float64))
-				w := int(line[2].(float64)) - x
-				h := int(line[3].(float64)) - y
-				bbs = append(bbs, &BB{
-					X:      x,
-					Y:      y,
-					Width:  w,
-					Height: h,
-				})
+				contents = NdlOcrV2Book{
+					book.Contents,
+				}
+			} else {
+				if err := json.Unmarshal(raw, &contents); err != nil {
+					return nil, err
+				}
+			}
+
+			for _, page := range contents {
+				pbs = append(pbs, pos)
+				for _, line := range page {
+					if len(line) != 5 {
+						continue
+					}
+					sb.WriteString(line[4].(string))
+					lbs = append(lbs, pos)
+					pos += utf8.RuneCountInString(line[4].(string))
+					x := int(line[0].(float64))
+					y := int(line[1].(float64))
+					w := int(line[2].(float64)) - x
+					h := int(line[3].(float64)) - y
+					bbs = append(bbs, &BB{
+						X:      x,
+						Y:      y,
+						Width:  w,
+						Height: h,
+					})
+				}
 			}
 		}
 	}
+
 	bt := &BookText{
 		Text: sb.String(),
 		Pbs:  pbs,
@@ -112,8 +113,5 @@ func NdlOcrV22BookText(
 		BBs:  bbs,
 	}
 
-	// f, _ := json.MarshalIndent(bt, "", "  ")
-	// dest := filepath.Base(dir) + ".json"
-	// _ = os.WriteFile(dest, f, 0644)
 	return bt, nil
 }

@@ -26,28 +26,8 @@ type NdlOcrV1Book []NdlOcrV1Page
 type NdlOcrV1BoundingBox [4][2]int
 
 // NdlOcrV12BookText convert ndlkotenocr result to *BookText
-func NdlOcrV12BookText(dir string, start, end int) (*BookText, error) {
-	fmt.Println("ndlocrv1:", dir, start, end)
-	files, err := filepath.Glob(filepath.Join(dir, "**/json/*.json"))
-	if err != nil {
-		return nil, err
-	}
-
-	if len(files) == 0 {
-		return nil, fmt.Errorf("no files found under %s", dir)
-	}
-
-	sort.Strings(files)
-	if start <= 1 {
-		if end != 0 && end < len(files) {
-			files = files[:end]
-		}
-	} else if end != 0 && end < len(files) {
-		files = files[start-1 : end]
-	} else {
-		files = files[start-1:]
-	}
-
+func NdlOcrV12BookText(ocrInfos []OCRInfo) (*BookText, error) {
+	fmt.Println("ndlocrv1:", ocrInfos)
 	var (
 		sb  strings.Builder
 		lbs []int
@@ -56,34 +36,57 @@ func NdlOcrV12BookText(dir string, start, end int) (*BookText, error) {
 	)
 	pos := 0
 
-	for _, file := range files {
-		raw, err := os.ReadFile(file)
+	for _, oi := range ocrInfos {
+		files, err := filepath.Glob(filepath.Join(oi.LocalPath, "**/json/*.json"))
 		if err != nil {
 			return nil, err
 		}
 
-		var book NdlOcrV1Book
-		if err := json.Unmarshal(raw, &book); err != nil {
-			return nil, err
+		if len(files) == 0 {
+			return nil, fmt.Errorf("no files found under %s", oi.LocalPath)
 		}
 
-		for _, page := range book {
-			pbs = append(pbs, pos)
-			for _, line := range page {
-				sb.WriteString(line.Text)
-				lbs = append(lbs, pos)
-				pos += utf8.RuneCountInString(line.Text)
-				x := line.BoundingBox[0][0]
-				y := line.BoundingBox[0][1]
-				bbs = append(bbs, &BB{
-					X:      x,
-					Y:      y,
-					Width:  line.BoundingBox[3][0] - x,
-					Height: line.BoundingBox[3][1] - y,
-				})
+		sort.Strings(files)
+		if oi.StartPos <= 1 {
+			if oi.EndPos != 0 && oi.EndPos < len(files) {
+				files = files[:oi.EndPos]
+			}
+		} else if oi.EndPos != 0 && oi.EndPos < len(files) {
+			files = files[oi.StartPos-1 : oi.EndPos]
+		} else {
+			files = files[oi.StartPos-1:]
+		}
+
+		for _, file := range files {
+			raw, err := os.ReadFile(file)
+			if err != nil {
+				return nil, err
+			}
+
+			var book NdlOcrV1Book
+			if err := json.Unmarshal(raw, &book); err != nil {
+				return nil, err
+			}
+
+			for _, page := range book {
+				pbs = append(pbs, pos)
+				for _, line := range page {
+					sb.WriteString(line.Text)
+					lbs = append(lbs, pos)
+					pos += utf8.RuneCountInString(line.Text)
+					x := line.BoundingBox[0][0]
+					y := line.BoundingBox[0][1]
+					bbs = append(bbs, &BB{
+						X:      x,
+						Y:      y,
+						Width:  line.BoundingBox[3][0] - x,
+						Height: line.BoundingBox[3][1] - y,
+					})
+				}
 			}
 		}
 	}
+
 	bt := &BookText{
 		Text: sb.String(),
 		Pbs:  pbs,
@@ -91,8 +94,5 @@ func NdlOcrV12BookText(dir string, start, end int) (*BookText, error) {
 		BBs:  bbs,
 	}
 
-	// f, _ := json.MarshalIndent(bt, "", "  ")
-	// dest := filepath.Base(dir) + ".json"
-	// _ = os.WriteFile(dest, f, 0644)
 	return bt, nil
 }

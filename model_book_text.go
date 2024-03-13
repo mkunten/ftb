@@ -58,22 +58,25 @@ type BookText struct {
 	Images    []string      `json:"images"`
 	MecabType string        `json:"mecabType"`
 	Mecabed   []string      `json:"mecabed"`
-	StartPos  int           `json:"-"`
-	EndPos    int           `json:"-"`
 }
 
 func NewBookText(rp *RegisterParam) (bt *BookText, err error) {
+	ois, err := NewOCRInfos(rp)
+	if err != nil {
+		return nil, err
+	}
+
 	switch rp.Type {
 	case "ndlocrv1":
-		bt, err = NdlOcrV12BookText(rp.LocalPath, rp.StartPos, rp.EndPos)
+		bt, err = NdlOcrV12BookText(ois)
 	case "ndlocrv2":
-		bt, err = NdlOcrV22BookText(rp.LocalPath, rp.StartPos, rp.EndPos, false)
+		bt, err = NdlOcrV22BookText(ois, false)
 	case "ndlocrv2detail":
-		bt, err = NdlOcrV22BookText(rp.LocalPath, rp.StartPos, rp.EndPos, true)
+		bt, err = NdlOcrV22BookText(ois, true)
 	case "ndlocrv3":
-		bt, err = NdlOcrV32BookText(rp.LocalPath, rp.StartPos, rp.EndPos, false)
+		bt, err = NdlOcrV32BookText(ois, false)
 	case "ndlocrv3detail":
-		bt, err = NdlOcrV32BookText(rp.LocalPath, rp.StartPos, rp.EndPos, true)
+		bt, err = NdlOcrV32BookText(ois, true)
 	default:
 		return nil, fmt.Errorf("wrong type: %s", rp.Type)
 	}
@@ -88,8 +91,6 @@ func NewBookText(rp *RegisterParam) (bt *BookText, err error) {
 	bt.Metadata.Cid = rp.Cid
 	bt.Metadata.ELevel = OCR
 	bt.Metadata.Tags = []string{rp.Type}
-	bt.StartPos = rp.StartPos
-	bt.EndPos = rp.EndPos
 
 	if err = bt.SetMecabType(rp.MecabType); err != nil {
 		return nil, err
@@ -129,19 +130,11 @@ func (bt *BookText) FetchKokushoMetadata() error {
 	bt.Metadata.License = mdu.License
 
 	canvases := mdu.Sequences[0].Canvases
-	start := bt.StartPos - 1
-	if start < 0 {
-		start = 0
-	}
-	end := len(canvases)
-	if bt.EndPos != 0 && bt.EndPos < end {
-		end = bt.EndPos
-	}
-	bt.Images = make([]string, end-start)
-	for i := 0; i < end-start; i++ {
-		bt.Images[i] = canvases[i+start].Images[0].Resource.ID
-		idx := strings.Index(bt.Images[i], ".tif/")
-		bt.Images[i] = bt.Images[i][0 : idx+4]
+	bt.Images = make([]string, len(canvases))
+	for i := 0; i < len(canvases); i++ {
+		id := canvases[i].Images[0].Resource.ID
+		idx := strings.Index(id, ".tif/")
+		bt.Images[i] = id[0 : idx+4]
 	}
 
 	return nil

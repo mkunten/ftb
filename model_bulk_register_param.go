@@ -94,29 +94,28 @@ func (brp *BulkRegisterParam) BulkIndexData() (*BulkResult, error) {
 
 	var wg1 sync.WaitGroup
 	var wg2 sync.WaitGroup
-	q1 := make(chan []string, cfg.BulkWorkerNum)
+	q1 := make(chan RegisterParam, cfg.BulkWorkerNum)
 	q2 := make(chan *BookText, cfg.BulkESUnitNum)
 
 	// prepare workers
 	for i := 0; i < cfg.BulkWorkerNum; i++ {
 		// csv row => BookText
 		wg1.Add(1)
-		go func(wg1 *sync.WaitGroup, q1 chan []string, q2 chan *BookText, msgs *BulkResult) {
+		go func(wg1 *sync.WaitGroup, q1 chan RegisterParam, q2 chan *BookText, msgs *BulkResult) {
 			defer wg1.Done()
 			for {
-				row, ok := <-q1
+				rp, ok := <-q1
 				if !ok {
 					break
 				}
 
-				rp := brCsvItem2RegisterParam(brp.Type, row)
-				bt, err := NewBookText(rp)
+				bt, err := NewBookText(&rp)
 				if err != nil {
-					msgs.AddErrf("new %s:%s: %s", row[CsvBid], row[CsvIid], err)
+					msgs.AddErrf("new %s: %s", rp.Bid, err)
 					continue
 				}
 				if err := bt.FetchKokushoMetadata(); err != nil {
-					msgs.AddErrf("fetch %s:%s: %s", row[CsvBid], row[CsvIid], err)
+					msgs.AddErrf("new %s: %s", rp.Bid, err)
 					continue
 				}
 				q2 <- bt
@@ -129,6 +128,8 @@ func (brp *BulkRegisterParam) BulkIndexData() (*BulkResult, error) {
 	wg2.Add(1)
 	go BulkIndexBookDataWorker(&wg2, q2, msgs)
 
+	rp := RegisterParam{}
+
 	// put csv row into workers
 	for {
 		row, err := r.Read()
@@ -136,7 +137,60 @@ func (brp *BulkRegisterParam) BulkIndexData() (*BulkResult, error) {
 			break
 		}
 
-		q1 <- row
+		if row[CsvBid] != rp.Bid {
+			if rp.Bid != "" {
+				q1 <- rp
+			}
+
+			path := row[CsvIid]
+			if cfg.IsBulkSubdir {
+				if i := strings.Index(row[CsvIid], "-"); i != -1 {
+					path = filepath.Join(row[CsvIid][:i], path)
+				}
+			}
+			path = filepath.Join(cfg.BulkSourceDir, path)
+
+			sp, _ := strconv.Atoi(row[CsvStartPos])
+			ep, _ := strconv.Atoi(row[CsvEndPos])
+			mt := ""
+			if len(row) == 7 {
+				mt = row[CsvMecabType]
+			}
+			rp.MecabType = mt
+			rp.LocalPath = []string{path}
+			rp.StartPos = []int{sp}
+			rp.EndPos = []int{ep}
+
+			rp = RegisterParam{
+				Type:      brp.Type,
+				Bid:       row[CsvBid],
+				Cid:       row[CsvCid],
+				MecabType: mt,
+				Iid:       row[CsvIid],
+				LocalPath: []string{path},
+				StartPos:  []int{sp},
+				EndPos:    []int{ep},
+			}
+		} else {
+			path := row[CsvIid]
+			if cfg.IsBulkSubdir {
+				if i := strings.Index(row[CsvIid], "-"); i != -1 {
+					path = filepath.Join(row[CsvIid][:i], path)
+				}
+			}
+			path = filepath.Join(cfg.BulkSourceDir, path)
+
+			sp, _ := strconv.Atoi(row[CsvStartPos])
+			ep, _ := strconv.Atoi(row[CsvEndPos])
+
+			rp.LocalPath = append(rp.LocalPath, path)
+			rp.StartPos = append(rp.StartPos, sp)
+			rp.EndPos = append(rp.EndPos, ep)
+		}
+	}
+
+	if rp.Bid != "" {
+		q1 <- rp
 	}
 	close(q1)
 	wg1.Wait()
@@ -144,34 +198,6 @@ func (brp *BulkRegisterParam) BulkIndexData() (*BulkResult, error) {
 	wg2.Wait()
 
 	return msgs, nil
-}
-
-func brCsvItem2RegisterParam(t string, row []string) *RegisterParam {
-	path := row[CsvIid]
-	if cfg.IsBulkSubdir {
-		if i := strings.Index(row[CsvIid], "-"); i != -1 {
-			path = filepath.Join(row[CsvIid][:i], path)
-		}
-	}
-	path = filepath.Join(cfg.BulkSourceDir, path)
-
-	sp, _ := strconv.Atoi(row[CsvStartPos])
-	ep, _ := strconv.Atoi(row[CsvEndPos])
-	mt := ""
-	if len(row) == 7 {
-		mt = row[CsvMecabType]
-	}
-
-	return &RegisterParam{
-		Type:      t,
-		Bid:       row[CsvBid],
-		Cid:       row[CsvCid],
-		MecabType: mt,
-		Iid:       row[CsvIid],
-		LocalPath: path,
-		StartPos:  sp,
-		EndPos:    ep,
-	}
 }
 
 func BulkIndexBookDataWorker(wg2 *sync.WaitGroup, q2 chan *BookText, msgs *BulkResult) {
