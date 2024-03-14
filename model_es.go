@@ -6,6 +6,7 @@ import (
 	"math"
 	"os"
 
+	"github.com/dgraph-io/ristretto"
 	"github.com/elastic/elastic-transport-go/v8/elastictransport"
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/elastic/go-elasticsearch/v8/typedapi/core/search"
@@ -22,10 +23,11 @@ import (
 type ES struct {
 	Client    *elasticsearch.TypedClient
 	Highlight *types.Highlight
+	Cache     *ristretto.Cache
 }
 
 func (es *ES) Init() error {
-	cfg := elasticsearch.Config{
+	esCfg := elasticsearch.Config{
 		Addresses: cfg.ESAddresses,
 		Logger: &elastictransport.ColorLogger{
 			Output:             os.Stdout,
@@ -34,14 +36,29 @@ func (es *ES) Init() error {
 		},
 	}
 
-	c, err := elasticsearch.NewTypedClient(cfg)
+	c, err := elasticsearch.NewTypedClient(esCfg)
 	if err != nil || c == nil {
 		return err
 	}
 
 	es.Client = c
 
+	cache, err := ristretto.NewCache(&ristretto.Config{
+		NumCounters: 1e7, // 10M
+		MaxCost:     cfg.CacheSize,
+		BufferItems: 64,
+	})
+	if err != nil {
+		return err
+	}
+
+	es.Cache = cache
+
 	return nil
+}
+
+func (es *ES) ClearCache() {
+	es.Cache.Clear()
 }
 
 func (es *ES) InitIndex(isForce bool) error {
@@ -212,7 +229,7 @@ func (es *ES) CountRecord() (*search.Response, error) {
 func (es *ES) SearchText(sp *TextSearchParam) (*search.Response, error) {
 	data, err := es.Client.Search().
 		Index(cfg.IndexName).
-		Query(sp.GetQuery()).
+		Query(sp.GetESQuery()).
 		Highlight(&types.Highlight{
 			Fields: map[string]types.HighlightField{
 				"text": {

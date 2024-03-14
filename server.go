@@ -14,16 +14,16 @@ func main() {
 	// config
 	c, err := NewConfig()
 	if err != nil {
-		log.Fatal("config", err)
+		log.Fatal("config: ", err)
 	}
 	cfg = c
 
 	// elasticsearch
 	if err := es.Init(); err != nil {
-		log.Fatal("es.Init", err)
+		log.Fatal("es.Init: ", err)
 	}
 	if err := es.InitIndex(cfg.ResetES); err != nil {
-		log.Fatal("es.InitIndex", err)
+		log.Fatal("es.InitIndex: ", err)
 	}
 
 	// echo

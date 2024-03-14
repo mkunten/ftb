@@ -12,6 +12,7 @@ type Config struct {
 	BulkESUnitNum int
 	IsBulkSubdir  bool
 	AbortOnError  bool
+	CacheSize     int64
 }
 
 func NewConfig() (*Config, error) {

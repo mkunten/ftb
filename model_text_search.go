@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"slices"
 	"sort"
 	"strings"
 	"sync"
@@ -19,7 +20,36 @@ type TextSearchParam struct {
 	Bids    []string `query:"bid" form:"bid"`
 }
 
-func (sp *TextSearchParam) GetQuery() *types.Query {
+func (sp *TextSearchParam) GetCacheKey() string {
+	w := append([]string{}, sp.Words...)
+	slices.Sort(w)
+	s := "q=" + strings.Join(w, "+")
+
+	if len(sp.ELevels) > 0 {
+		elstrs := make([]string, len(sp.ELevels))
+		for idx, el := range sp.ELevels {
+			elstrs[idx] = el.String()
+			slices.Sort(elstrs)
+			s += "&el=" + strings.Join(elstrs, ",")
+		}
+	}
+
+	if len(sp.Tags) > 0 {
+		t := append([]string{}, sp.Tags...)
+		slices.Sort(t)
+		s += "&tag=" + strings.Join(t, ",")
+	}
+
+	if len(sp.Bids) > 0 {
+		b := append([]string{}, sp.Bids...)
+		slices.Sort(b)
+		s += "&bid=" + strings.Join(b, ",")
+	}
+
+	return s
+}
+
+func (sp *TextSearchParam) GetESQuery() *types.Query {
 	qw := []types.Query{}
 	for _, w := range sp.Words {
 		qw = append(qw, types.Query{

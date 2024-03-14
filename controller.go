@@ -38,9 +38,16 @@ func (es *ES) GetNgramSearch(c echo.Context) error {
 		BindWithDelimiter("bid[]", &sp.Bids, ",").
 		BindWithDelimiter("bid", &sp.Bids, ",").
 		BindError()
+
 	if len(sp.Words) == 0 {
 		return echo.NewHTTPError(http.StatusBadRequest,
 			fmt.Errorf("query missing"))
+	}
+
+	key := sp.GetCacheKey()
+	cache, found := es.Cache.Get(key)
+	if found {
+		return c.JSON(http.StatusOK, cache.(*TextSearchResult))
 	}
 
 	data, err := es.SearchText(&sp)
@@ -49,6 +56,8 @@ func (es *ES) GetNgramSearch(c echo.Context) error {
 	if err != nil {
 		return echo.NewHTTPError(http.StatusBadRequest, err)
 	}
+
+	es.Cache.Set(key, sr, 1)
 
 	return c.JSON(http.StatusOK, sr)
 }

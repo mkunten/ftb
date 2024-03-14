@@ -1,9 +1,14 @@
+# elasticsearch
 ResetES = false
 ESAddresses = ["http://localhost:9200"]
 IndexName = "text"
+# mecab
 MecabDir = "/usr/lib/x86_64-linux-gnu/mecab/dic"
+# bulk
 BulkSourceDir = "/home/mkunten/Downloads/dev/ocr/v3"
 BulkWorkerNum = 4
-BulkESUnitNum = 5000
+BulkESUnitNum = 2000
 IsBulkSubdir = true
 AbortOnError = true
+# cache
+CacheSize = 0x40000000 # 2^30 = 1GB
