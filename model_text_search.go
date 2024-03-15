@@ -18,6 +18,8 @@ type TextSearchParam struct {
 	ELevels []ELevel `query:"el" form:"el"`
 	Tags    []string `query:"tag" form:"tag"`
 	Bids    []string `query:"bid" form:"bid"`
+	Page    int      `query:"page" form:"query"`
+	PerPage int      `query:"perPage" from:"perPage"`
 }
 
 func (sp *TextSearchParam) GetCacheKey() string {
@@ -129,11 +131,11 @@ type TextSearchResult struct {
 		Keyword TextSearchKeywordFilter `json:"keyword"`
 		Tag     []LabelValue            `json:"tag"`
 	} `json:"filters"`
-	Bibl  map[string]*BookMetadata `json:"bibl"`
-	Count struct {
-		Total int `json:"total"`
-	} `json:"count"`
+	Bibl    map[string]*BookMetadata  `json:"bibl"`
 	Matches []*PartialtextWithContext `json:"match"`
+	Page    int                       `json:"page"`
+	PerPage int                       `json:"perPage"`
+	Total   int                       `json:"total"`
 }
 
 /* BookSource for es search result */

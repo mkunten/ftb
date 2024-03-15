@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 	"net/http"
 	"os"
 
@@ -37,29 +38,64 @@ func (es *ES) GetNgramSearch(c echo.Context) error {
 		BindWithDelimiter("tag", &sp.Tags, ",").
 		BindWithDelimiter("bid[]", &sp.Bids, ",").
 		BindWithDelimiter("bid", &sp.Bids, ",").
+		Int("page", &sp.Page).
+		Int("perPage", &sp.PerPage).
 		BindError()
+	if err != nil {
+		return echo.NewHTTPError(http.StatusBadRequest,
+			fmt.Errorf("query error: %s", err))
+	}
 
 	if len(sp.Words) == 0 {
 		return echo.NewHTTPError(http.StatusBadRequest,
 			fmt.Errorf("query missing"))
 	}
 
+	var sr *TextSearchResult
+
 	key := sp.GetCacheKey()
 	cache, found := es.Cache.Get(key)
 	if found {
-		return c.JSON(http.StatusOK, cache.(*TextSearchResult))
+		sr = cache.(*TextSearchResult)
+	} else {
+		data, err := es.SearchText(&sp)
+
+		sr, err = NewTextSearchResult(&sp, data)
+		if err != nil {
+			return echo.NewHTTPError(http.StatusBadRequest, err)
+		}
+
+		es.Cache.Set(key, sr, 1)
 	}
 
-	data, err := es.SearchText(&sp)
-
-	sr, err := NewTextSearchResult(&sp, data)
-	if err != nil {
-		return echo.NewHTTPError(http.StatusBadRequest, err)
+	total := len(sr.Matches)
+	page := sp.Page
+	if page == 0 {
+		page = 1
+	}
+	perPage := sp.PerPage
+	if perPage == 0 {
+		perPage = 20
+	}
+	from := (page - 1) * perPage
+	if from > total || from < 0 {
+		return echo.NewHTTPError(http.StatusBadRequest,
+			fmt.Errorf("page should be: 1 <= page=%d <= %d",
+				page, int(math.Ceil(float64(total)/float64(perPage)))))
+	}
+	till := from + perPage
+	if till > total {
+		till = total
 	}
 
-	es.Cache.Set(key, sr, 1)
-
-	return c.JSON(http.StatusOK, sr)
+	return c.JSON(http.StatusOK, &TextSearchResult{
+		Filters: sr.Filters,
+		Bibl:    sr.Bibl,
+		Matches: sr.Matches[from:till],
+		Total:   total,
+		Page:    page,
+		PerPage: perPage,
+	})
 }
 
 // /* POST */
