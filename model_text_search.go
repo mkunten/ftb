@@ -67,7 +67,7 @@ func (sp *TextSearchParam) GetESQuery() *types.Query {
 		Bool: &types.BoolQuery{
 			Filter: []types.Query{{
 				Bool: &types.BoolQuery{
-					Should: qw,
+					Must: qw,
 				},
 			}},
 		},
