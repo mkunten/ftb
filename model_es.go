@@ -57,10 +57,6 @@ func (es *ES) Init() error {
 	return nil
 }
 
-func (es *ES) ClearCache() {
-	es.Cache.Clear()
-}
-
 func (es *ES) InitIndex(isForce bool) error {
 	exists, err := es.Client.Indices.Exists(cfg.IndexName).
 		IsSuccess(context.Background())

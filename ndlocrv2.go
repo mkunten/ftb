@@ -30,7 +30,6 @@ type NdlOcrV2BookDetail struct {
 
 // OCRResult2BookText convert ndlkotenocr result to *BookText
 func NdlOcrV22BookText(ocrInfos []OCRInfo, isDetail bool) (*BookText, error) {
-	fmt.Println("ndlocrv2:", ocrInfos, isDetail)
 	var (
 		sb  strings.Builder
 		pbs []int

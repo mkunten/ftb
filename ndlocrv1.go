@@ -27,7 +27,6 @@ type NdlOcrV1BoundingBox [4][2]int
 
 // NdlOcrV12BookText convert ndlkotenocr result to *BookText
 func NdlOcrV12BookText(ocrInfos []OCRInfo) (*BookText, error) {
-	fmt.Println("ndlocrv1:", ocrInfos)
 	var (
 		sb  strings.Builder
 		lbs []int

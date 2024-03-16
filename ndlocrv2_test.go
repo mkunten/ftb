@@ -10,6 +10,8 @@ import (
 )
 
 func TestOcrV2Result2BookText(t *testing.T) {
+	t.Parallel()
+
 	t.Run("OcrV2Result2BookText", func(t *testing.T) {
 		testOcrV2Result2BookText(t, "0001-000101", 1, 23, false)
 		testOcrV2Result2BookText(t, "0001-000102", 1, 101, false)
@@ -17,6 +19,8 @@ func TestOcrV2Result2BookText(t *testing.T) {
 }
 
 func TestOcrV2DetailResult2BookText(t *testing.T) {
+	t.Parallel()
+
 	t.Run("OcrV2DetailResult2BookText", func(t *testing.T) {
 		testOcrV2Result2BookText(t, "0001-000101", 1, 23, true)
 	})
@@ -24,6 +28,7 @@ func TestOcrV2DetailResult2BookText(t *testing.T) {
 
 func testOcrV2Result2BookText(t *testing.T, dir string, startPos, endPos int, isDetail bool) {
 	t.Helper()
+
 	s := "ndlocrv2"
 	if isDetail {
 		s += "detail"
@@ -58,6 +63,8 @@ func testOcrV2Result2BookText(t *testing.T, dir string, startPos, endPos int, is
 }
 
 func TestOcrV2BookTextGetText(t *testing.T) {
+	t.Parallel()
+
 	t.Run("BookTextGetText", func(t *testing.T) {
 		testOcrV2BookTextGetText(t, "0001-000101", 18, 3, "鯰の為のその日は暮ぬ秋の風", false)
 		testOcrV2BookTextGetText(t, "0001-000102", 1, 4, "尾陽蓬ニ左檀木堂主人荷今子集を", false)

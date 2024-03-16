@@ -8,7 +8,6 @@ import (
 )
 
 var cfg *Config
-var es = &ES{}
 
 func main() {
 	// config
@@ -19,6 +18,7 @@ func main() {
 	cfg = c
 
 	// elasticsearch
+	var es = &ES{}
 	if err := es.Init(); err != nil {
 		log.Fatal("es.Init: ", err)
 	}
@@ -33,10 +33,10 @@ func main() {
 	e.Use(middleware.CORS())
 
 	api := e.Group("/api")
-	api.GET("/countRecord", es.GetCount)
-	api.GET("/search", es.GetNgramSearch)
-	api.POST("/register", es.PostRegister)
-	api.POST("/bulkRegister", es.PostBulkRegister)
+	api.GET("/countRecord", GetCount(es))
+	api.GET("/search", GetNgramSearch(es))
+	api.POST("/register", PostRegister(es))
+	api.POST("/bulkRegister", PostBulkRegister(es))
 
 	e.Logger.Fatal(e.Start(":1323"))
 }
