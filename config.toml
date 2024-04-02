@@ -5,10 +5,10 @@ IndexName = "text"
 # mecab
 MecabDir = "/usr/lib/x86_64-linux-gnu/mecab/dic"
 # bulk
-BulkSourceDir = "/home/mkunten/Downloads/dev/ocr/v3"
+BulkSourceDir = "/opt/ftb/bulk"
 BulkWorkerNum = 4
-BulkESUnitNum = 2000
+BulkESUnitNum = 5000
 IsBulkSubdir = true
-AbortOnError = true
+AbortOnError = false
 # cache
 CacheSize = 0x40000000 # 2^30 = 1GB

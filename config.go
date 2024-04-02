@@ -1,6 +1,10 @@
 package main
 
-import "github.com/BurntSushi/toml"
+import (
+	"os"
+
+	"github.com/BurntSushi/toml"
+)
 
 type Config struct {
 	ResetES       bool
@@ -21,6 +25,13 @@ func NewConfig() (*Config, error) {
 
 	if _, err := toml.DecodeFile(f, &cfg); err != nil {
 		return nil, err
+	}
+
+	f = "config.toml.local"
+	if _, err := os.Stat(f); err == nil {
+		if _, err := toml.DecodeFile(f, &cfg); err != nil {
+			return nil, err
+		}
 	}
 
 	return &cfg, nil
