@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"slices"
 	"sort"
+	"strconv"
 	"strings"
 	"sync"
 
@@ -18,6 +19,7 @@ type TextSearchParam struct {
 	ELevels []ELevel `query:"el" form:"el"`
 	Tags    []string `query:"tag" form:"tag"`
 	Bids    []string `query:"bid" form:"bid"`
+	Gaps    int      `query:"gaps" form:"gaps"`
 	Page    int      `query:"page" form:"query"`
 	PerPage int      `query:"perPage" from:"perPage"`
 }
@@ -48,6 +50,10 @@ func (sp *TextSearchParam) GetCacheKey() string {
 		s += "&bid=" + strings.Join(b, ",")
 	}
 
+	if sp.Gaps != 0 {
+		s += "&gaps=" + strconv.Itoa(sp.Gaps)
+	}
+
 	return s
 }
 
@@ -68,6 +74,86 @@ func (sp *TextSearchParam) GetESQuery() *types.Query {
 			Filter: []types.Query{{
 				Bool: &types.BoolQuery{
 					Must: qw,
+				},
+			}},
+		},
+	}
+
+	if len(sp.ELevels) > 0 {
+		elstrs := make([]string, len(sp.ELevels))
+		for idx, el := range sp.ELevels {
+			elstrs[idx] = el.String()
+		}
+		q.Bool.Filter = append(q.Bool.Filter, types.Query{
+			Nested: &types.NestedQuery{
+				Path: "metadata",
+				Query: &types.Query{
+					Terms: &types.TermsQuery{
+						TermsQuery: map[string]types.TermsQueryField{
+							"metadata.elevel": elstrs,
+						},
+					},
+				},
+			},
+		})
+	}
+
+	if len(sp.Tags) > 0 {
+		q.Bool.Filter = append(q.Bool.Filter, types.Query{
+			Nested: &types.NestedQuery{
+				Path: "metadata",
+				Query: &types.Query{
+					Terms: &types.TermsQuery{
+						TermsQuery: map[string]types.TermsQueryField{
+							"metadata.tag": sp.Tags,
+						},
+					},
+				},
+			},
+		})
+	}
+
+	if len(sp.Bids) > 0 {
+		q.Bool.Filter = append(q.Bool.Filter, types.Query{
+			Nested: &types.NestedQuery{
+				Path: "metadata",
+				Query: &types.Query{
+					Terms: &types.TermsQuery{
+						TermsQuery: map[string]types.TermsQueryField{
+							"metadata.bid": sp.Bids,
+						},
+					},
+				},
+			},
+		})
+	}
+
+	return q
+}
+
+func (sp *TextSearchParam) GetESIntervalsQuery() *types.Query {
+	intervals := []types.Intervals{}
+	for _, w := range sp.Words {
+		intervals = append(intervals, types.Intervals{
+			Match: &types.IntervalsMatch{
+				Ordered: Bool2Pt(true),
+				MaxGaps: Int2Pt(0),
+				Query:   w,
+			},
+		})
+	}
+
+	q := &types.Query{
+		Bool: &types.BoolQuery{
+			Filter: []types.Query{{
+				Intervals: map[string]types.IntervalsQuery{
+					cfg.IndexName: {
+						AllOf: &types.IntervalsAllOf{
+							Ordered:   Bool2Pt(true),
+							MaxGaps:   Int2Pt(sp.Gaps + 1),
+							Intervals: intervals,
+						},
+					},
 				},
 			}},
 		},

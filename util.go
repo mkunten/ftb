@@ -21,6 +21,10 @@ func Str2Pt(s string) *string {
 	return &s
 }
 
+func Bool2Pt(b bool) *bool {
+	return &b
+}
+
 func MecabFilter(mecabType, text string) ([]string, error) {
 	mecabTypes := []string{
 		"jodai",

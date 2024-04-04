@@ -223,6 +223,13 @@ func (es *ES) CountRecord() (*search.Response, error) {
 }
 
 func (es *ES) SearchText(sp *TextSearchParam) (*search.Response, error) {
+	if sp.Gaps == 0 {
+		return es.SearchTextNormal(sp)
+	}
+	return es.SearchTextIntervals(sp)
+}
+
+func (es *ES) SearchTextNormal(sp *TextSearchParam) (*search.Response, error) {
 	data, err := es.Client.Search().
 		Index(cfg.IndexName).
 		Query(sp.GetESQuery()).
@@ -234,6 +241,36 @@ func (es *ES) SearchText(sp *TextSearchParam) (*search.Response, error) {
 					FragmentSize:          Int2Pt(50),
 					NumberOfFragments:     Int2Pt(math.MaxInt16),
 					NoMatchSize:           Int2Pt(0),
+				},
+			},
+			TagsSchema: &highlightertagsschema.Styled,
+		}).
+		Sort(&types.SortOptions{
+			SortOptions: map[string]types.FieldSort{
+				"metadata.bid": {
+					Nested: &types.NestedSortValue{
+						Path: "metadata",
+					},
+					Order: &sortorder.Asc,
+				},
+			},
+		}).
+		Do(context.Background())
+	if err != nil {
+		return nil, err
+	}
+
+	return data, nil
+}
+
+func (es *ES) SearchTextIntervals(sp *TextSearchParam) (*search.Response, error) {
+	data, err := es.Client.Search().
+		Index(cfg.IndexName).
+		Query(sp.GetESIntervalsQuery()).
+		Highlight(&types.Highlight{
+			Fields: map[string]types.HighlightField{
+				"text": {
+					Type: &highlightertype.Unified,
 				},
 			},
 			TagsSchema: &highlightertagsschema.Styled,

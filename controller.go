@@ -41,6 +41,7 @@ func GetNgramSearch(es *ES) func(c echo.Context) error {
 			BindWithDelimiter("tag", &sp.Tags, ",").
 			BindWithDelimiter("bid[]", &sp.Bids, ",").
 			BindWithDelimiter("bid", &sp.Bids, ",").
+			Int("gaps", &sp.Gaps).
 			Int("page", &sp.Page).
 			Int("perPage", &sp.PerPage).
 			BindError()
