@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"math"
 	"net/http"
@@ -10,6 +11,32 @@ import (
 )
 
 // /* GET */
+
+// GetOCRRaw
+func GetOCRRaw(es *ES) func(c echo.Context) error {
+	return func(c echo.Context) error {
+		var params struct {
+			ID string `param:"id"`
+		}
+		err := c.Bind(&params)
+		if err != nil {
+			return echo.NewHTTPError(http.StatusBadRequest, err)
+		}
+
+		fmt.Println(params.ID)
+		data, err := es.Get(params.ID)
+		if err != nil {
+			return echo.NewHTTPError(http.StatusBadRequest, err)
+		}
+
+		var bt BookText
+		err = json.Unmarshal(data.Source_, &bt)
+		if err != nil {
+			return echo.NewHTTPError(http.StatusBadRequest, err)
+		}
+		return c.String(http.StatusOK, bt.Text)
+	}
+}
 
 // GetCount
 func GetCount(es *ES) func(c echo.Context) error {

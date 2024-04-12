@@ -33,6 +33,7 @@ func main() {
 	e.Use(middleware.CORS())
 
 	api := e.Group("/api")
+	api.GET("/ocrraw/:id", GetOCRRaw(es))
 	api.GET("/countRecord", GetCount(es))
 	api.GET("/search", GetNgramSearch(es))
 	api.POST("/register", PostRegister(es))

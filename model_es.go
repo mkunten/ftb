@@ -9,6 +9,7 @@ import (
 	"github.com/dgraph-io/ristretto"
 	"github.com/elastic/elastic-transport-go/v8/elastictransport"
 	"github.com/elastic/go-elasticsearch/v8"
+	"github.com/elastic/go-elasticsearch/v8/typedapi/core/get"
 	"github.com/elastic/go-elasticsearch/v8/typedapi/core/search"
 	"github.com/elastic/go-elasticsearch/v8/typedapi/indices/create"
 	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
@@ -185,6 +186,17 @@ func (es *ES) IndexBookData(bt *BookText) error {
 
 	fmt.Printf("document added: %v\n", res)
 	return nil
+}
+
+func (es *ES) Get(id string) (*get.Response, error) {
+	data, err := es.Client.
+		Get(cfg.IndexName, id).
+		Do(context.Background())
+	if err != nil {
+		return nil, err
+	}
+
+	return data, nil
 }
 
 func (es *ES) CountRecord() (*search.Response, error) {
