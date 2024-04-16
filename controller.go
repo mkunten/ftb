@@ -167,7 +167,7 @@ func PostRegister(es *ES) func(c echo.Context) error {
 		bt, err := NewBookText(&rp)
 		if err != nil {
 			return echo.NewHTTPError(
-				http.StatusBadRequest, fmt.Errorf("createESDataFromDir: %s", err))
+				http.StatusBadRequest, fmt.Errorf("NewBookText: %s", err))
 		}
 
 		// set metadata from manifest

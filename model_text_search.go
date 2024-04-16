@@ -79,14 +79,9 @@ func (sp *TextSearchParam) GetESQuery() *types.Query {
 			elstrs[idx] = el.String()
 		}
 		q.Bool.Filter = append(q.Bool.Filter, types.Query{
-			Nested: &types.NestedQuery{
-				Path: "metadata",
-				Query: &types.Query{
-					Terms: &types.TermsQuery{
-						TermsQuery: map[string]types.TermsQueryField{
-							"metadata.elevel": elstrs,
-						},
-					},
+			Terms: &types.TermsQuery{
+				TermsQuery: map[string]types.TermsQueryField{
+					"elevel": elstrs,
 				},
 			},
 		})
@@ -94,14 +89,9 @@ func (sp *TextSearchParam) GetESQuery() *types.Query {
 
 	if len(sp.Tags) > 0 {
 		q.Bool.Filter = append(q.Bool.Filter, types.Query{
-			Nested: &types.NestedQuery{
-				Path: "metadata",
-				Query: &types.Query{
-					Terms: &types.TermsQuery{
-						TermsQuery: map[string]types.TermsQueryField{
-							"metadata.tag": sp.Tags,
-						},
-					},
+			Terms: &types.TermsQuery{
+				TermsQuery: map[string]types.TermsQueryField{
+					"tag": sp.Tags,
 				},
 			},
 		})
@@ -109,14 +99,9 @@ func (sp *TextSearchParam) GetESQuery() *types.Query {
 
 	if len(sp.Bids) > 0 {
 		q.Bool.Filter = append(q.Bool.Filter, types.Query{
-			Nested: &types.NestedQuery{
-				Path: "metadata",
-				Query: &types.Query{
-					Terms: &types.TermsQuery{
-						TermsQuery: map[string]types.TermsQueryField{
-							"metadata.bid": sp.Bids,
-						},
-					},
+			Terms: &types.TermsQuery{
+				TermsQuery: map[string]types.TermsQueryField{
+					"bid": sp.Bids,
 				},
 			},
 		})
@@ -138,21 +123,11 @@ type TextSearchResult struct {
 	Total   int                       `json:"total"`
 }
 
-/* BookSource for es search result */
-type BookSource struct {
-	Metadata *BookMetadata `json:"metadata"`
-	Text     string        `json:"text"`
-	Pbs      []int         `json:"pbs"`
-	Lbs      []int         `json:"lbs"`
-	BBs      []*BB         `json:"bbs"`
-	Images   []string      `json:"images"`
-}
-
 type TextSearchKeywordFilter map[string]map[string]map[string]map[string]int
 type Q2Data struct {
-	Id         string
-	BookSource *BookSource
-	Match      string
+	Id       string
+	BookText *BookText
+	Match    string
 }
 
 // NewTextSearchResult
@@ -188,8 +163,8 @@ func NewTextSearchResult(sp *TextSearchParam, res *search.Response) (*TextSearch
 					break
 				}
 
-				var bs BookSource
-				if err := json.Unmarshal(hit.Source_, &bs); err != nil {
+				var bt BookText
+				if err := json.Unmarshal(hit.Source_, &bt); err != nil {
 					mu.Lock()
 					*errs = append(*errs, err.Error())
 					mu.Unlock()
@@ -198,15 +173,15 @@ func NewTextSearchResult(sp *TextSearchParam, res *search.Response) (*TextSearch
 
 				if _, ok := bibls[hit.Id_]; !ok {
 					mu.Lock()
-					bibls[hit.Id_] = bs.Metadata
+					bibls[hit.Id_] = bt.GetMetadata()
 					mu.Unlock()
 				}
 
-				if hit.Id_[:9] != bs.Metadata.Bid {
+				if hit.Id_[:9] != bt.Bid {
 					mu.Lock()
 					*errs = append(
 						*errs,
-						fmt.Sprintf("q1:id:%s; bid:%s", hit.Id_, bs.Metadata.Bid),
+						fmt.Sprintf("q1:id:%s; bid:%s", hit.Id_, bt.Bid),
 					)
 					mu.Unlock()
 					continue
@@ -214,9 +189,9 @@ func NewTextSearchResult(sp *TextSearchParam, res *search.Response) (*TextSearch
 
 				for _, match := range hit.Highlight["text"] {
 					q2 <- &Q2Data{
-						Id:         hit.Id_,
-						BookSource: &bs,
-						Match:      match,
+						Id:       hit.Id_,
+						BookText: &bt,
+						Match:    match,
 					}
 				}
 			}
@@ -238,8 +213,8 @@ func NewTextSearchResult(sp *TextSearchParam, res *search.Response) (*TextSearch
 				}
 
 				id := q.Id
-				bs := q.BookSource
-				elevel := bs.Metadata.ELevel.String()
+				bt := q.BookText
+				elevel := bt.ELevel.String()
 				s := q.Match
 				t := ""
 				offset := 0
@@ -288,7 +263,7 @@ func NewTextSearchResult(sp *TextSearchParam, res *search.Response) (*TextSearch
 
 				t += s[offset:]
 
-				pwc, err := NewPartialTextWithContext(id, bs, s, t)
+				pwc, err := NewPartialTextWithContext(id, bt, s, t)
 				if err != nil {
 					mu.Lock()
 					*errs = append(*errs, err.Error())

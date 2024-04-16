@@ -241,7 +241,7 @@ func BulkIndexBookDataWorker(wg2 *sync.WaitGroup, q2 chan *BookText, msgs *BulkR
 
 		data, err := json.Marshal(bt)
 		if err != nil {
-			msgs.AddErrf("cannot encode BookText:%s: %s", bt.Metadata.Bid, err)
+			msgs.AddErrf("cannot encode BookText:%s: %s", bt.Bid, err)
 			break
 		}
 

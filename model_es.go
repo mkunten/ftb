@@ -83,19 +83,6 @@ func (es *ES) InitIndex(isForce bool) error {
 		"value": types.NewKeywordProperty(),
 	}
 
-	// metadataProp
-	metadataProp := types.NewNestedProperty()
-	metadataProp.Properties = map[string]types.Property{
-		"bid":         types.NewKeywordProperty(),
-		"cid":         types.NewKeywordProperty(),
-		"elevel":      types.NewKeywordProperty(),
-		"tags":        types.NewKeywordProperty(),
-		"metadata":    labelValueProp,
-		"label":       types.NewKeywordProperty(),
-		"attribution": types.NewKeywordProperty(),
-		"license":     types.NewKeywordProperty(),
-	}
-
 	// textProp
 	// icu => bigram
 	var (
@@ -151,14 +138,21 @@ func (es *ES) InitIndex(isForce bool) error {
 	m := &types.TypeMapping{
 		Dynamic: &dynamicmapping.Strict,
 		Properties: map[string]types.Property{
-			"metadata":  metadataProp,
-			"text":      textProp,
-			"pbs":       types.NewIntegerNumberProperty(),
-			"lbs":       types.NewIntegerNumberProperty(),
-			"bbs":       bbsProp,
-			"images":    types.NewKeywordProperty(),
-			"mecabType": types.NewKeywordProperty(),
-			"mecabed":   types.NewKeywordProperty(),
+			"bid":         types.NewKeywordProperty(),
+			"cid":         types.NewKeywordProperty(),
+			"elevel":      types.NewKeywordProperty(),
+			"tags":        types.NewKeywordProperty(),
+			"label":       types.NewKeywordProperty(),
+			"metadata":    labelValueProp,
+			"attribution": types.NewKeywordProperty(),
+			"license":     types.NewKeywordProperty(),
+			"images":      types.NewKeywordProperty(),
+			"text":        textProp,
+			"pbs":         types.NewIntegerNumberProperty(),
+			"lbs":         types.NewIntegerNumberProperty(),
+			"bbs":         bbsProp,
+			"mecabType":   types.NewKeywordProperty(),
+			"mecabed":     types.NewKeywordProperty(),
 		},
 	}
 	_, err = es.Client.Indices.Create(cfg.IndexName).
@@ -204,14 +198,9 @@ func (es *ES) CountRecord() (*search.Response, error) {
 	for _, elevel := range ELevelValues() {
 		key := elevel.String()
 		filters[key] = &types.Query{
-			Nested: &types.NestedQuery{
-				Path: "metadata",
-				Query: &types.Query{
-					Match: map[string]types.MatchQuery{
-						"metadata.elevel": {
-							Query: key,
-						},
-					},
+			Term: map[string]types.TermQuery{
+				"elevel": {
+					Value: key,
 				},
 			},
 		}
@@ -252,10 +241,7 @@ func (es *ES) SearchText(sp *TextSearchParam) (*search.Response, error) {
 		}).
 		Sort(&types.SortOptions{
 			SortOptions: map[string]types.FieldSort{
-				"metadata.bid": {
-					Nested: &types.NestedSortValue{
-						Path: "metadata",
-					},
+				"bid": {
 					Order: &sortorder.Asc,
 				},
 			},
