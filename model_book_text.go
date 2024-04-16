@@ -9,21 +9,13 @@ import (
 	"strings"
 )
 
-/* BookMetadata */
-type BookMetadata struct {
-	Bid         string        `json:"bid"`
-	Cid         string        `json:"cid"`
-	ELevel      ELevel        `json:"elevel"`
-	Tags        []string      `json:"tags"`
-	Metadata    []*LabelValue `json:"metadata"`
+/* IIIFManifestMetadata */
+type IIIFManifestMetadata struct {
 	Label       string        `json:"label"`
+	Metadata    []*LabelValue `json:"metadata"`
 	Attribution string        `json:"attribution"`
 	License     string        `json:"license"`
-}
-
-type BookMetadataForUnmarshal struct {
-	BookMetadata
-	Sequences []struct {
+	Sequences   []struct {
 		Canvases []struct {
 			Images []struct {
 				Resource struct {
@@ -50,14 +42,36 @@ type BB struct {
 
 /* BookText */
 type BookText struct {
-	Metadata  *BookMetadata `json:"metadata"`
-	Text      string        `json:"text"`
-	Pbs       []int         `json:"pbs"`
-	Lbs       []int         `json:"lbs"`
-	BBs       []*BB         `json:"bbs"`
-	Images    []string      `json:"images"`
-	MecabType string        `json:"mecabType"`
-	Mecabed   []string      `json:"mecabed"`
+	Bid    string   `json:"bid"`
+	Cid    string   `json:"cid"`
+	ELevel ELevel   `json:"elevel"`
+	Tags   []string `json:"tags"`
+	// derived from IIIF manifest
+	Label       string        `json:"label"`
+	Metadata    []*LabelValue `json:"metadata"`
+	Attribution string        `json:"attribution"`
+	License     string        `json:"license"`
+	Images      []string      `json:"images"`
+	// derived from OCR
+	Text string `json:"text"`
+	Pbs  []int  `json:"pbs"`
+	Lbs  []int  `json:"lbs"`
+	BBs  []*BB  `json:"bbs"`
+	// derived from MeCab
+	MecabType string   `json:"mecabType"`
+	Mecabed   []string `json:"mecabed"`
+}
+
+/* BookMetadata */
+type BookMetadata struct {
+	Bid         string        `json:"bid"`
+	Cid         string        `json:"cid"`
+	ELevel      ELevel        `json:"elevel"`
+	Tags        []string      `json:"tags"`
+	Label       string        `json:"label"`
+	Metadata    []*LabelValue `json:"metadata"`
+	Attribution string        `json:"attribution"`
+	License     string        `json:"license"`
 }
 
 func NewBookText(rp *RegisterParam) (bt *BookText, err error) {
@@ -84,13 +98,10 @@ func NewBookText(rp *RegisterParam) (bt *BookText, err error) {
 		return nil, err
 	}
 
-	if bt.Metadata == nil {
-		bt.Metadata = &BookMetadata{}
-	}
-	bt.Metadata.Bid = rp.Bid
-	bt.Metadata.Cid = rp.Cid
-	bt.Metadata.ELevel = OCR
-	bt.Metadata.Tags = []string{rp.Type}
+	bt.Bid = rp.Bid
+	bt.Cid = rp.Cid
+	bt.ELevel = OCR
+	bt.Tags = []string{rp.Type}
 
 	if err = bt.SetMecabType(rp.MecabType); err != nil {
 		return nil, err
@@ -100,12 +111,25 @@ func NewBookText(rp *RegisterParam) (bt *BookText, err error) {
 }
 
 func (bt *BookText) GetId_() string {
-	return fmt.Sprintf("%s_%s_%s", bt.Metadata.Bid, bt.Metadata.ELevel,
-		strings.Join(bt.Metadata.Tags, "_"))
+	return fmt.Sprintf("%s_%s_%s", bt.Bid, bt.ELevel,
+		strings.Join(bt.Tags, "_"))
+}
+
+func (bt *BookText) GetMetadata() *BookMetadata {
+	return &BookMetadata{
+		Bid:         bt.Bid,
+		Cid:         bt.Cid,
+		ELevel:      bt.ELevel,
+		Tags:        bt.Tags,
+		Label:       bt.Label,
+		Metadata:    bt.Metadata,
+		Attribution: bt.Attribution,
+		License:     bt.License,
+	}
 }
 
 func (bt *BookText) FetchKokushoMetadata() error {
-	url := "https://kokusho.nijl.ac.jp/biblio/" + bt.Metadata.Bid + "/manifest"
+	url := "https://kokusho.nijl.ac.jp/biblio/" + bt.Bid + "/manifest"
 	resp, err := http.Get(url)
 	if err != nil {
 		return fmt.Errorf("http request failed: %s: %s", url, err)
@@ -116,20 +140,17 @@ func (bt *BookText) FetchKokushoMetadata() error {
 		return fmt.Errorf("response reading failed: %s: %s", url, err)
 	}
 
-	var mdu BookMetadataForUnmarshal
-	if err := json.Unmarshal(data, &mdu); err != nil {
+	var m IIIFManifestMetadata
+	if err := json.Unmarshal(data, &m); err != nil {
 		return fmt.Errorf("response parsing failed: %s: %s", url, err)
 	}
 
-	if bt.Metadata == nil {
-		bt.Metadata = &BookMetadata{}
-	}
-	bt.Metadata.Metadata = mdu.Metadata
-	bt.Metadata.Label = mdu.Label
-	bt.Metadata.Attribution = mdu.Attribution
-	bt.Metadata.License = mdu.License
+	bt.Label = m.Label
+	bt.Metadata = m.Metadata
+	bt.Attribution = m.Attribution
+	bt.License = m.License
 
-	canvases := mdu.Sequences[0].Canvases
+	canvases := m.Sequences[0].Canvases
 	bt.Images = make([]string, len(canvases))
 	for i := 0; i < len(canvases); i++ {
 		id := canvases[i].Images[0].Resource.ID
